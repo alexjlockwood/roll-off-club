@@ -22,5 +22,6 @@ This site describes how to timeout Roll Off in Fall Guys.
     * Fun facts
     * FAQ
     * Glossary
+* Code cleanup
     * Move existing gifs to git repo
-g
+    * Improve overall theme and navigation
