@@ -1,4 +1,24 @@
+# Project information
 site_name: Roll Off Timeouts
+site_description: 'How to timeout Roll Off in Fall Guys'
+site_author: 'Alex Lockwood'
+site_url: 'https://alexjlockwood.github.io/roll-off-timeouts/'
+remote_branch: gh-pages
+
+docs_dir: docs
+
+# Repository
+repo_name: 'roll-off-timeouts'
+repo_url: 'https://github.com/alexjlockwood/roll-off-timeouts'
+
+# Navigation
+nav:
+  - 'Overview': index.md
+  - 'Hard variations':
+      - hard-variations/5WallerGrandCanyon.md
+      - hard-variations/ClosedOpenGrandCanyon.md
+      - hard-variations/5WallerOpenClosed.md
+      - hard-variations/ClosedOpenOpenClosed.md
 
 # Configuration
 theme:
@@ -9,3 +29,19 @@ theme:
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.betterem
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/alexjlockwood
