@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Roll Off Timeouts
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'orange'
+  font:
+    text: 'IBM Plex Sans'
+    code: 'IBM Plex Mono'
