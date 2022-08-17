@@ -1,31 +1,42 @@
 # Project information
-site_name: Roll Off Timeouts
-site_description: 'How to timeout Roll Off in Fall Guys'
+site_name: Roll Call Club
+site_description: 'Everything you need to know about Roll Off in Fall Guys'
 site_author: 'Alex Lockwood'
-site_url: 'https://alexjlockwood.github.io/roll-off-timeouts/'
+site_url: 'https://alexjlockwood.github.io/roll-call-club'
 remote_branch: gh-pages
-
 docs_dir: docs
 
 # Repository
-repo_name: 'roll-off-timeouts'
-repo_url: 'https://github.com/alexjlockwood/roll-off-timeouts'
+repo_name: 'roll-call-club'
+repo_url: 'https://github.com/alexjlockwood/roll-call-club'
 
 # Navigation
 nav:
   - 'Overview': index.md
-  - 'Hard variations':
-      - hard-variations/5WallerGrandCanyon.md
-      - hard-variations/ClosedOpenGrandCanyon.md
-      - hard-variations/5WallerOpenClosed.md
-      - hard-variations/ClosedOpenOpenClosed.md
+  - 'Getting Started':
+      - getting-started/memorizing-rolls.md
+      - getting-started/counting-laps.md
+  - 'Rolls':
+      - rolls/5-waller.md
+      - rolls/closed-open-open-closed.md
+      - rolls/easy-4.md
+      - rolls/grand-canyon.md
+      - rolls/isolated-duo.md
+      - rolls/pillar-trench.md
+  - 'Variations':
+      - variations/5-waller-grand-canyon.md
+      - variations/5-waller-open-closed.md
+      - variations/closed-open-grand-canyon.md
+      - variations/closed-open-open-closed.md
+  - glossary.md
 
 # Configuration
 theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'orange'
+    primary: 'deep orange'
+    accent: 'blue'
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
@@ -33,8 +44,6 @@ theme:
 # Extensions
 markdown_extensions:
   - admonition
-  - codehilite:
-      guess_lang: false
   - footnotes
   - toc:
       permalink: true
@@ -45,3 +54,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/alexjlockwood
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - scripts/tablesort.js
