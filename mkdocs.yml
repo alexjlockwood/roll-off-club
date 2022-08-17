@@ -14,7 +14,9 @@ repo_url: 'https://github.com/alexjlockwood/roll-call-club'
 nav:
   - 'Overview': index.md
   - 'Getting Started':
-      - getting-started/memorizing-rolls.md
+      - getting-started/memorizing-the-rolls.md
+      - getting-started/understanding-roll-speed.md
+      - getting-started/avoiding-desync.md
       - getting-started/counting-laps.md
   - 'Rolls':
       - rolls/5-waller.md
