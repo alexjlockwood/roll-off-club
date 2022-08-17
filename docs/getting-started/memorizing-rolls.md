@@ -1,3 +1,0 @@
-# Memorizing Rolls
-
-asdf

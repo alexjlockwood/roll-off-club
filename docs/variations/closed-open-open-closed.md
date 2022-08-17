@@ -31,8 +31,8 @@ There are 2 possible paths to take on laps 9-12 of the timeout:
 #### Summary
 
 1. Start 3 jumps on blue
-3. Jump to the small inner ledge before the 2nd wall on orange
-4. Jump dive back to blue
+2. Jump to the small inner ledge before the 2nd wall on orange
+3. Jump dive back to blue
 
 #### Difficulty
 

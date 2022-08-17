@@ -52,14 +52,14 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ![City's Path](../images/variations/5woc5.gif)
 
-#### Summary
+##### Summary
 
 1. Start with 3 jumps on blue
 2. Jump to the small orange ledge before the 3rd wall on orange
 3. Jump across the gap to the extremely small orange ledge before the 3rd wall on orange
 4. Jump back to blue
 
-#### Difficulty
+##### Difficulty
 
 * Lap 9 - Medium
 * Lap 10 - Medium
@@ -70,13 +70,13 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ![SH3RKH4N's Path](../images/variations/5woc2.gif)
 
-#### Summary
+##### Summary
 
 1. Start with 3 jumps on blue
 2. Transfer to the outer ledge after the 2nd wall on orange
 3. Jump dive back to blue
 
-#### Difficulty
+##### Difficulty
 
 * Lap 9 - Very hard
 * Lap 10 - Hard
@@ -87,7 +87,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ![Suki's Path](../images/variations/5woc3.gif)
 
-#### Summary
+##### Summary
 
 1. Start with 2 jumps on blue
 2. Transfer to orange
@@ -95,7 +95,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Jump dive across the large gap on blue
 
-#### Difficulty
+##### Difficulty
 
 * Lap 9 - Hard
 * Lap 10 - Hard
@@ -106,7 +106,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ![EChan's Path](../images/variations/5woc4.gif)
 
-#### Summary
+##### Summary
 
 1. Start with 2 jumps on blue
 2. Transfer to orange
@@ -114,7 +114,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Transfer back to orange after the 3rd wall on orange passes
 
-#### Difficulty
+##### Difficulty
 
 * Lap 9 - Medium
 * Lap 10 - Medium
