@@ -15,7 +15,7 @@ This site describes how to timeout Roll Off in Fall Guys.
     * Isolated Duo + Grand Canyon (need gif for inner wall jump)
     * Need better name for "No jump path" in 4th hardest variation?
 * Advanced tips
-    * Detecting variations early
+    * Detecting variations early (need pictures)
     * Isolated duo god jumps
     * One-Rolling w/ wall jumps
 * Other stuff

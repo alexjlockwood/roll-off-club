@@ -31,6 +31,8 @@ nav:
       - variations/closed-open-grand-canyon.md
       - variations/closed-open-open-closed.md
       - variations/isolated-duo-grand-canyon.md
+  - 'Advanced':
+      - advanced/recognizing-variations.md
   - glossary.md
 
 # Configuration
