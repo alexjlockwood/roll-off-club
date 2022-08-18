@@ -1,5 +1,7 @@
 # Closed-Open + Open-Closed
 
+## Overview
+
 Closed-Open + Open-Closed is considered the 4th hardest Roll Off variation to timeout. The first 8 laps are very easy, with 3 easy jumps to start on blue and 3 easy jumps to end on orange. However, the variation becomes very difficult to execute on laps 9-12 when the slime has reached it's maximum height.
 
 ## Paths
