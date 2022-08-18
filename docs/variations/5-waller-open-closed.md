@@ -34,14 +34,14 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ![Syed's Path](../images/variations/5woc1.gif)
 
-#### Summary
+##### Summary
 
 1. Start with 3 jumps on blue
 2. Transfer to the outer ledge after the 2nd wall on orange
 3. Jump across the gap to the small orange ledge before the 3rd wall on orange
 4. Jump back to blue
 
-#### Difficulty
+##### Difficulty
 
 * Lap 9 - Medium
 * Lap 10 - Medium
