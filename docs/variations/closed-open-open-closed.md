@@ -43,7 +43,25 @@ There are 2 possible paths to take on laps 9-12 of the timeout:
 * Lap 11 - Medium
 * Lap 12 - Medium
 
-## Ideal Pathing
+### No Jump Path
+
+![No Jump Path](../images/variations/cooc3.gif)
+
+#### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange after the 1st wall passes
+3. Transfer to small blue ledge after the 1st wall passes
+4. Transfer back to orange after the 2nd wall passes
+
+#### Difficulty
+
+* Lap 9 - Hard
+* Lap 10 - Medium
+* Lap 11 - Medium
+* Lap 12 - Hard
+
+## Optimal Pathing
 
 Here is an example of what an ideal 2 person timeout looks like for this variation:
 

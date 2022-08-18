@@ -13,7 +13,7 @@ This site describes how to timeout Roll Off in Fall Guys.
     * Dealing with griefers
 * Variations
     * Isolated Duo + Grand Canyon (need gif for inner wall jump)
-    * Need to make gif for no jump path on closed-open open-closed (link: <https://youtu.be/LApMm4dVwB0>)
+    * Need better name for "No jump path"?
 * Advanced tips
     * Detecting variations early
     * Isolated duo god jumps

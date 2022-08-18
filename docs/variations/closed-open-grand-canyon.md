@@ -79,7 +79,7 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 * Lap 11 - Medium
 * Lap 12 - Medium
 
-## Ideal Pathing
+## Optimal Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
 

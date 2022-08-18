@@ -14,22 +14,23 @@ repo_url: 'https://github.com/alexjlockwood/roll-call-club'
 nav:
   - 'Overview': index.md
   - 'Getting Started':
-      - getting-started/memorizing-the-rolls.md
+      - getting-started/learning-the-rolls.md
       - getting-started/understanding-roll-speed.md
       - getting-started/avoiding-desync.md
       - getting-started/counting-laps.md
   - 'Rolls':
-      - rolls/5-waller.md
-      - rolls/closed-open-open-closed.md
       - rolls/easy-4.md
-      - rolls/grand-canyon.md
       - rolls/isolated-duo.md
+      - rolls/closed-open-open-closed.md
+      - rolls/5-waller.md
+      - rolls/grand-canyon.md
       - rolls/pillar-trench.md
   - 'Variations':
       - variations/5-waller-grand-canyon.md
       - variations/5-waller-open-closed.md
       - variations/closed-open-grand-canyon.md
       - variations/closed-open-open-closed.md
+      - variations/isolated-duo-grand-canyon.md
   - glossary.md
 
 # Configuration

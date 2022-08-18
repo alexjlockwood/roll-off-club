@@ -60,7 +60,7 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 * Lap 11 - Hard
 * Lap 12 - Hard
 
-## Ideal Pathing
+## Optimal Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
 
