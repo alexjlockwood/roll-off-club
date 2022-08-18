@@ -45,10 +45,12 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ##### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Hard
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Hard       |
+| 12    | Hard       |
 
 #### City's Path
 
@@ -63,10 +65,12 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ##### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Hard
-* Lap 12 - Very hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Hard       |
+| 12    | Very hard  |
 
 #### SH3RKH4N's Path
 
@@ -80,10 +84,12 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ##### Difficulty
 
-* Lap 9 - Very hard
-* Lap 10 - Hard
-* Lap 11 - Medium
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Very hard  |
+| 10    | Hard       |
+| 11    | Medium     |
+| 12    | Medium     |
 
 #### Suki's Path
 
@@ -99,14 +105,16 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ##### Difficulty
 
-* Lap 9 - Hard
-* Lap 10 - Hard
-* Lap 11 - Hard
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Hard       |
+| 11    | Hard       |
+| 12    | Hard       |
 
-#### EChan's Path
+#### JD's Path
 
-![EChan's Path](../images/variations/5woc4.gif)
+![JD's Path](../images/variations/5woc4.gif)
 
 ##### Summary
 
@@ -118,17 +126,19 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ##### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Hard
-* Lap 12 - Very hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Hard       |
+| 12    | Very hard  |
 
-## Optimal Pathing
+## Recommended Pathing
 
 Here is an example of what an ideal 2 person timeout looks like for this variation:
 
 * 1 player takes Syed's path on laps 9-10 and SH3RKH4N's path on laps 11-12
-* 1 player takes EChan's path on laps 9-10 and Suki's path on laps 11-12
+* 1 player takes JD's path on laps 9-10 and Suki's path on laps 11-12
 
 ## Example Timeouts
 

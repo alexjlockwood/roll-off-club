@@ -20,10 +20,12 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Medium
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Easy       |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Hard       |
 
 ### Grand Canyon Ledge
 
@@ -38,10 +40,12 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Hard
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Hard       |
+| 12    | Hard       |
 
 ### Outer Wall Jump
 
@@ -55,12 +59,14 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Medium
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Medium     |
 
-## Optimal Pathing
+## Recommended Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
 

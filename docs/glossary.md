@@ -4,6 +4,7 @@
 | ---------------- | ----------- |
 | 5 Waller         | asdf        |
 | 5 Wall Club      | asdf        |
+| Alex's path      | asdf        |
 | Bar              | asdf        |
 | Bar jump         | asdf        |
 | Closed-Open      | asdf        |
@@ -15,12 +16,14 @@
 | GC ledge         | asdf        |
 | Grand Canyon     | asdf        |
 | Isolated Duo     | asdf        |
+| JD's path        | asdf        |
 | Lap              | asdf        |
 | Ledge            | asdf        |
 | Meme path        | asdf        |
 | No jump, no dive | asdf        |
 | One-roll         | asdf        |
 | Open-Closed      | asdf        |
+| PG's path        | asdf        |
 | Piggy's path     | asdf        |
 | Pillar Trench    | asdf        |
 | Popper's path    | asdf        |

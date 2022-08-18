@@ -22,10 +22,12 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Hard
-* Lap 12 - Very hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Hard       |
+| 12    | Very hard  |
 
 ### Inner Wall Jump
 
@@ -39,10 +41,12 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Hard
-* Lap 10 - Hard
-* Lap 11 - Hard
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Hard       |
+| 11    | Hard       |
+| 12    | Hard       |
 
 ### Piggy's Path
 
@@ -56,10 +60,12 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Impossible
-* Lap 10 - Very hard
-* Lap 11 - Hard
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Very hard  |
+| 11    | Hard       |
+| 12    | Medium     |
 
 ### Outer Wall Jump
 
@@ -74,12 +80,14 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Medium
-* Lap 10 - Medium
-* Lap 11 - Medium
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Medium     |
 
-## Optimal Pathing
+## Recommended Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
 

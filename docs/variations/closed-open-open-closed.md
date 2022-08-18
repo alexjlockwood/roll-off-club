@@ -6,7 +6,7 @@ Closed-Open + Open-Closed is considered the 4th hardest Roll Off variation to ti
 
 ## Paths
 
-There are 2 possible paths to take on laps 9-12 of the timeout:
+There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Alex's Path
 
@@ -21,10 +21,12 @@ There are 2 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Hard
-* Lap 10 - Hard
-* Lap 11 - Medium
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Hard       |
+| 11    | Medium     |
+| 12    | Medium     |
 
 ### PG's Path
 
@@ -38,14 +40,16 @@ There are 2 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Hard
-* Lap 10 - Hard
-* Lap 11 - Medium
-* Lap 12 - Medium
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Hard       |
+| 11    | Medium     |
+| 12    | Medium     |
 
-### No Jump Path
+### EChan's Path
 
-![No Jump Path](../images/variations/cooc3.gif)
+![EChan's path](../images/variations/cooc3.gif)
 
 #### Summary
 
@@ -56,19 +60,22 @@ There are 2 possible paths to take on laps 9-12 of the timeout:
 
 #### Difficulty
 
-* Lap 9 - Hard
-* Lap 10 - Medium
-* Lap 11 - Medium
-* Lap 12 - Hard
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Hard       |
 
-## Optimal Pathing
+## Recommended Pathing
 
-Here is an example of what an ideal 2 person timeout looks like for this variation:
+Here is an example of what an ideal 3 person timeout looks like for this variation:
 
 * 1 player takes Alex's path on laps 9-12
 * 1 player takes PG's path on laps 9-12
+* 1 player takes EChan's path on laps 9-12
 
-The most difficult part about this variation is the fact that at some point 2 players will end up on the small inner ledge before the 2nd wall on orange. It is very important that one player jump dives back to blue early so to give the other player enough time to do the same without being body blocked.
+The most difficult part about this variation is if 2 players will end up on the small inner ledge before the 2nd wall on orange. It is very important that one player jump dives back to blue early so to give the other player enough time to do the same without being body blocked.
 
 ## Example Timeouts
 

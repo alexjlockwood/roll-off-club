@@ -5,6 +5,7 @@ site_author: 'Alex Lockwood'
 site_url: 'https://alexjlockwood.github.io/roll-call-club'
 remote_branch: gh-pages
 docs_dir: docs
+edit_uri: edit/main/docs/
 
 # Repository
 repo_name: 'roll-call-club'
