@@ -4,6 +4,8 @@
 | ---------------- | ----------- |
 | 5 Waller         | asdf        |
 | 5 Wall Club      | asdf        |
+| Bar              | asdf        |
+| Bar jump         | asdf        |
 | Closed-Open      | asdf        |
 | Easy 4           | asdf        |
 | EChan's fortress | asdf        |
@@ -16,7 +18,7 @@
 | Lap              | asdf        |
 | Ledge            | asdf        |
 | Meme path        | asdf        |
-| No jump/dive     | asdf        |
+| No jump, no dive | asdf        |
 | One-roll         | asdf        |
 | Open-Closed      | asdf        |
 | Piggy's path     | asdf        |
