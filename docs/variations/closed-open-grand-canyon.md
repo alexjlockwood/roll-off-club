@@ -2,7 +2,7 @@
 
 ## Overview
 
-Also known as the "2nd Hardest Variation", Closed-Open + Grand Canyon is notorious for being extremely difficult to timeout. 
+Also known as the "2nd Hardest Variation", Closed-Open + Grand Canyon is notorious for being extremely difficult to timeout.
 
 This variation becomes very difficult starting on the 9th lap at around 3:30 into the timeout. This is because it becomes very tricky to get past the first wall on orange due to the presence of the large grand canyon gap on blue. Once you do get past the first wall on orange, the remainder of the lap is straightforward, with 3 easy jumps in the middle of blue and 3 easy jumps at the end of orange.
 
