@@ -1,5 +1,7 @@
 # Isolated Duo + Grand Canyon
 
+![Isolated Duo + Grand Canyon](../images/variations/isolated-duo-grand-canyon.jpg)
+
 ## Overview
 
 Also known as the "5th Hardest Variation", Isolated Duo + Grand Canyon is in the top tier of most difficult Roll Off variations to timeout.

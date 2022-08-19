@@ -1,5 +1,7 @@
 # Closed-Open + Grand Canyon
 
+![Closed-Open + Grand Canyon](../images/variations/closed-open-grand-canyon.jpg)
+
 ## Overview
 
 Also known as the "2nd Hardest Variation", Closed-Open + Grand Canyon is notorious for being extremely difficult to timeout.

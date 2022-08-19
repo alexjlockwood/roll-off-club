@@ -1,5 +1,7 @@
 # 5 Waller + Open-Closed
 
+![5 Waller + Open-Closed](../images/variations/5-waller-open-closed.jpg)
+
 ## Overview
 
 5 Waller + Open-Closed is considered the hardest of all 20 variations to timeout due how difficult it is to execute as well as the complex pathing decisions that need to be made in order to avoid collisions with other players.
