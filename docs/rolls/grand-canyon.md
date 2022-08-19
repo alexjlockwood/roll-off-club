@@ -4,6 +4,9 @@
 
 ![Grand Canyon Blue](../images/rolls/grand-canyon-blue-annotated.jpg)
 
-This is the only roller out of all the blue and orange rollers to have the largest gap, which spawns at the beginning. After this huge gap, there are 3 consecutive jumps you can easily make, until a wall hits you at the end.
+The "Grand Canyon" roll gets its name from the huge gap at the start.
 
-This roller, while mostly straightforward, has created some of the hardest variations due to how little space you're given late game. With this roller, it is highly unlikely you will be receiving a huge timeout.
+### What to remember
+
+* **The huge gap at the start is impossible to jump.** This means you will be forced to stay on orange while this gap passes on blue.
+* **The middle has 3 straightforward jumps.** Most variations you'll want to take advantage of this space to avoid desync with other beans transfering in the center.

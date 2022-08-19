@@ -10,6 +10,7 @@ hide:
 | 5 Waller         | asdf        |
 | 5 Wall Club      | asdf        |
 | Alex's path      | asdf        |
+| Baby path        | asdf        |
 | Bar              | asdf        |
 | Bar jump         | asdf        |
 | Closed-Open      | asdf        |
