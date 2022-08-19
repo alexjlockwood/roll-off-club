@@ -2,7 +2,7 @@
 
 ## Orange
 
-![5 Waller Orange](../images/rolls/5-waller-orange.jpg)
+![5 Waller Orange](../images/rolls/5-waller-orange-annotated.jpg)
 
 This roll gets its name for having the most walls out of all the 9 roll, having a total of 5, hence its name.
 

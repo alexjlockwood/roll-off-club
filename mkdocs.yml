@@ -36,6 +36,7 @@ nav:
       - variations/isolated-duo-grand-canyon.md
   - 'Advanced':
       - advanced/counting-laps.md
+      - advanced/isolated-duo-god-jumps.md
       - advanced/recognizing-variations.md
   - glossary.md
 
@@ -66,3 +67,6 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/alexjlockwood
+
+extra_css:
+  - stylesheets/extra.css

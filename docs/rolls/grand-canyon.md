@@ -2,7 +2,7 @@
 
 ## Blue
 
-![Grand Canyon Blue](../images/rolls/grand-canyon-blue.jpg)
+![Grand Canyon Blue](../images/rolls/grand-canyon-blue-annotated.jpg)
 
 This is the only roller out of all the blue and orange rollers to have the largest gap, which spawns at the beginning. After this huge gap, there are 3 consecutive jumps you can easily make, until a wall hits you at the end.
 
