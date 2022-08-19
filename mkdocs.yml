@@ -13,13 +13,14 @@ repo_url: 'https://github.com/alexjlockwood/roll-call-club'
 
 # Navigation
 nav:
-  - 'Overview': index.md
+  - 'Home': index.md
   - 'Getting Started':
+      - getting-started/index.md
       - getting-started/learning-the-rolls.md
       - getting-started/understanding-roll-speed.md
       - getting-started/avoiding-desync.md
-      - getting-started/counting-laps.md
   - 'Rolls':
+      - rolls/index.md
       - rolls/easy-4.md
       - rolls/isolated-duo.md
       - rolls/closed-open-open-closed.md
@@ -27,12 +28,14 @@ nav:
       - rolls/grand-canyon.md
       - rolls/pillar-trench.md
   - 'Variations':
+      - variations/index.md
       - variations/5-waller-grand-canyon.md
       - variations/5-waller-open-closed.md
       - variations/closed-open-grand-canyon.md
       - variations/closed-open-open-closed.md
       - variations/isolated-duo-grand-canyon.md
   - 'Advanced':
+      - advanced/counting-laps.md
       - advanced/recognizing-variations.md
   - glossary.md
 
@@ -46,6 +49,9 @@ theme:
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
+  features:
+    - navigation.tabs
+    - navigation.indexes 
 
 # Extensions
 markdown_extensions:
