@@ -29,9 +29,9 @@ nav:
       - rolls/pillar-trench.md
   - 'Variations':
       - variations/index.md
-      - variations/5-waller-grand-canyon.md
       - variations/5-waller-open-closed.md
       - variations/closed-open-grand-canyon.md
+      - variations/5-waller-grand-canyon.md
       - variations/closed-open-open-closed.md
       - variations/isolated-duo-grand-canyon.md
   - 'Advanced':
