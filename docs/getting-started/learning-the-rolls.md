@@ -12,5 +12,5 @@ The rolls are:
 * [Isolated Duo](../rolls/isolated-duo.md)
 * [Closed-Open & Open-Closed](../rolls/closed-open-open-closed.md)
 * [Pillar Trench](../rolls/pillar-trench.md)
-* [5-Waller](../rolls/5-waller.md)
+* [5 Waller](../rolls/5-waller.md)
 * [Grand Canyon](../rolls/grand-canyon.md)
