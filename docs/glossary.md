@@ -7,40 +7,40 @@ hide:
 
 | Term               | Description |
 | ------------------ | ----------- |
-| 5 Waller           | asdf        |
-| 5 Wall Club        | asdf        |
-| Alex's path        | asdf        |
+| 5 Waller           | An [orange roll variant](./rolls/5-waller.md) in Roll Off. |
+| 5 Wall Club        | A prestigious group of Fall Guys players who have one-rolled 5 Waller, the most difficult roll to one-roll. |
+| Alex's path        | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. |
 | Baby path          | asdf        |
 | Bar                | asdf        |
 | Bar jump           | asdf        |
 | City's ledge       | asdf        |
-| City's path        | asdf        |
-| Closed-Open        | asdf        |
-| Easy 4             | asdf        |
+| City's path        | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |        |
+| Closed-Open        | An [orange roll variant](./rolls/closed-open.md) in Roll Off. |
+| Easy 4             | An [orange & blue roll variant](./rolls/easy-4.md) in Roll Off. |
 | EChan's fortress   | asdf        |
-| EChan's path       | asdf        |
+| EChan's path       | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Edge               | asdf        |
 | Gap                | asdf        |
 | Grand Canyon ledge | asdf        |
-| Grand Canyon       | asdf        |
-| Isolated Duo       | asdf        |
-| JD's path          | asdf        |
+| Grand Canyon       | A [blue roll variant](./rolls/grand-canyon.md) in Roll Off. |
+| Isolated Duo       | An [orange & blue roll variant](./rolls/5-waller.md) in Roll Off. |
+| JD's path          | A [path](./variations/closed-open-open-closed.md#jds-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. |
 | Lap                | asdf        |
 | Ledge              | asdf        |
 | Meme path          | asdf        |
 | No jump, no dive   | asdf        |
 | One-roll           | asdf        |
-| Open-Closed        | asdf        |
-| PG's path          | asdf        |
-| Piggy's path       | asdf        |
-| Pillar Trench      | asdf        |
+| Open-Closed        | A [blue roll variant](./rolls/open-closed.md) in Roll Off. |
+| PG's path          | A [path](./variations/closed-open-open-closed.md#pgs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. |
+| Piggy's path       | A [path](./variations/closed-open-grand-canyon.md#piggys-path) used to timeout the Closed-Open + Grand Canyon variation of Roll Off. |
+| Pillar Trench      | A [blue roll variant](./rolls/pillar-trench.md) in Roll Off. |
 | Popper's ledge     | asdf        |
 | Popper's path      | asdf        |
-| SH3RKH4N's path    | asdf        |
+| SH3RKH4N's path    | A [path](./variations/5-waller-open-closed.md#sh3rkh4ns-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Slow off           | asdf        |
 | Suki's ledge       | asdf        |
-| Suki's path        | asdf        |
-| Syed's path        | asdf        |
+| Suki's path        | A [path](./variations/5-waller-open-closed.md#sukis-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
+| Syed's path        | A [path](./variations/5-waller-open-closed.md#syeds-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Timeout            | asdf        |
 | Transfer           | asdf        |
 | Wall jump          | asdf        |
