@@ -49,9 +49,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 | 11    | Medium     |
 | 12    | Medium     |
 
-### EChan's Path
+### JD's Path
 
-![EChan's path](../images/variations/cooc3.gif)
+![JD's path](../images/variations/cooc3.gif)
 
 #### Summary
 
@@ -75,7 +75,7 @@ Here is an example of what an ideal 3 person timeout looks like for this variati
 
 * 1 player takes Alex's path on laps 9-12
 * 1 player takes PG's path on laps 9-12
-* 1 player takes EChan's path on laps 9-12
+* 1 player takes JD's path on laps 9-12
 
 The most difficult part about this variation is if 2 players will end up on the small inner ledge before the 2nd wall on orange. It is very important that one player jump dives back to blue early so to give the other player enough time to do the same without being body blocked.
 

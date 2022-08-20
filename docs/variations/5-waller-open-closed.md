@@ -114,9 +114,9 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 | 11    | Hard       |
 | 12    | Hard       |
 
-#### JD's Path
+#### EChan's Path
 
-![JD's Path](../images/variations/5woc4.gif)
+![EChan's Path](../images/variations/5woc4.gif)
 
 ##### Summary
 
@@ -140,7 +140,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 Here is an example of what an ideal 2 person timeout looks like for this variation:
 
 * 1 player takes Syed's path on laps 9-10 and SH3RKH4N's path on laps 11-12
-* 1 player takes JD's path on laps 9-10 and Suki's path on laps 11-12
+* 1 player takes EChan's path on laps 9-10 and Suki's path on laps 11-12
 
 ## Example Timeouts
 
