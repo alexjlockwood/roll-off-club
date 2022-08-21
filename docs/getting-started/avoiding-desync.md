@@ -26,7 +26,7 @@ Try to transfer across rolls as early as possible. The longer you wait to transf
 
 When you do transfer, be sure that you also provide players behind you with enough space.
 
-TODO: give an example
+TODO: 4x4 example <https://youtu.be/P1zs22hu1Q8>
 
 ## Try to maintain consistent pathing
 
@@ -36,7 +36,7 @@ While changing your path is sometimes necessary, keeping the changes at a minimu
 
 Transfering to the same small ledge as someone else is very dangerous and should be avoided if possible. Keep an eye out for what others are doing during the timeout and try to plan ahead if you notice someone transfering to a small ledge.
 
-TODO: give example of 5 waller + easy 4 and/or easy 4 + grand canyon?
+TODO: 5 Waller + Easy 4 example (lap 9) <https://youtu.be/RcBCODQ-eiE>
 
 ## Avoid jumping in front of others
 

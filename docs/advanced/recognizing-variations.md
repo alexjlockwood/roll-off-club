@@ -6,6 +6,7 @@ Still need:
 * Grand Canyon
 * Pillar Trench
 * Get picture of 4x4 for Easy 4?
+* Add flow chart?
 
 ## 5 Waller
 
