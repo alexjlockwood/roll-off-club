@@ -2,7 +2,7 @@
 
 ## Overview
 
-We refer to a "lap" as a full 360 degree rotation of a ring in roll off. During a 5 minute timeout, each ring will rotate 12 times, meaning that there are 12 laps in a timeout.
+A "lap" is a full 360 degree rotation of a roll in roll off. During a 5 minute timeout, each roll will rotate 12 times, meaning that there are 12 laps in a timeout.
 
 Counting laps can be helpful to understand what paths to take during a timeout, especially for the harder variations.
 
