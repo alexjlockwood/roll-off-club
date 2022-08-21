@@ -15,7 +15,7 @@ hide:
 | Bar jump           | asdf        |
 | City's ledge       | asdf        |
 | City's path        | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |        |
-| Closed-Open        | An [orange roll variant](./rolls/closed-open.md) in Roll Off. |
+| Closed-Open        | An [orange roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
 | Easy 4             | An [orange & blue roll variant](./rolls/easy-4.md) in Roll Off. |
 | EChan's fortress   | asdf        |
 | EChan's path       | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
@@ -30,7 +30,7 @@ hide:
 | Meme path          | asdf        |
 | No jump, no dive   | asdf        |
 | One-roll           | asdf        |
-| Open-Closed        | A [blue roll variant](./rolls/open-closed.md) in Roll Off. |
+| Open-Closed        | A [blue roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
 | PG's path          | A [path](./variations/closed-open-open-closed.md#pgs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. |
 | Piggy's path       | A [path](./variations/closed-open-grand-canyon.md#piggys-path) used to timeout the Closed-Open + Grand Canyon variation of Roll Off. |
 | Pillar Trench      | A [blue roll variant](./rolls/pillar-trench.md) in Roll Off. |

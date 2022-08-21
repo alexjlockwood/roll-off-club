@@ -1,4 +1,4 @@
-# Understanding Roll Speed
+# Understanding the Roll Speeds
 
 It is extremely important to understand that **the blue roll spins slightly faster than the orange roll** throughout the duration of a Roll Off timeout. These different speeds mean that the rolls will align differently each lap.
 
