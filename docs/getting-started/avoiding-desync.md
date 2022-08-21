@@ -20,6 +20,8 @@ Some examples of where jumping is usually the safer alternative are:
 * The 3 jumps in the middle of [Grand Canyon](../rolls/grand-canyon.md)
 * The 3 jumps in the middle of [Pillar Trench](../rolls/pillar-trench.md)
 
+TODO: create a gif example?
+
 ## Transfer early to give space for others
 
 Try to transfer across rolls as early as possible. The longer you wait to transfer, the more likely it becomes that you will body block someone behind you.
