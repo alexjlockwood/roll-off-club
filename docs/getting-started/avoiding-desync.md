@@ -16,9 +16,13 @@ An easy way to avoid this is by jumping instead of transfering whenever possible
 
 Some examples of where jumping is usually the safer alternative are:
 
-* The 3 jumps in the middle of [Isolated Duo](../rolls/isolated-duo.md)
-* The 3 jumps in the middle of [Grand Canyon](../rolls/grand-canyon.md)
 * The 3 jumps in the middle of [Pillar Trench](../rolls/pillar-trench.md)
+* The 3 jumps in the middle of [Grand Canyon](../rolls/grand-canyon.md)
+* The 3 jumps in the middle of [Isolated Duo](../rolls/isolated-duo.md)
+* The 3 jumps at the start of [Closed-Open Orange](../rolls/closed-open-open-closed.md)
+* The 3 jumps at the end of [Open-Closed Blue](../rolls/closed-open-open-closed.md)
+* The 4 jumps at the start of [Easy 4 Orange](../rolls/easy-4.md)
+* The 4 jumps at the end of [Easy 4 Blue](../rolls/easy-4.md)
 
 TODO: create a gif example?
 
