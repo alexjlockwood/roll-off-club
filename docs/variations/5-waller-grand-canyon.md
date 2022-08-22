@@ -1,6 +1,8 @@
 # 5 Waller + Grand Canyon
 
-![5 Waller + Grand Canyon](../images/variations/5-waller-grand-canyon.jpg)
+<video controls>
+  <source src="../../images/variations/5-waller-grand-canyon-start-on-blue.mp4" type="video/mp4">
+</video>
 
 ## Overview
 
@@ -31,7 +33,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Grand Canyon Ledge
 
-![Grand Canyon Ledge](../images/variations/5wgc2.gif)
+<video controls>
+  <source src="../../images/variations/5-waller-grand-canyon-gc-ledge.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -51,7 +55,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Outer Wall Jump
 
-![Outer Wall Jump](../images/variations/5wgc3.gif)
+<video controls>
+  <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump.mp4" type="video/mp4">
+</video>
 
 #### Summary
 

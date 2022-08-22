@@ -1,4 +1,4 @@
-# Understanding the Roll Speeds
+# Blue Spins Faster Than Orange
 
 It is extremely important to understand that **the blue roll spins slightly faster than the orange roll** throughout the duration of a Roll Off timeout. These different speeds mean that the rolls will align differently each lap.
 
@@ -18,7 +18,7 @@ My recommendation is to visualize what the current path you are taking will look
 
 For example, in the clip below I notice that the transfer from blue to orange is extremely tight. Since blue spins faster than orange, I know on the next lap that transfer will be even more difficult (and maybe even impossible).
 
-![Example of a tight transfer](../images/getting-started/roll-speed/tight-transfer.gif)
+TODO: get example of a tight transfer
 
 As a result, I know that on the next lap I will need to find a new path instead.
 

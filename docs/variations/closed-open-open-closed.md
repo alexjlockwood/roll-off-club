@@ -12,7 +12,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Alex's Path
 
-![Alex's Path](../images/variations/cooc1.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-open-closed-alexs-path.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -32,7 +34,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### PG's Path
 
-![PG's Path](../images/variations/cooc2.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-open-closed-pgs-path.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -51,7 +55,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### JD's Path
 
-![JD's path](../images/variations/cooc3.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-open-closed-jds-path.mp4" type="video/mp4">
+</video>
 
 #### Summary
 

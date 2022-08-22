@@ -14,7 +14,9 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Grand Canyon Ledge
 
-![Grand Canyon Ledge](../images/variations/cogc1.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-gc-ledge.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -33,7 +35,9 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Inner Wall Jump
 
-![Inner Wall Jump](../images/variations/cogc2.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -52,7 +56,9 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Piggy's Path
 
-![Piggy's Path](../images/variations/cogc3.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-piggys-path.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -71,7 +77,9 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Outer Wall Jump
 
-![Outer Wall Jump](../images/variations/cogc4.gif)
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump.mp4" type="video/mp4">
+</video>
 
 #### Summary
 

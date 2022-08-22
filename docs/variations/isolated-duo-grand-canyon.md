@@ -12,7 +12,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
-![Start on Blue](../images/variations/idgc1.gif)
+<video controls>
+  <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -31,7 +33,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Grand Canyon Ledge
 
-![Grand Canyon Ledge](../images/variations/idgc2.gif)
+<video controls>
+  <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
@@ -51,7 +55,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Outer Wall Jump
 
-![Outer Wall Jump](../images/variations/idgc3.gif)
+<video controls>
+  <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump.mp4" type="video/mp4">
+</video>
 
 #### Summary
 
