@@ -7,6 +7,7 @@ hide:
 
 | Term               | Description |
 | ------------------ | ----------- |
+| 4 by 4             | The name of the [Easy 4 + Easy 4](./variations/easy-4-easy-4.md) Roll Off Variant, the easiest of all 20 variations. |
 | 5 Waller           | An [orange roll variant](./rolls/5-waller.md) in Roll Off. |
 | 5 Wall Club        | A prestigious group of Fall Guys players who have one-rolled 5 Waller, the most difficult roll to one-roll. |
 | Alex's path        | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. |

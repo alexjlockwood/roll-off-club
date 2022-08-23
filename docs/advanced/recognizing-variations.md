@@ -42,7 +42,7 @@ Grand Canyon has a wall in front and a wall in back.
 
 Grand Canyon is the only roll with green striped inner edges and a yellow bar.
 
-![Grand Canyon side view](../images/advanced/recognizing-variants/pillar-trench-side-view.jpg)
+![Grand Canyon side view](../images/advanced/recognizing-variants/grand-canyon-side-view.jpg)
 
 ### Pillar Trench
 
