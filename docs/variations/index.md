@@ -5,8 +5,8 @@ This section gives an in-depth analysis to some of the more difficult Roll Off v
 ## Hard Variations
 
 * [5 Waller + Open-Closed](./5-waller-open-closed.md)
-* [5 Waller + Grand Canyon](./5-waller-grand-canyon.md)
 * [Closed-Open + Grand Canyon](./closed-open-grand-canyon.md)
+* [5 Waller + Grand Canyon](./5-waller-grand-canyon.md)
 * [Closed-Open + Open-Closed](./closed-open-open-closed.md)
 * [Isolated Duo + Grand Canyon](./isolated-duo-grand-canyon.md)
 
