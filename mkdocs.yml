@@ -44,10 +44,11 @@ nav:
       - 'Easy Variations':
           - variations/easy-4-easy-4.md
   - 'Advanced':
+      - advanced/index.md
       - advanced/counting-laps.md
       - advanced/isolated-duo-god-jumps.md
-      - advanced/recognizing-variations.md
-      - advanced/wall-jumps.md
+      - advanced/recognizing-variations-early.md
+      - advanced/wall-jumps-one-rolling.md
   - glossary.md
 
 # Configuration

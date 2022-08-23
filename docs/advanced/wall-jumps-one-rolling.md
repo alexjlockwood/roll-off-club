@@ -1,4 +1,4 @@
-# Wall Jumps
+# Wall Jumps & One-Rolling
 
 TODO: how to do wall jumps
 TODO: avoid wall jumps without dives because of dive bug and elim but (need gifs)
