@@ -1,8 +1,8 @@
 # Getting Started
 
-There are 4 main tips for improving at getting Roll Off timeouts:
+This section covers 4 main tips that are essential for improving your consistency at timing out Roll Off:
 
-1. [Learning the rolls](./learning-the-rolls.md)
-2. [Blue spins faster than orange](./understanding-roll-speed.md)
-3. [Avoiding desync](./avoiding-desync.md)
-4. [Dealing with griefers](./dealing-with-griefers.md)
+* [**Learning the rolls**](./learning-the-rolls.md) - Familiarizing yourself with the 9 different orange and blue rolls is key to timing out Roll Off.
+* [**Blue spins faster than orange**](./roll-speed.md) - The fact that the blue roll spins slightly faster than the orange roll throughout the Roll Off timeout has important implications late in a Roll Off timeout.
+* [**Reducing desync**](./reducing-desync.md) - Reducing desync is extremely important not just for your own survival, but others' survival as well.
+* [**Avoiding griefers**](./avoiding-griefers.md) - There are several tricks worth knowing to avoid (and in some cases kill) griefers while playing Roll Off.

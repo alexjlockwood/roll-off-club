@@ -1,4 +1,4 @@
-# Avoiding Desync
+# Reducing Desync
 
 Here are some tips for avoiding collisions during Roll Off.
 

@@ -17,9 +17,9 @@ nav:
   - 'Getting Started':
       - getting-started/index.md
       - getting-started/learning-the-rolls.md
-      - getting-started/understanding-roll-speed.md
-      - getting-started/avoiding-desync.md
-      - getting-started/dealing-with-griefers.md
+      - getting-started/roll-speed.md
+      - getting-started/reducing-desync.md
+      - getting-started/avoiding-griefers.md
   - 'Rolls':
       - rolls/index.md
       - rolls/easy-4.md
@@ -30,15 +30,17 @@ nav:
       - rolls/grand-canyon.md
   - 'Variations':
       - variations/index.md
-      - 'Hard Variations':
+      - 'Hardest Variations':
           - variations/5-waller-open-closed.md
           - variations/closed-open-grand-canyon.md
           - variations/5-waller-grand-canyon.md
           - variations/closed-open-open-closed.md
           - variations/isolated-duo-grand-canyon.md
-      - 'Medium Variations':
+      - 'Hard Variations':
           - variations/5-waller-easy-4.md
           - variations/easy-4-grand-canyon.md
+      - 'Medium Variations':
+          - variations/isolated-duo-isolated-duo.md
       - 'Easy Variations':
           - variations/easy-4-easy-4.md
   - 'Advanced':

@@ -1,4 +1,4 @@
-# Dealing with Griefers
+# Avoiding Griefers
 
 ## Learn the roll patterns
 

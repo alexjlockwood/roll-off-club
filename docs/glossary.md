@@ -15,7 +15,7 @@ hide:
 | Bar                | asdf        |
 | Bar jump           | asdf        |
 | City's ledge       | asdf        |
-| City's path        | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |        |
+| City's path        | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Closed-Open        | An [orange roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
 | Easy 4             | An [orange & blue roll variant](./rolls/easy-4.md) in Roll Off. |
 | EChan's fortress   | asdf        |
@@ -43,5 +43,7 @@ hide:
 | Suki's path        | A [path](./variations/5-waller-open-closed.md#sukis-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Syed's path        | A [path](./variations/5-waller-open-closed.md#syeds-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Timeout            | asdf        |
+| Thumbnail variation | asdf       |
+| Thumbnail inverse variation | asdf       |
 | Transfer           | asdf        |
 | Wall jump          | asdf        |

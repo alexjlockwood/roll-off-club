@@ -7,8 +7,12 @@ hide:
 
 ## Getting Started
 
-Start [**here**](getting-started/index.md) if you are looking to improve your Roll Off timeout skills!
+This [**section**](getting-started/index.md) explains the basics required to timeout Roll Off.
 
-## Hard Variations
+Start here if you are looking to get your first Roll Off timeout or to improve your consistency overall.
 
-Start [**here**](variations/index.md) if you are trying to learn how to timeout the harder Roll Off variations.
+## Roll Off Variations
+
+This [**section**](variations/index.md) gives in-depth analysis of specific Roll Off variations, including video clips of specific paths to take for the harder variations.
+
+Start here if you are familiar with the basics and are trying to learn how to timeout the hardest variations Roll Off has to offer.
