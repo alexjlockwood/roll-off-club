@@ -1,8 +1,6 @@
 # 5 Waller + Grand Canyon
 
-<video controls>
-  <source src="../../images/variations/5-waller-grand-canyon-start-on-blue.mp4" type="video/mp4">
-</video>
+![5 Waller + Grand Canyon](../images/variations/5-waller-grand-canyon.jpg)
 
 ## Overview
 
@@ -14,7 +12,9 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
-![Start on Blue](../images/variations/5wgc1.gif)
+<video controls>
+  <source src="../../images/variations/5-waller-grand-canyon-start-on-blue.mp4" type="video/mp4">
+</video>
 
 #### Summary
 

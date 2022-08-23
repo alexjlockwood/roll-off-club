@@ -30,11 +30,17 @@ nav:
       - rolls/grand-canyon.md
   - 'Variations':
       - variations/index.md
-      - variations/5-waller-open-closed.md
-      - variations/closed-open-grand-canyon.md
-      - variations/5-waller-grand-canyon.md
-      - variations/closed-open-open-closed.md
-      - variations/isolated-duo-grand-canyon.md
+      - 'Hard Variations':
+          - variations/5-waller-open-closed.md
+          - variations/closed-open-grand-canyon.md
+          - variations/5-waller-grand-canyon.md
+          - variations/closed-open-open-closed.md
+          - variations/isolated-duo-grand-canyon.md
+      - 'Medium Variations':
+          - variations/5-waller-easy-4.md
+          - variations/easy-4-grand-canyon.md
+      - 'Easy Variations':
+          - variations/easy-4-easy-4.md
   - 'Advanced':
       - advanced/counting-laps.md
       - advanced/isolated-duo-god-jumps.md
