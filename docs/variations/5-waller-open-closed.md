@@ -10,7 +10,7 @@
 
 ### Laps 7-8
 
-While the paths themselves are not difficult, laps 7-8 are particularly dangerous due to the possibility of desync.
+Laps 7-8 are particularly dangerous due to the possibility of desync.
 
 #### Standard Path
 
