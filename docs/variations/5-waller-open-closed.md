@@ -38,6 +38,8 @@ Another way to avoid desync on laps 7-8 is to simply outer wall jump on blue. Th
 
 ### Laps 9-12
 
+Laps 9-12 are when this variation get extremely difficult. It is highly recommended to familiarize yourself with the below paths in order to survive.
+
 There are 5 possible paths to take on laps 9-12 of the timeout:
 
 #### Syed's Path
@@ -59,8 +61,8 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 | ----- | ---------- |
 | 9     | Medium     |
 | 10    | Medium     |
-| 11    | Hard       |
-| 12    | Hard       |
+| 11    | Medium     |
+| 12    | Medium     |
 
 #### City's Path
 
