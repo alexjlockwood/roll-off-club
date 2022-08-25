@@ -19,4 +19,4 @@ Start here if you are familiar with the basics and are trying to learn how to ti
 
 ## Advanced
 
-This [**section**](advanced/index.md) gives more advanced tips and strategies, such as tips for counting laps, recognizing variations early, and wall jumping.
+This [**section**](advanced/index.md) gives more advanced tips and strategies, such as tips for counting laps, recognizing variations early, and wall jumping...
