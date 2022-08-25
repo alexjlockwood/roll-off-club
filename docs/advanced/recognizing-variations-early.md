@@ -1,4 +1,4 @@
-# Recognizing Variations
+# Recognizing Variations Early
 
 It is possible to detect the exact Roll Off variation from the preview at the start of the final. This can be convenient so that you don't have to spend the first lap trying to figure out which variation you have gotten.
 
