@@ -32,6 +32,11 @@ You can one-roll to avoid a griefer:
   <source src="../../images/getting-started/dealing-with-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
+!!! note
+
+    Avoid one-rolling early on in the timeout, as it will draw attention to yourself and
+    make it more likely that griefers will focus on killing you.
+
 ## Other TODOs
 
 * Jump early to cancel grabs

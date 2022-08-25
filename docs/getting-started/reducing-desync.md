@@ -26,6 +26,8 @@ Some examples of where jumping is usually the safer alternative are:
 
 TODO: create a gif example?
 
+Note that this advice only applies when no other beans are nearby. If another bean is within grabbing distance, you should prefer transfering instead to avoid getting pantsed.
+
 ## Transfer early to give space for others
 
 Try to transfer across rolls as early as possible. The longer you wait to transfer, the more likely it becomes that you will body block someone behind you.

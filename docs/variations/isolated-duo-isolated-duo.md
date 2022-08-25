@@ -1,6 +1,6 @@
 # Isolated Duo + Isolated Duo
 
-![Easy 4 + Easy 4](../images/variations/isolated-duo-isolated-duo.jpg)
+![Isolated Duo + Isolated Duo](../images/variations/isolated-duo-isolated-duo.jpg)
 
 ## Overview
 
@@ -8,7 +8,11 @@ TODO
 
 ## Paths
 
-TODO
+### Standard Path
+
+<video controls>
+  <source src="../../images/variations/isolated-duo-isolated-duo-standard-path.mp4" type="video/mp4">
+</video>
 
 ## Recommended Pathing
 

@@ -8,7 +8,11 @@ TODO
 
 ## Paths
 
-TODO
+### Standard Path
+
+<video controls>
+  <source src="../../images/variations/easy-4-easy-4-standard-path.mp4" type="video/mp4">
+</video>
 
 ## Recommended Pathing
 
