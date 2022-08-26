@@ -17,7 +17,7 @@ nav:
   - 'Getting Started':
       - getting-started/index.md
       - getting-started/learning-the-rolls.md
-      - getting-started/roll-speed.md
+      - getting-started/blue-spins-faster-than-orange.md
       - getting-started/reducing-desync.md
       - getting-started/avoiding-griefers.md
   - 'Rolls':
@@ -56,8 +56,20 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'deep orange'
-    accent: 'blue'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: 'deep orange'
+      accent: 'blue'
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'deep orange'
+      accent: 'blue'
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
