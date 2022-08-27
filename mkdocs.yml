@@ -1,17 +1,13 @@
-# Project information
 site_name: Roll Off Club
 site_description: 'Everything you need to know about Roll Off in Fall Guys'
 site_author: 'Alex Lockwood'
-site_url: 'https://alexjlockwood.github.io/roll-off-club'
-remote_branch: gh-pages
-docs_dir: docs
-edit_uri: edit/main/docs/
+site_url: 'https://rolloff.club'
 
-# Repository
 repo_name: 'roll-off-club'
 repo_url: 'https://github.com/alexjlockwood/roll-off-club'
+remote_branch: gh-pages
+edit_uri: edit/main/docs/
 
-# Navigation
 nav:
   - 'Home': index.md
   - 'Getting Started':
@@ -51,7 +47,6 @@ nav:
       - advanced/wall-jumps-one-rolling.md
   - glossary.md
 
-# Configuration
 theme:
   name: 'material'
   language: 'en'
@@ -83,7 +78,6 @@ theme:
     - navigation.tabs
     - navigation.indexes 
 
-# Extensions
 markdown_extensions:
   - admonition
   - footnotes
