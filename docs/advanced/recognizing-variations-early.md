@@ -4,7 +4,8 @@ It is possible to detect the exact Roll Off variation from the preview at the st
 
 Below is a simple decision tree that you can use to detect each of the orange and blue rolls from the final's opening preview.
 
-![Flow chart](../images/advanced/recognizing-variants/flow-chart.jpg)
+![Flow chart](../images/advanced/recognizing-variants/flow-chart-light.jpg#only-light)
+![Flow chart](../images/advanced/recognizing-variants/flow-chart-dark.jpg#only-dark)
 
 ## Rolls
 
