@@ -75,7 +75,7 @@ theme:
       accent: 'blue'
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Switch to system theme
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
