@@ -1,7 +1,9 @@
 # Wall Jumps & One-Rolling
 
-TODO: how to do wall jumps
-TODO: avoid wall jumps without dives because of dive bug and elim but (need gifs)
+(This page is still under construction)
+
+* TODO: how to do wall jumps
+* TODO: avoid wall jumps without dives because of dive bug and elim but (need gifs)
 
 ## One-roll timeouts
 
