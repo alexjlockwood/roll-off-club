@@ -1,5 +1,7 @@
 # Easy 4
 
+The "Easy 4" rolls get their name from its sequence of 4 small easy jumps.
+
 The orange and blue Easy 4 rolls are mirror images of each other, yet the patterns on both are identical.
 
 ## Orange
