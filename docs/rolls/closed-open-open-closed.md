@@ -10,8 +10,8 @@ The "Closed-Open" roll gets its name is for having a confined start and an open 
 
 ### What to remember
 
-* **There is a large gap in the middle.** It's straightforward to jump dive across this gap. However, it may be smarter to stay on blue to avoid it.
 * **Ends with 3 jumps.** Most variations you'll want to end on orange to take advantage of this space.
+* **There is a large gap in the middle.** It's straightforward to jump dive across this gap. However, it may be smarter to stay on blue to avoid it.
 
 ## Blue
 
