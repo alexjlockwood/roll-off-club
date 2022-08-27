@@ -56,6 +56,12 @@ theme:
   name: 'material'
   language: 'en'
   palette:
+    - media: "(prefers-color-scheme)"
+      primary: 'deep orange'
+      accent: 'blue'
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: 'deep orange'
@@ -69,13 +75,14 @@ theme:
       accent: 'blue'
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
   font:
     text: 'IBM Plex Sans'
     code: 'IBM Plex Mono'
   features:
     - navigation.tabs
     - navigation.indexes 
+    - content.tooltips
 
 # Extensions
 markdown_extensions:
