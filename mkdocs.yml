@@ -1,15 +1,15 @@
 # Project information
-site_name: Roll Call Club
+site_name: Roll Off Club
 site_description: 'Everything you need to know about Roll Off in Fall Guys'
 site_author: 'Alex Lockwood'
-site_url: 'https://alexjlockwood.github.io/roll-call-club'
+site_url: 'https://alexjlockwood.github.io/roll-off-club'
 remote_branch: gh-pages
 docs_dir: docs
 edit_uri: edit/main/docs/
 
 # Repository
-repo_name: 'roll-call-club'
-repo_url: 'https://github.com/alexjlockwood/roll-call-club'
+repo_name: 'roll-off-club'
+repo_url: 'https://github.com/alexjlockwood/roll-off-club'
 
 # Navigation
 nav:
