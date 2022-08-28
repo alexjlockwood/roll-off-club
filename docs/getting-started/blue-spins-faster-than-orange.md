@@ -10,7 +10,7 @@ For example, the picture below shows how the blue and orange rolls align for the
 
 Notice how the orange roll aligns differently relative to the blue roll after each lap. *This is because blue spins slightly faster relative than orange, causing the alignment to change each lap.* In this case, it means that the transfer from blue to orange gets slightly more difficult with each lap.
 
-## Why this is so important
+## Why this is important
 
 Many players focus all of their energy on memorizing a single path to take early in the timeout. However, because they fail to take the different speeds into account, they are suddenly surprised when the path they have memorized suddenly doesn't work and they die because of it. Knowing that blue spins faster than orange will allow you to prepare for these potential surprises ahead of time and increase your chances of survival.
 
