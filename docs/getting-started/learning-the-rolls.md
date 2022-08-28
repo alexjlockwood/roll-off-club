@@ -21,4 +21,8 @@ Having a familiarity with the roll patterns before you start playing has many be
 
 ## Memorization tips
 
-Learning the rolls is something that you will pick up naturally through practice. I recommend taking a clip of each Roll Off final you play and analyzing it afterwards and see if you can identify the orange and blue rolls yourself and over time you'll be able to identify them quickly. If you find memorizing all of the roll patterns overwhelming at first, try memorizing only the important characteristics of each to start (such as the areas where there are multiple easy jumps in a row, etc.).
+Learning the rolls is something that you will pick up naturally through practice.
+
+I recommend taking a clip of each Roll Off final you play and analyzing it afterwards and see if you can identify the orange and blue rolls yourself and over time you'll be able to identify them quickly.
+
+If you find memorizing all of the roll patterns overwhelming at first, try memorizing only the important characteristics of each to start (such as the areas where there are multiple easy jumps in a row, etc.).

@@ -5,7 +5,7 @@ hide:
 
 # Roll Off Club
 
-## Getting Started
+## Getting started
 
 This [**section**](getting-started/index.md) explains the basics required to timeout Roll Off.
 
