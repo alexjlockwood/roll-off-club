@@ -21,6 +21,6 @@ Start here if you are familiar with the basics and are trying to learn how to ti
 
 This [**section**](advanced/index.md) gives more advanced tips and strategies, such as tips for counting laps, recognizing variations early, and wall jumping.
 
-## Play with us
+## Practice with us
 
-We host roll call customs live on [Twitch](https://www.twitch.tv/rollcallclub). Come practice with us!
+We host roll off customs live on [Twitch](https://www.twitch.tv/rollcallclub). Come practice with us!
