@@ -23,4 +23,4 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 
 ## Practice with us
 
-We host roll off customs live on [Twitch](https://www.twitch.tv/rollcallclub). Come practice with us!
+We host roll off customs live on [**Twitch**](https://www.twitch.tv/rollcallclub). Come practice with us!
