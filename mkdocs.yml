@@ -49,6 +49,7 @@ nav:
 
 theme:
   name: 'material'
+  custom_dir: overrides
   language: 'en'
   palette:
     - media: "(prefers-color-scheme)"
@@ -85,10 +86,6 @@ markdown_extensions:
       permalink: true
   - pymdownx.betterem
   - pymdownx.superfences
-
-plugins:
-  - search
-  - social
 
 extra:
   social:
