@@ -10,7 +10,7 @@ hide:
 | 4 by 4                      | An alternate name used to describe the [Easy 4 + Easy 4](./variations/easy-4-easy-4.md) Roll Off variation, the easiest of all 20 variations. |
 | 5 Waller                    | An [orange roll variant](./rolls/5-waller.md) in Roll Off. |
 | 5 Wall Club                 | A prestigious group of Fall Guys players who have one-rolled 5 Waller, the most difficult roll to one-roll. |
-| Alex's path                 | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [alexjlockwood](alexjlockwood). |
+| Alex's path                 | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [alexjlockwood][alexjlockwood]. |
 | Baby path                   | An alternate name used to describe the [Outer Wall Jump](./variations/closed-open-grand-canyon.md#outer-wall-jump) path in the Closed-Open + Grand Canyon Roll Off variation. Named because it is the only path where wall jumping is the easier option compared to the other possible paths. |
 | Bar                         | The circular rails that are under the rolls in Roll Off. |
 | Bar jump                    | The act of bunny hopping off one of the bars across a gap in Roll Off. Named after [CityLimitsPK][CityLimitsPK]. |
