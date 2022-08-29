@@ -74,6 +74,27 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 | 11    | Medium     |
 | 12    | Medium     |
 
+### Inner Wall Jump
+
+<video controls>
+  <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump.mp4" type="video/mp4">
+</video>
+
+#### Summary
+
+1. Start on orange
+2. Inner wall jump on the left side of orange
+3. Run on orange until it is safe to jump back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Very hard  |
+| 10    | Very hard  |
+| 11    | Hard       |
+| 12    | Medium     |
+
 ## Recommended Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
