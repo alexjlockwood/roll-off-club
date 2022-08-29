@@ -4,7 +4,7 @@
 
 ## Overview
 
-Also known as the "3rd Hardest Variation", Closed-Open + Grand Canyon is in the top tier of most difficult Roll Off variations to timeout.
+Also known as the "3rd Hardest Variation", 5 Waller + Grand Canyon is in the top tier of most difficult Roll Off variations to timeout.
 
 ## Paths
 
