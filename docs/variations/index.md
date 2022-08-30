@@ -16,20 +16,20 @@ These are the hardest of all 20 Roll Off variations. Memorizing paths ahead of t
 
 While not the hardest, these variations can still be somewhat difficult, especially with many players still alive in the last couple minutes of the timeout.
 
+* [Easy 4 + Grand Canyon](./easy-4-grand-canyon.md)
+* [Easy 4 + Open-Closed](./easy-4-open-closed.md)
 * [5 Waller + Easy 4](./5-waller-easy-4.md)
-* 5 Waller + Isolated Duo
-* 5 Waller + Pillar Trench
+* [5 Waller + Isolated Duo](./5-waller-isolated-duo.md)
+* [5 Waller + Pillar Trench](./5-waller-pillar-trench.md)
 
 ## Medium variations
 
-These variations are not too difficult if you have learned [the basics](../getting-started/index.md). Memorizing paths is not required (assuming you have familiarized yourself with [the rolls](../rolls/index.md)).
+These variations are not too difficult if you have learned [the basics](../getting-started/index.md). Memorizing paths is *not required* for these variations (assuming you have familiarized yourself with [the rolls](../rolls/index.md)).
 
 * Closed-Open + Easy 4
 * Closed-Open + Isolated Duo
 * Closed-Open + Pillar Trench
-* [Easy 4 + Grand Canyon](./easy-4-grand-canyon.md)
 * Easy 4 + Isolated Duo
-* Easy 4 + Open-Closed
 * Easy 4 + Pillar Trench
 * Isolated Duo + Easy 4
 * [Isolated Duo + Isolated Duo](./isolated-duo-isolated-duo.md)

@@ -9,7 +9,7 @@ hide:
 
 This [**section**](getting-started/index.md) explains the basics required to timeout Roll Off.
 
-Start here if you are looking to get your first Roll Off timeout or to improve your consistency overall.
+Start here if you are looking to get your first Roll Off timeout or to improve your win rate overall.
 
 ## Variations
 
