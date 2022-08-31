@@ -11,43 +11,43 @@ edit_uri: edit/main/docs/
 nav:
   - 'Home': index.md
   - 'Getting Started':
-      - getting-started/index.md
-      - getting-started/learning-the-rolls.md
-      - getting-started/blue-spins-faster-than-orange.md
-      - getting-started/reducing-desync.md
-      - getting-started/avoiding-griefers.md
+    - getting-started/index.md
+    - getting-started/learning-the-rolls.md
+    - getting-started/blue-spins-faster-than-orange.md
+    - getting-started/reducing-desync.md
+    - getting-started/avoiding-griefers.md
   - 'Rolls':
-      - rolls/index.md
-      - rolls/easy-4.md
-      - rolls/isolated-duo.md
-      - rolls/closed-open-open-closed.md
-      - rolls/pillar-trench.md
-      - rolls/5-waller.md
-      - rolls/grand-canyon.md
+    - rolls/index.md
+    - rolls/easy-4.md
+    - rolls/isolated-duo.md
+    - rolls/closed-open-open-closed.md
+    - rolls/pillar-trench.md
+    - rolls/5-waller.md
+    - rolls/grand-canyon.md
   - 'Variations':
-      - variations/index.md
-      - 'Hardest Variations':
-          - variations/5-waller-grand-canyon.md
-          - variations/5-waller-open-closed.md
-          - variations/closed-open-grand-canyon.md
-          - variations/closed-open-open-closed.md
-          - variations/isolated-duo-grand-canyon.md
-      - 'Hard Variations':
-          - variations/easy-4-grand-canyon.md
-          - variations/easy-4-open-closed.md
-          - variations/5-waller-easy-4.md
-          - variations/5-waller-isolated-duo.md
-          - variations/5-waller-pillar-trench.md
-      - 'Medium Variations':
-          - variations/isolated-duo-isolated-duo.md
-      - 'Easy Variations':
-          - variations/easy-4-easy-4.md
+    - variations/index.md
+    - 'Hardest Variations':
+      - variations/5-waller-grand-canyon.md
+      - variations/5-waller-open-closed.md
+      - variations/closed-open-grand-canyon.md
+      - variations/closed-open-open-closed.md
+      - variations/isolated-duo-grand-canyon.md
+    - 'Hard Variations':
+      - variations/easy-4-grand-canyon.md
+      - variations/easy-4-open-closed.md
+      - variations/5-waller-easy-4.md
+      - variations/5-waller-isolated-duo.md
+      - variations/5-waller-pillar-trench.md
+    - 'Medium Variations':
+      - variations/isolated-duo-isolated-duo.md
+    - 'Easy Variations':
+      - variations/easy-4-easy-4.md
   - 'Advanced':
-      - advanced/index.md
-      - advanced/counting-laps.md
-      - advanced/isolated-duo-god-jumps.md
-      - advanced/recognizing-variations-early.md
-      - advanced/wall-jumps-one-rolling.md
+    - advanced/index.md
+    - advanced/counting-laps.md
+    - advanced/isolated-duo-god-jumps.md
+    - advanced/recognizing-variations.md
+    - advanced/wall-jumps-one-rolling.md
   - glossary.md
 
 theme:
@@ -92,6 +92,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        advanced/recognizing-variations-early.md: advanced/recognizing-variations.md
   - minify:
       minify_html: true
 
