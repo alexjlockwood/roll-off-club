@@ -4,9 +4,11 @@
 
 ## Overview
 
-TODO
+5 Waller + Easy 4 is one of the most dangerous variations when it comes to desync.
 
 ## Paths
+
+The key to timing out this variation is coordination. You'll want to avoid having two beans transfer to the same small ledge at all costs. Specifically, when the 2nd wall on orange comes, try to coordinate who transfers to the outer and inner small ledge.
 
 ### Outer Orange Ledge
 
@@ -19,10 +21,6 @@ TODO
 <video controls>
   <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge.mp4" type="video/mp4">
 </video>
-
-## Recommended Pathing
-
-TODO
 
 ## Example Timeouts
 

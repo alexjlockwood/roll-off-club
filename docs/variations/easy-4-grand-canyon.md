@@ -4,7 +4,7 @@
 
 ## Overview
 
-TODO
+Easy 4 + Grand Canyon is the easiest grand canyon variation, due to the fact that the 4 easy jumps to start on orange means you can easily avoid the large gap on Grand Canyon entirely. That said, it is still somewhat difficult due to some of the tight pinches that are required late in the timeout.
 
 ## Paths
 
@@ -25,10 +25,6 @@ TODO
 <video controls>
   <source src="../../images/variations/easy-4-grand-canyon-poppers-path.mp4" type="video/mp4">
 </video>
-
-## Recommended Pathing
-
-TODO
 
 ## Example Timeouts
 
