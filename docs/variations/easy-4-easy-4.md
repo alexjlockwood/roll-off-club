@@ -4,7 +4,7 @@
 
 ## Overview
 
-TODO
+Easy 4 + Easy 4, also known as "4 by 4", is the easiest roll off variation. To time it out, you simply start on orange, jump 4 times, switch to blue, and then again jump 4 times.
 
 ## Paths
 
