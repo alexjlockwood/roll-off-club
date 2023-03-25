@@ -39,12 +39,17 @@ nav:
       - variations/easy-4-grand-canyon.md
       - variations/easy-4-open-closed.md
     - 'Medium Variations':
+      - variations/closed-open-easy-4.md
       - variations/closed-open-isolated-duo.md
+      - variations/closed-open-pillar-trench.md
       - variations/easy-4-pillar-trench.md
       - variations/isolated-duo-isolated-duo.md
     - 'Easy Variations':
       - variations/easy-4-easy-4.md
       - variations/easy-4-isolated-duo.md
+      - variations/isolated-duo-easy-4.md
+      - variations/isolated-duo-open-closed.md
+      - variations/isolated-duo-pillar-trench.md
   - 'Advanced':
     - advanced/index.md
     - advanced/counting-laps.md
