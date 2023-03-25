@@ -38,6 +38,8 @@ nav:
       - variations/5-waller-easy-4.md
       - variations/5-waller-isolated-duo.md
       - variations/5-waller-pillar-trench.md
+    - 'Medium Variations':
+      - variations/isolated-duo-isolated-duo.md
     - 'Easy Variations':
       - variations/easy-4-easy-4.md
   - 'Advanced':
