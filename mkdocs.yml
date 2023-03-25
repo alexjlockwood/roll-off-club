@@ -44,6 +44,7 @@ nav:
       - variations/isolated-duo-isolated-duo.md
     - 'Easy Variations':
       - variations/easy-4-easy-4.md
+      - variations/easy-4-isolated-duo.md
   - 'Advanced':
     - advanced/index.md
     - advanced/counting-laps.md

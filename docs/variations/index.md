@@ -28,18 +28,18 @@ These variations are not too difficult if you have learned [the basics](../getti
 
 * Closed-Open + Easy 4
 * [Closed-Open + Isolated Duo](./closed-open-isolated-duo.md)
+* Closed-Open + Pillar Trench
 * [Easy 4 + Pillar Trench](./easy-4-pillar-trench.md)
 * [Isolated Duo + Isolated Duo](./isolated-duo-isolated-duo.md)
-* Isolated Duo + Pillar Trench
 
 ## Easy variations
 
 These are the easiest Roll Off variations to timeout, containing lots of open space and multiple different pathing options. Memorizing paths is *not required* for these variations. However, memorizing [the rolls](../rolls/index.md) is encouraged.
 
-* Closed-Open + Pillar Trench
 * [Easy 4 + Easy 4](./easy-4-easy-4.md)
-* Easy 4 + Isolated Duo
+* [Easy 4 + Isolated Duo](./easy-4-isolated-duo.md)
 * Isolated Duo + Easy 4
+* Isolated Duo + Pillar Trench
 * Isolated Duo + Open-Closed
 
 ## Example Timeouts
