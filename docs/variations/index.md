@@ -24,17 +24,17 @@ While not the hardest, these variations can still be somewhat difficult, especia
 
 ## Medium variations
 
-These variations are not too difficult if you have learned [the basics](../getting-started/index.md). Memorizing paths is *not required* for these variations (assuming you have familiarized yourself with [the rolls](../rolls/index.md)).
+These variations are not too difficult if you have learned [the basics](../getting-started/index.md), but may be prone to desync with a large number of players. Memorizing paths is *not required* for these variations. However, memorizing [the rolls](../rolls/index.md) is encouraged.
 
 * Closed-Open + Easy 4
-* Closed-Open + Isolated Duo
-* Easy 4 + Pillar Trench
-* Isolated Duo + Isolated Duo
+* [Closed-Open + Isolated Duo](./closed-open-isolated-duo.md)
+* [Easy 4 + Pillar Trench](./easy-4-pillar-trench.md)
+* [Isolated Duo + Isolated Duo](./isolated-duo-isolated-duo.md)
 * Isolated Duo + Pillar Trench
 
 ## Easy variations
 
-These are the easiest Roll Off variations to timeout. Memorizing paths is *not required* for these variations (assuming you have familiarized yourself with [the rolls](../rolls/index.md)).
+These are the easiest Roll Off variations to timeout, containing lots of open space and multiple different pathing options. Memorizing paths is *not required* for these variations. However, memorizing [the rolls](../rolls/index.md) is encouraged.
 
 * Closed-Open + Pillar Trench
 * [Easy 4 + Easy 4](./easy-4-easy-4.md)
