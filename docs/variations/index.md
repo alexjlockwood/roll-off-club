@@ -29,7 +29,7 @@ These variations are not too difficult if you have learned [the basics](../getti
 * Closed-Open + Easy 4
 * Closed-Open + Isolated Duo
 * Easy 4 + Pillar Trench
-* [Isolated Duo + Isolated Duo](./isolated-duo-isolated-duo.md)
+* Isolated Duo + Isolated Duo
 * Isolated Duo + Pillar Trench
 
 ## Easy variations
