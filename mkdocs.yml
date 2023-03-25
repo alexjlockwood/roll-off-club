@@ -3,7 +3,6 @@ site_description: 'Everything you need to know about Roll Off in Fall Guys'
 site_author: 'Alex Lockwood'
 site_url: 'https://rolloff.club'
 
-repo_name: 'roll-off-club'
 repo_url: 'https://github.com/alexjlockwood/roll-off-club'
 remote_branch: gh-pages
 edit_uri: edit/main/docs/
