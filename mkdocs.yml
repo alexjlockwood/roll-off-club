@@ -33,11 +33,11 @@ nav:
       - variations/closed-open-open-closed.md
       - variations/isolated-duo-grand-canyon.md
     - 'Hard Variations':
-      - variations/easy-4-grand-canyon.md
-      - variations/easy-4-open-closed.md
       - variations/5-waller-easy-4.md
       - variations/5-waller-isolated-duo.md
       - variations/5-waller-pillar-trench.md
+      - variations/easy-4-grand-canyon.md
+      - variations/easy-4-open-closed.md
     - 'Medium Variations':
       - variations/isolated-duo-isolated-duo.md
     - 'Easy Variations':
