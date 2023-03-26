@@ -13,7 +13,7 @@ hide:
 | Alex's path                 | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [alexjlockwood][alexjlockwood]. |
 | Baby path                   | An alternate name used to describe the [Outer Wall Jump](./variations/closed-open-grand-canyon.md#outer-wall-jump) path in the Closed-Open + Grand Canyon Roll Off variation. Named because it is the only path where wall jumping is the easier option compared to the other possible paths. |
 | Bar                         | The circular rails that are under the rolls in Roll Off. |
-| Bar jump                    | The act of bunny hopping off one of the bars across a gap in Roll Off. Named after [CityLimitsPK][CityLimitsPK]. |
+| Bar jump                    | The act of bunny hopping off one of the bars across a gap in Roll Off. |
 | City's ledge                | The extremely small ledge just before the 3rd wall on [5 Waller](./rolls/5-waller.md) orange. Named after [CityLimitsPK][CityLimitsPK]. |
 | City's path                 | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
 | Closed-Open                 | An [orange roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
