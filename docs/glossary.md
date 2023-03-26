@@ -47,7 +47,7 @@ hide:
 [CityLimitsPK]: <https://www.twitch.tv/citylimitspk> "CityLimitsPK's Twitch"
 [EChanTV]: <https://www.youtube.com/user/hellomotto39> "EChan's YouTube"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
-[lil_poppers]: <https://www.twitch.tv/lil_poppers> "lil_poppers' Twitch"
+[lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
 [RollOffPiggy]: <https://www.twitch.tv/roll_off_piggy> "Roll Off Piggy's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
