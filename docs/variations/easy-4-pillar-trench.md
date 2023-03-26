@@ -14,15 +14,29 @@ TODO
   <source src="../../images/variations/easy-4-pillar-trench-end-on-orange.mp4" type="video/mp4">
 </video>
 
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Easy       |
+| 10    | Easy       |
+| 11    | Medium     |
+| 12    | Medium     |
+
 ### End on Blue
 
 <video controls>
   <source src="../../images/variations/easy-4-pillar-trench-end-on-blue.mp4" type="video/mp4">
 </video>
 
-## Recommended Pathing
+#### Difficulty
 
-TODO
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Easy       |
+| 12    | Easy       |
 
 ## Example Timeouts
 
