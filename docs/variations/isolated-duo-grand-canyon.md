@@ -8,7 +8,7 @@ Also known as the "5th Hardest Variation", Isolated Duo + Grand Canyon is in the
 
 ## Paths
 
-There are 3 possible paths to take on laps 9-12 of the timeout:
+There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
