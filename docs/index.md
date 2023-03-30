@@ -29,11 +29,9 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 
 ## Practice with us
 
-We host roll off customs live on Twitch. Come practice with us by following the links below!
+Join the [**Roll Call Discord**](https://discord.gg/xf9D89Hfxa) to be notified when we practice in customs, or by following the Twitch accounts below!
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)
-
-Or join the [**Roll Call Discord**](https://discord.gg/xf9D89Hfxa) to be notified when we practice in customs!
