@@ -11,6 +11,12 @@ This [**section**](getting-started/index.md) explains the basics required to tim
 
 Start here if you are looking to get your first Roll Off timeout or to improve your win rate overall.
 
+## Rolls
+
+This [**section**](rolls/index.md) details the 4 orange rolls and 5 blue rolls that can appear in any given Roll Off final.
+
+Start here if you are interested in memorizing the important aspects of these rolls, which will make surviving the final much easier.
+
 ## Variations
 
 This [**section**](variations/index.md) gives in-depth analysis of specific Roll Off variations, including clips of specific paths to take for the harder variations.
@@ -23,4 +29,11 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 
 ## Practice with us
 
-We host roll off customs live on [**Twitch**](https://www.twitch.tv/williamschiv). Come practice with us!
+We host roll off customs live on Twitch. Come practice with us by following the links below!
+
+* [williamschiv](https://www.twitch.tv/williamschiv)
+* [CityLimitsPK](https://www.twitch.tv/citylimitspk)
+* [jdever449](https://www.twitch.tv/jdever449)
+* [alexjlockwood](https://www.twitch.tv/alexjlockwood)
+
+Or join the [**Roll Call Discord**](https://discord.gg/xf9D89Hfxa) to be notified when we practice in customs!
