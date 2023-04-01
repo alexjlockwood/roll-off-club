@@ -14,17 +14,44 @@ Easy 4 + Grand Canyon is the easiest grand canyon variation, due to the fact tha
   <source src="../../images/variations/easy-4-grand-canyon-end-on-orange.mp4" type="video/mp4">
 </video>
 
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Easy       |
+| 10    | Easy       |
+| 11    | Medium     |
+| 12    | Medium     |
+
 ### End On Blue
 
 <video controls>
   <source src="../../images/variations/easy-4-grand-canyon-end-on-blue.mp4" type="video/mp4">
 </video>
 
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Easy       |
+| 12    | Easy       |
+
 ### Popper's Path
 
 <video controls>
   <source src="../../images/variations/easy-4-grand-canyon-poppers-path.mp4" type="video/mp4">
 </video>
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Medium     |
 
 ## Example Timeouts
 
