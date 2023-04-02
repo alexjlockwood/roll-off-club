@@ -106,8 +106,8 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 #### Summary
 
 1. Start on blue
-2. Outer wall jump as early as possible
-3. Run across the gc ledge and jump dive to orange as late as possible
+2. Outer wall jump on the right side of blue
+3. Run across the grand canyon ledge and jump dive to orange
 4. Transfer back to blue
 
 #### Difficulty
