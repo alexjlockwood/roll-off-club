@@ -34,6 +34,7 @@ hide:
 | Pillar Trench               | A [blue roll variant](./rolls/pillar-trench.md) in Roll Off. |
 | Popper's ledge              | The small ledge immediately after the 2nd wall on [Grand Canyon](./rolls/grand-canyon.md) blue. Named after [lil_poppers][lil_poppers]. |
 | Popper's path               | A [path](./variations/easy-4-grand-canyon.md#poppers-path) used to timeout the Easy 4 + Grand Canyon variation of Roll Off. Named after [lil_poppers][lil_poppers]. |
+| Rainbow's path             | A path used to timeout Grand Canyon variations of Roll Off ([Closed-Open](./variations/closed-open-grand-canyon.md#rainbows-path), 5 Waller, and Isolated Duo). Named after [RainbowStays][RainbowStays]. |
 | SH3RKH4N's path             | A [path](./variations/5-waller-open-closed.md#sh3rkh4ns-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [SH3RKH4N][SH3RKH4N]. |
 | Suki's gap                  | The large gap immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after [SH3RKH4N][SH3RKH4N]. |
 | Suki's ledge                | The small ledge immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
@@ -50,5 +51,6 @@ hide:
 [lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
 [RollOffPiggy]: <https://www.twitch.tv/roll_off_piggy> "Roll Off Piggy's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
+[RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
 [Syed]: <https://www.youtube.com/channel/UCZXTEu6Qa8WDR4IeAyunaig> "Syed's YouTube"
