@@ -10,7 +10,7 @@ This variation becomes very difficult starting on the 9th lap at around 3:30 int
 
 ## Paths
 
-There are 4 possible paths to take on laps 9-12 of the timeout:
+There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Grand Canyon Ledge
 
@@ -54,27 +54,6 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 | 11    | Hard       |
 | 12    | Hard       |
 
-### Piggy's Path
-
-<video controls>
-  <source src="../../images/variations/closed-open-grand-canyon-piggys-path.mp4" type="video/mp4">
-</video>
-
-#### Summary
-
-1. Start on orange
-2. Run up to the front of the wall
-3. Pause and then jump dive back to blue
-
-#### Difficulty
-
-| Lap # | Difficulty |
-| ----- | ---------- |
-| 9     | Impossible |
-| 10    | Very hard  |
-| 11    | Hard       |
-| 12    | Medium     |
-
 ### Outer Wall Jump
 
 <video controls>
@@ -96,6 +75,49 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 | 10    | Medium     |
 | 11    | Medium     |
 | 12    | Medium     |
+
+### Piggy's Path
+
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-piggys-path.mp4" type="video/mp4">
+</video>
+
+#### Summary
+
+1. Start on orange
+2. Run up to the front of the wall
+3. Pause and then jump dive back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Very hard  |
+| 11    | Hard       |
+| 12    | Medium     |
+
+### Rainbow's Path
+
+<video controls>
+  <source src="../../images/variations/closed-open-grand-canyon-rainbow-path.mp4" type="video/mp4">
+</video>
+
+#### Summary
+
+1. Start on blue
+2. Outer wall jump as early as possible
+3. Run across the gc ledge and jump dive to orange as late as possible
+4. Transfer back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Very hard  |
+| 10    | Very hard  |
+| 11    | Very hard  |
+| 12    | Very hard  |
 
 ## Recommended Pathing
 
