@@ -8,6 +8,8 @@ Easy 4 + Grand Canyon is the easiest grand canyon variation, due to the fact tha
 
 ## Paths
 
+There are 3 paths you can take to survive the final transfer on laps 9-12 of the timeout. I recommend taking whichever path has less players, as it can be very easy to collide otherwise.
+
 ### End On Orange
 
 <video controls>

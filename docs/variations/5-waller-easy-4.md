@@ -8,7 +8,7 @@
 
 ## Paths
 
-The key to timing out this variation is coordination. You'll want to avoid having two beans transfer to the same small ledge at all costs. Specifically, when the 2nd wall on orange comes, try to coordinate who transfers to the outer and inner small ledge.
+The key to timing out this variation is coordination. You'll want to avoid having two beans transfer to the same small ledge at all costs. Specifically, when the 2nd wall on orange comes, try to coordinate who transfers to the outer and inner small ledge. The paths below can be done on all 12 laps of the timeout with relative ease.
 
 ### Outer Orange Ledge
 

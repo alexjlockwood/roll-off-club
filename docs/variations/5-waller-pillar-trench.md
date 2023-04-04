@@ -8,6 +8,8 @@
 
 ## Paths
 
+### Example Path
+
 <video controls>
   <source src="../../images/variations/5-waller-pillar-trench-standard-path.mp4" type="video/mp4">
 </video>

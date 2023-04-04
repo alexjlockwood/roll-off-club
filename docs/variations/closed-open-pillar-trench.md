@@ -8,7 +8,7 @@ TODO
 
 ## Paths
 
-### Standard Path
+### Example Path
 
 <video controls>
   <source src="../../images/variations/closed-open-pillar-trench-standard-path.mp4" type="video/mp4">

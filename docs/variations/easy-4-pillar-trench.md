@@ -4,9 +4,11 @@
 
 ## Overview
 
-TODO
+This variation starts off very easy, with 4 jumps at the beginning of orange and 3 jumps in the middle of blue. The ending of each lap can be difficult with multiple players, especially towards the end of the timeout.
 
 ## Paths
+
+There are 2 paths you can take to survive the final transfer on laps 9-12 of the timeout. I recommend taking whichever path has less players, as it can be very easy to collide otherwise.
 
 ### End on Orange
 

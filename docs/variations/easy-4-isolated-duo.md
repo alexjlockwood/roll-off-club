@@ -8,7 +8,7 @@ TODO
 
 ## Paths
 
-### Standard Path
+### Example Path
 
 <video controls>
   <source src="../../images/variations/easy-4-isolated-duo-standard-path.mp4" type="video/mp4">

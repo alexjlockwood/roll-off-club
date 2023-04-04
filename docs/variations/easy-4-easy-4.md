@@ -4,17 +4,17 @@
 
 ## Overview
 
-Easy 4 + Easy 4, also known as "4 by 4", is the easiest roll off variation. To time it out, you simply start on orange, jump 4 times, switch to blue, and then again jump 4 times.
+[Easy 4](../rolls/easy-4.md#orange) + [Easy 4](../rolls/easy-4.md#blue), also known as "4 by 4", is the easiest roll off variation.
 
 ## Paths
 
-### Standard Path
+### Example Path
 
 <video controls>
   <source src="../../images/variations/easy-4-easy-4-standard-path.mp4" type="video/mp4">
 </video>
 
-The standard path is to jump 4 times on orange, transfer to blue just before the first wall on orange and after the 2nd wall on blue, and then jump 4 times on blue. This path can be done all 12 laps.
+To timeout this variation, simply jump 4 times on orange, transfer to blue, and jump 4 times on blue. This path can be done all 12 laps.
 
 <video controls>
   <source src="../../images/variations/easy-4-easy-4-alternate-path.mp4" type="video/mp4">
