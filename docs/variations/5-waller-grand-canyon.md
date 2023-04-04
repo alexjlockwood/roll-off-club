@@ -8,7 +8,7 @@ Also known as the "3rd Hardest Variation", 5 Waller + Grand Canyon is in the top
 
 ## Paths
 
-There are 3 possible paths to take on laps 9-12 of the timeout:
+There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
