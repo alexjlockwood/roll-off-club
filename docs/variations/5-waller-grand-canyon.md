@@ -74,6 +74,28 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 | 11    | Hard       |
 | 12    | Hard       |
 
+### Rainbow's Path
+
+<video controls>
+  <source src="../../images/variations/5-waller-grand-canyon-rainbow-path.mp4" type="video/mp4">
+</video>
+
+#### Summary
+
+1. Start on blue
+2. Outer wall jump on the right side of blue
+3. Run across the grand canyon ledge and jump dive to orange
+4. Transfer back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Very hard  |
+| 10    | Very hard  |
+| 11    | Very hard  |
+| 12    | Very hard  |
+
 ## Recommended Pathing
 
 Here is an example of what an ideal 3 person timeout looks like for this variation:
