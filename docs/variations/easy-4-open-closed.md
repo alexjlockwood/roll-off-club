@@ -4,7 +4,7 @@
 
 ## Overview
 
-Easy 4 + Open-Closed is straightforward up until around the 9th lap when slime reaches maximum level.
+[Easy 4](../rolls/easy-4.md#orange) + [Open-Closed](../rolls/closed-open-open-closed.md#blue) starts off easy, with 4 jumps at the beginning of orange and 3 jumps at the beginning of blue. It becomes more difficult at around the 9th lap of the timeout when the slime reaches the maximum level.
 
 ## Paths
 

@@ -4,7 +4,7 @@
 
 ## Overview
 
-5 Waller + Pillar Trench is the easiest 5 Waller variation. While it can be difficult at times to avoid collisions at the start of each lap, the middle and ending of each lap is fairly straight forward, with a lot of free space in the middle of blue.
+[5 Waller](../rolls/5-waller.md) + [Pillar Trench](../rolls/pillar-trench.md) is the easiest 5 Waller variation. While it can be difficult at times to avoid collisions at the start of each lap, the middle and ending of each lap is fairly straight forward, with a lot of free space in the middle of blue.
 
 ## Paths
 

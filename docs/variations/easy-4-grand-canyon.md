@@ -4,7 +4,7 @@
 
 ## Overview
 
-Easy 4 + Grand Canyon is the easiest grand canyon variation, due to the fact that the 4 easy jumps to start on orange means you can easily avoid the large gap on Grand Canyon entirely. That said, it is still somewhat difficult due to some of the tight pinches that are required late in the timeout.
+[Easy 4](../rolls/easy-4.md#orange) + [Grand Canyon](../rolls/grand-canyon.md) is the easiest grand canyon variation, due to the fact that the 4 easy jumps to start on orange means you can easily avoid the large gap on Grand Canyon entirely. That said, it is still somewhat difficult due to some of the tight pinches that are required late in the timeout.
 
 ## Paths
 

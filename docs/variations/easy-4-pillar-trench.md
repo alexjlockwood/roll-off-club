@@ -4,7 +4,7 @@
 
 ## Overview
 
-This variation starts off very easy, with 4 jumps at the beginning of orange and 3 jumps in the middle of blue. The ending of each lap can be difficult with multiple players, especially towards the end of the timeout.
+[Easy 4](../rolls/easy-4.md#orange) + [Pillar Trench](../rolls/pillar-trench.md) starts off easy, with 4 jumps at the beginning of orange and 3 jumps in the middle of blue. The ending of each lap can be difficult with multiple players, especially towards the end of the timeout.
 
 ## Paths
 

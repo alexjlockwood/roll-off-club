@@ -4,7 +4,7 @@
 
 ## Overview
 
-5 Waller + Isolated Duo is made difficult due to the lack of free space available on orange, forcing most players on blue for a majority of the timeout.
+[5 Waller](../rolls/5-waller.md) + [Isolated Duo](../rolls/isolated-duo.md#blue) is made difficult due to the lack of free space available on orange, forcing most players on blue for a majority of the timeout.
 
 ## Paths
 
