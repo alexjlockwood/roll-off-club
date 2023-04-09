@@ -1,9 +1,5 @@
 # Avoiding Griefers
 
-!!! warning
-
-    This page is still a work in progress. 🙃
-
 ## Learn the roll patterns
 
 Learning the roll patterns will make it much easier for you to change up your pathing on-the-fly in order to avoid a griefer.
@@ -41,6 +37,9 @@ You can one-roll to avoid a griefer:
     Avoid one-rolling early on in the timeout, as it will draw attention to yourself and
     make it more likely that griefers will focus on killing you.
 
+<!--
+IGNORE THIS FOR TRANSLATIONS:
+
 ## Other TODOs
 
 Still need clips/examples of these strategies:
@@ -52,3 +51,4 @@ Still need clips/examples of these strategies:
 * Avoid jumping when griefers nearby
 * Bunny hop on roll off to avoid griefers similar to jump showdown
 * Stay out of the way and don't draw attention to yourself at the start when dealing with griefers
+-->
