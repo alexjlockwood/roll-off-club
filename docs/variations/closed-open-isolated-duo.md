@@ -4,7 +4,7 @@
 
 ## Overview
 
-[Closed-Open](../rolls/closed-open-open-closed.md#orange) + [Isolated Duo](../rolls/isolated-duo.md#blue) can prove to be a challenge, especially late in the timeout when the large gaps on blue and orange align. Remember that the first long jump on blue is a [god jump](../advanced/isolated-duo-god-jumps.md) that can be difficult to perform, so it is best to avoid it if possible.
+[Closed-Open](../rolls/closed-open-open-closed.md#orange) + [Isolated Duo](../rolls/isolated-duo.md#blue) can prove to be a challenge, especially late in the timeout when the large gaps on blue and orange align, leaving little space. Remember that the first long jump on blue is a [god jump](../advanced/isolated-duo-god-jumps.md) that can be difficult to perform, so it is best to avoid it if possible. However, the second long jump on blue is easy to perform and can be useful for avoiding collisions in the center.
 
 ## Paths
 
