@@ -106,6 +106,18 @@ plugins:
         advanced/recognizing-variations-early.md: advanced/recognizing-variations.md
   - minify:
       minify_html: true
+  - i18n:
+      default_language: en
+      docs_structure: suffix
+      languages:
+        en:
+          name: English
+          build: true
+          site_name: "Roll Off Club"
+        ko:
+          name: Korean
+          build: true
+          site_name: "Roll Off 클럽"
 
 extra:
   social:
@@ -119,4 +131,4 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2022 Alex Lockwood
+copyright: Copyright &copy; 2022-2023 Alex Lockwood
