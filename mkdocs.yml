@@ -115,7 +115,7 @@ plugins:
           build: true
           site_name: "Roll Off Club"
         ko:
-          name: Korean
+          name: 한국어
           build: true
           site_name: "Roll Off 클럽"
 
