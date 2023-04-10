@@ -118,6 +118,9 @@ plugins:
           name: 한국어
           build: true
           site_name: "Roll Off 클럽"
+      nav_translations:
+        ko:
+          Getting Started: 시작하기
 
 extra:
   social:
