@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Roll Off 클럽 asdf
+# Roll Off 클럽
 
 ## 시작하기
 
