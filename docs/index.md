@@ -40,6 +40,6 @@ Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practic
 
 Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
 
-* [qutrits](https://github.com/qutrits) ([Korean](./index.ko.md))
+* [qutrits](https://github.com/qutrits) ([Korean](./ko/))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
