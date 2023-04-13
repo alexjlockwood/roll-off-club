@@ -5,7 +5,7 @@
 각 기본 패턴에 대한 개요는 다음과 같습니다.
 
 * [이지 4](../rolls/easy-4.md)
-* [아이솔레이티드 듀오](../rolls/isolated-duo.md)
+* [고립된 듀오](../rolls/isolated-duo.md)
 * [클로즈드-오픈 & 오픈-클로즈드](../rolls/closed-open-open-closed.md)
 * [기둥 참호](../rolls/pillar-trench.md)
 * [5 벽](../rolls/5-waller.md)
