@@ -96,6 +96,9 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.betterem
   - pymdownx.superfences
 
