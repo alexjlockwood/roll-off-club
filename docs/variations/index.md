@@ -2,6 +2,15 @@
 
 This section gives an in-depth analysis of the 20 different Roll Off variations.
 
+!!! note
+
+    It is *highly recommended* to read through the [getting started](../getting-started/index.md)
+    section before learning the specifics of individual variations. In particular, is is very important
+    to be familiar with the different [roll patterns](../getting-started/learning-the-rolls.md) and 
+    to know that the blue roll spins [slightly faster](../getting-started/blue-spins-faster-than-orange.md)
+    than the orange roll. With this knowledge, many of the variations can be timed out intuitively without
+    needing to memorize paths for each of the individual variations.
+
 ## Hardest variations
 
 These are the hardest of all 20 Roll Off variations. Memorizing paths ahead of time is recommended to consistently survive on these variations.

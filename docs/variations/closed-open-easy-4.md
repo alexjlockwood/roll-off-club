@@ -4,7 +4,12 @@
 
 ## Overview
 
-TODO
+[Closed-Open](../rolls/closed-open-open-closed#orange) + [Easy 4](../rolls/easy-4.md#blue) can be difficult to timeout late in due to the small amount of free space at the beginning of each lap. The middle of each lap can also prove difficult, as the large gap on orange aligns awkwardly with the 2nd wall on blue, making transfers more difficult. The end of each lap provides lots of free space, with 4 jumps on blue and 3 jumps on orange.
+
+!!! note "Fun Fact"
+
+    This variation appears on the [thumbnail image](../assets/social-preview.jpg) before the final, and as a result
+    we call it the "thumbnail variation".
 
 ## Paths
 

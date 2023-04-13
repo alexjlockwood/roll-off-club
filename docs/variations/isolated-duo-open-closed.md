@@ -4,7 +4,7 @@
 
 ## Overview
 
-TODO
+[Isolated Duo](../rolls/isolated-duo.md#orange) + [Open-Closed](../rolls/closed-open-open-closed.md#blue) offers lots of free space at the beginning of each lap, with 3 jumps on blue and open space at the start of orange. Remember that the 2nd long jump on orange is a [god jump](../advanced/isolated-duo-god-jumps.md), so be sure to transfer back to blue if you aren't comfortable executing it.
 
 ## Paths
 

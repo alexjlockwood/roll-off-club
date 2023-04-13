@@ -4,7 +4,7 @@
 
 ## Overview
 
-TODO
+[Isolated Duo](../rolls/isolated-duo.md#orange) + [Easy 4](../rolls/easy-4.md#blue) is a relatively easy variation, due to the amount of free space at the end of blue. Starting on orange late in is key as you're able to make a transition not too tight over to blue then back to orange then back to blue to end the 4 jumps.
 
 ## Paths
 
