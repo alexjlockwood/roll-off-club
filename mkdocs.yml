@@ -91,6 +91,8 @@ theme:
     - navigation.tabs
     - navigation.indexes 
     - navigation.footer
+    - content.action.edit
+    - content.action.view
 
 markdown_extensions:
   - admonition
