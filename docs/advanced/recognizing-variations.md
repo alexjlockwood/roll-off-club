@@ -13,41 +13,41 @@ The strategies you can use to detect each roll early on are described below.
 
 ### 5 Waller
 
-5 Waller has pillars in front and nothing in back. The picture below shows 5 Waller orange.
+[5 Waller](../rolls/5-waller.md) has pillars in front and nothing in back. The picture below shows 5 Waller orange.
 
 ![5 Waller](../images/advanced/recognizing-variants/5-waller.jpg)
 
 ### Isolated Duo
 
-Isolated Duo has nothing in front and pillars in back. The picture below shows Isolated Duo orange and Isolated Duo blue.
+[Isolated Duo](../rolls/isolated-duo.md) has nothing in front and pillars in back. The picture below shows Isolated Duo orange and Isolated Duo blue.
 
 ![Isolated Duo](../images/advanced/recognizing-variants/isolated-duo.jpg)
 
 ### Closed-Open & Open-Closed
 
-Closed-Open and Open-Closed can both be recognized by the fact that they have pillars in front and pillars in back. The picture below shows Closed-Open orange and Open-Closed blue.
+[Closed-Open and Open-Closed](../rolls/closed-open-open-closed.md) can both be recognized by the fact that they have pillars in front and pillars in back. The picture below shows Closed-Open orange and Open-Closed blue.
 
 ![Closed-Open & Open-Closed](../images/advanced/recognizing-variants/closed-open-open-closed.jpg)
 
 ### Easy 4
 
-Easy 4 has a wall in front and pillars in back. The picture below shows Easy 4 orange and Easy 4 blue.
+[Easy 4](../rolls/easy-4.md) has a wall in front and pillars in back. The picture below shows Easy 4 orange and Easy 4 blue.
 
 ![Easy 4](../images/advanced/recognizing-variants/easy-4.jpg)
 
 ### Grand Canyon
 
-Grand Canyon has a wall in front and a wall in back. The picture below shows Grand Canyon blue.
+[Grand Canyon](../rolls/grand-canyon.md) has a wall in front and a wall in back. The picture below shows Grand Canyon blue.
 
 ![Grand Canyon side view](../images/advanced/recognizing-variants/grand-canyon.jpg)
 
-Grand Canyon is the only roll with green striped inner edges and a yellow bar.
+[Grand Canyon](../rolls/grand-canyon.md) is the only roll with green striped inner edges and a yellow bar.
 
 ![Grand Canyon side view](../images/advanced/recognizing-variants/grand-canyon-side-view.jpg)
 
 ### Pillar Trench
 
-Like Grand Canyon, Pillar Trench also has a wall in front and a wall in back. The picture below shows Pillar Trench blue.
+Like Grand Canyon, [Pillar Trench](../rolls/pillar-trench.md) also has a wall in front and a wall in back. The picture below shows Pillar Trench blue.
 
 ![Pillar Trench](../images/advanced/recognizing-variants/pillar-trench.jpg)
 
@@ -57,10 +57,10 @@ To differentiate it from Grand Canyon, check that the roll has oranged striped i
 
 ## Other tips
 
-Isolated Duo Blue can be recognized early by its purple edge color, as it is the only blue roller with purple edges.
+[Isolated Duo](../rolls/isolated-duo.md) Blue can be recognized early by its purple edge color, as it is the only blue roller with purple edges.
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/isolated-duo-blue-side-view.jpg)
 
-Similarly, Open-Closed Blue can be recognized early by its gold edge color, as it is the only blue roller with gold edges.
+Similarly, [Open-Closed](../rolls/closed-open-open-closed.md) Blue can be recognized early by its gold edge color, as it is the only blue roller with gold edges.
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/open-closed-blue-side-view.jpg)
