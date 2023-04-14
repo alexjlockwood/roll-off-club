@@ -24,7 +24,7 @@ Many players focus all of their energy on memorizing a single path to take early
 
 A good strategy is to keep an eye out for any parts of your path that are becoming gradually more difficult. Once identified, you can use the knowledge that blue spins faster than orange to prepare for the next lap.
 
-For example, the clip below shows a lap of an Easy 4 + Open-Closed Roll Off variation. Note that the transfer from blue to orange is trivial and easy to execute:
+For example, the clip below shows a lap of an [Easy 4 + Open-Closed](../variations/easy-4-open-closed.md) Roll Off variation. Note that the transfer from blue to orange is trivial and easy to execute:
 
 <video controls>
   <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">
