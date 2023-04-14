@@ -136,6 +136,8 @@ plugins:
 
 extra:
   social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xf9D89Hfxa
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/alexjlockwood
   analytics:
