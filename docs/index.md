@@ -5,6 +5,10 @@ hide:
 
 # Roll Off Club
 
+!!! note
+
+    This website has also been translated to [Korean](./ko).
+
 ## Getting Started
 
 This [**section**](getting-started/index.md) explains the basics required to timeout Roll Off.
