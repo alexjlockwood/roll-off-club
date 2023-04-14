@@ -40,6 +40,6 @@ hide:
 
 이 웹사이트를 다른 언어로 번역하는 데 자원해 주신 분들께 진심으로 감사드립니다! 페이지 번역을 하고 싶으시다면 [**Roll Call 디스코드**][Roll Call 디스코드]로 문의해 주세요.
 
-* [신모씨 A.K.A. 제임스 웹 우주 망원경](https://github.com/qutrits) ([한국어 페이지](./ko/))
+* [신모씨](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([한국어 페이지](./ko/))
 
 [Roll Call 디스코드]: <https://discord.gg/xf9D89Hfxa> "Roll Call 디스코드"

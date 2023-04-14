@@ -40,6 +40,6 @@ Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practic
 
 Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
 
-* [eunma A.K.A. 제임스 웹 우주 망원경](https://github.com/qutrits) ([Korean pages](./ko/))
+* [eunma](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([Korean pages](./ko/))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
