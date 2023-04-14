@@ -15,11 +15,11 @@ hide:
 | Bar                         | The circular rails that are under the rolls in Roll Off. |
 | Bar jump                    | The act of bunny hopping off one of the bars across a gap in Roll Off. |
 | City's ledge                | The extremely small ledge just before the 3rd wall on [5 Waller](./rolls/5-waller.md) orange. Named after [CityLimitsPK][CityLimitsPK]. |
-| City's path                 | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
+| City's path                 | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the [5 Waller + Open-Closed](./variations/5-waller-open-closed.md) variation of Roll Off. |
 | Closed-Open                 | An [orange roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
 | Easy 4                      | An [orange & blue roll variant](./rolls/easy-4.md) in Roll Off. |
 | EChan's fortress            | The enclosed section of the [5 Waller](./rolls/5-waller.md) orange roll in between the 3rd and 4th walls. Named after [EChanTV][EChanTV]. |
-| EChan's path                | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [EChanTV][EChanTV]. |
+| EChan's path                | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the [5 Waller + Open-Closed](./variations/5-waller-open-closed.md) variation of Roll Off. Named after [EChanTV][EChanTV]. |
 | Edge                        | The parts of the roll that line each side of the gaps in Roll Off. Can be either purple, orange, or gold. |
 | Grand Canyon ledge          | The small ledge immediately after the 1st wall on [Grand Canyon](./rolls/grand-canyon.md) blue. |
 | Grand Canyon                | A [blue roll variant](./rolls/grand-canyon.md) in Roll Off. |
@@ -36,7 +36,7 @@ hide:
 | Popper's path               | A [path](./variations/easy-4-grand-canyon.md#poppers-path) used to timeout the Easy 4 + Grand Canyon variation of Roll Off. Named after [lil_poppers][lil_poppers]. |
 | Rainbow's path             | A path used to timeout Grand Canyon variations of Roll Off ([Closed-Open](./variations/closed-open-grand-canyon.md#rainbows-path), [5 Waller](./variations/5-waller-grand-canyon.md#rainbows-path), and [Isolated Duo](./variations/isolated-duo-grand-canyon.md#rainbows-path)). Named after [RainbowStays][RainbowStays]. |
 | SH3RKH4N's path             | A [path](./variations/5-waller-open-closed.md#sh3rkh4ns-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [SH3RKH4N][SH3RKH4N]. |
-| Suki's gap                  | The large gap immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after [SH3RKH4N][SH3RKH4N]. |
+| Suki's gap                  | The large gap immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
 | Suki's ledge                | The small ledge immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
 | Suki's path                 | A [path](./variations/5-waller-open-closed.md#sukis-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after suki_da_yo. |
 | Syed's path                 | A [path](./variations/5-waller-open-closed.md#syeds-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [Syedhsn555][Syed]. |

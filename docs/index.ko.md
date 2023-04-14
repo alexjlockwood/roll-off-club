@@ -13,7 +13,7 @@ hide:
 
 ## 패턴
 
-이 [**섹션**](rolls/index.md)에서는 롤 오프 결승전에서 출현할 수 있는 기본적인 4개의 주황색 롤과 5개의 파란색 롤의 패턴에 대해 자세히 설명합니다.
+이 [**섹션**](rolls/index.md)에서는 롤 오프 결승전에서 출현할 수 있는 기본적인 4개의 주황색 롤의 패턴과 5개의 파란색 롤의 패턴에 대해 자세히 설명합니다.
 
 이 패턴들의 공략 방법을 알고 싶다면 이곳을 한번 살펴보세요. 롤 오프 결승전에서 훨씬 쉽게 살아남을 수 있을 겁니다.
 
@@ -35,3 +35,11 @@ hide:
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)
+
+## 페이지 번역
+
+이 웹사이트를 다른 언어로 번역하는 데 자원해 주신 분들께 진심으로 감사드립니다! 페이지 번역을 하고 싶으시다면 [**Rall Call 디스코드**][Rall Call 디스코드]로 문의해 주세요.
+
+* [신모씨 A.K.A. 제임스 웹 우주 망원경](https://github.com/qutrits) ([한국어 페이지](./ko/))
+
+[Rall Call 디스코드]: <https://discord.gg/xf9D89Hfxa> "Roll Call 디스코드"

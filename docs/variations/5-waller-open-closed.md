@@ -73,9 +73,8 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 ##### Summary
 
 1. Start 3 jumps on blue
-2. Jump to the small orange ledge before the 3rd wall on orange
-3. Jump across the gap to the extremely small orange ledge before the 3rd wall on orange
-4. Jump back to blue
+2. Jump across the gap to the extremely small orange ledge before the 3rd wall on orange
+3. Jump back to blue
 
 ##### Difficulty
 

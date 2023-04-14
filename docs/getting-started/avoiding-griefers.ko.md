@@ -16,7 +16,7 @@
   <source src="../../images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
 </video>
 
-적대적인 플레이어가 도랑을 뛰어넘기 전에 잡아서 탈락시킬 수 있습니다.
+적대적인 플레이어가 도랑을 뛰어넘기 전에 기습적으로 잡아서 탈락시킬 수 있습니다.
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
@@ -24,9 +24,9 @@
 
 적대적인 플레이어를 기습하면 탈락시키기 쉬우므로, 초반에 주의를 끌지 않으면 상대방이 의심하지 않을 겁니다.
 
-## One-rolling
+## 원-롤링
 
-적대적인 플레이어를 유인해 벽 점프를 이용해서 탈락시킬 수 있습니다.
+적대적인 플레이어를 유인 후 벽 점프를 이용해서 탈락시킬 수 있습니다.
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
@@ -34,7 +34,7 @@
 
 !!! 경고
 
-    롤오프 초반에 벽 점프를 시도하지 마세요. 적대적인 플레이어에게 초반부터 주의를 끌게 되면 나를 공격하는 데 집중할 가능성이 커집니다.
+    롤오프 초반에 벽 점프를 시도하지 마세요. 적대적인 플레이어에게 초반부터 주의를 끌게 되면 적이 나를 공격하는 데 집중할 가능성이 커집니다.
 
 <!--
 IGNORE THIS FOR TRANSLATIONS:

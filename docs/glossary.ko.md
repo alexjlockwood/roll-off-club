@@ -3,53 +3,52 @@ hide:
   - navigation
 ---
 
-# Glossary
+# 용어집
 
-| 용어                        | 설명         |
+| 용어                         | 설명 |
 | --------------------------- | ----------- |
-| 4 by 4                      | An alternate name used to describe the [Easy 4 + Easy 4](./variations/easy-4-easy-4.md) Roll Off variation, the easiest of all 20 variations. |
-| 5 Waller                    | An [orange roll variant](./rolls/5-waller.md) in Roll Off. |
-| 5 Wall Club                 | A prestigious group of Fall Guys players who have one-rolled 5 Waller, the most difficult roll to one-roll. |
-| Alex's path                 | A [path](./variations/closed-open-open-closed.md#alexs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [alexjlockwood][alexjlockwood]. |
-| Baby path                   | An alternate name used to describe the [Outer Wall Jump](./variations/closed-open-grand-canyon.md#outer-wall-jump) path in the Closed-Open + Grand Canyon Roll Off variation. Named because it is the only path where wall jumping is the easier option compared to the other possible paths. |
-| Bar                         | The circular rails that are under the rolls in Roll Off. |
-| Bar jump                    | The act of bunny hopping off one of the bars across a gap in Roll Off. |
-| City's ledge                | The extremely small ledge just before the 3rd wall on [5 Waller](./rolls/5-waller.md) orange. Named after [CityLimitsPK][CityLimitsPK]. |
-| City's path                 | A [path](./variations/5-waller-open-closed.md#citys-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. |
-| Closed-Open                 | An [orange roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
-| Easy 4                      | An [orange & blue roll variant](./rolls/easy-4.md) in Roll Off. |
-| EChan's fortress            | The enclosed section of the [5 Waller](./rolls/5-waller.md) orange roll in between the 3rd and 4th walls. Named after [EChanTV][EChanTV]. |
-| EChan's path                | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [EChanTV][EChanTV]. |
-| Edge                        | The parts of the roll that line each side of the gaps in Roll Off. Can be either purple, orange, or gold. |
-| Grand Canyon ledge          | The small ledge immediately after the 1st wall on [Grand Canyon](./rolls/grand-canyon.md) blue. |
-| Grand Canyon                | A [blue roll variant](./rolls/grand-canyon.md) in Roll Off. |
-| Isolated Duo                | An [orange & blue roll variant](./rolls/5-waller.md) in Roll Off. |
-| JD's path                   | A [path](./variations/closed-open-open-closed.md#jds-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [Joey Dever][JD]. |
-| Lap                         | A full 360 degree rotation of a roll during a Roll Off timeout. |
-| No jump, no dive            | Used to describe the challenge of achieving a Roll Off timeout without jumping or diving. |
-| One-roll                    | The act of timing out Roll Off on a single roll using only wall jumps. |
-| Open-Closed                 | A [blue roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
-| PG's path                   | A [path](./variations/closed-open-open-closed.md#pgs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [Prakhar Gupta][PG]. |
-| Piggy's path                | A [path](./variations/closed-open-grand-canyon.md#piggys-path) used to timeout the Closed-Open + Grand Canyon variation of Roll Off. Named after [Roll Off Piggy][RollOffPiggy]. |
-| Pillar Trench               | A [blue roll variant](./rolls/pillar-trench.md) in Roll Off. |
-| Popper's ledge              | The small ledge immediately after the 2nd wall on [Grand Canyon](./rolls/grand-canyon.md) blue. Named after [lil_poppers][lil_poppers]. |
-| Popper's path               | A [path](./variations/easy-4-grand-canyon.md#poppers-path) used to timeout the Easy 4 + Grand Canyon variation of Roll Off. Named after [lil_poppers][lil_poppers]. |
-| Rainbow's path             | A path used to timeout Grand Canyon variations of Roll Off ([Closed-Open](./variations/closed-open-grand-canyon.md#rainbows-path), [5 Waller](./variations/5-waller-grand-canyon.md#rainbows-path), and Isolated Duo). Named after [RainbowStays][RainbowStays]. |
-| SH3RKH4N's path             | A [path](./variations/5-waller-open-closed.md#sh3rkh4ns-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [SH3RKH4N][SH3RKH4N]. |
-| Suki's gap                  | The large gap immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after [SH3RKH4N][SH3RKH4N]. |
-| Suki's ledge                | The small ledge immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
-| Suki's path                 | A [path](./variations/5-waller-open-closed.md#sukis-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after suki_da_yo. |
-| Syed's path                 | A [path](./variations/5-waller-open-closed.md#syeds-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [Syedhsn555][Syed]. |
-| Thumbnail variation         | An alternate name used to describe the Closed-Open + Easy 4 Roll Off Variation, the exact variation that is displayed in the final's preview image. |
-| Thumbnail inverse variation | An alternate name used to describe the Easy 4 + Open-Closed Roll Off Variation, the inverse of the thumbnail variation. |
-| Wall jump                   | The act of jumping around the edge of a wall in Roll Off. |
+| 4 바이 4                     | 전체 20가지 변형 중 가장 쉬운 [이지 4 + 이지 4](./variations/easy-4-easy-4.md) 변형을 설명하는 데 사용되는 또 다른 이름입니다. |
+| 5 벽                         | 롤 오프의 [주황색 롤 변형](./rolls/5-waller.md)입니다. |
+| 5 벽 클럽                    | 롤 오프에서 가장 난도가 높은 5 벽 패턴을 원-롤로 공동우승하는 명망 높은 폴 가이즈 플레이어 그룹입니다. |
+| 알렉스의 경로                 | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md#알렉스의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [알렉즈락우드][alexjlockwood]에서 이름을 따왔습니다. |
+| 베이비 경로                   | 클로즈드-오픈 + 그랜드 캐니언 변형에서 [바깥쪽 벽 점프](./variations/closed-open-grand-canyon.md#바깥쪽-벽-점프를-이용하는-경로) 경로를 설명하는 데 사용되는 또 다른 이름입니다. 다른 경로에 비해 벽 점프가 더 쉬운 유일한 경로이기 때문에 붙여진 이름입니다. |
+| 기둥                         | 롤 오프에서 롤 아래에 있는 원형 레일입니다. |
+| 기둥 점프                    | 롤 오프에서 롤 아래에 있는 원형 레일을 밟고 점프하는 행위입니다. |
+| City의 모서리                | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 세 번째 벽 바로 앞에 있는 아주 작은 공간입니다. [CityLimitsPK][CityLimitsPK]의 이름을 따서 명명되었습니다. |
+| City의 경로                  | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#city의-경로)입니다. |
+| 클로즈드-오픈                 | 롤 오프의 [주황색 롤 변형](./rolls/closed-open-open-closed.md)입니다. |
+| 이지 4                       | 롤 오프의 [주황색 및 파란색 롤 변형](./rolls/easy-4.md)입니다. |
+| EChan의 요새                 | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 3번째 벽과 4번째 벽 사이에 있는 밀폐된 공간입니다. [EChanTV][EChanTV]의 이름을 따서 명명되었습니다. |
+| EChan의 경로                 | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#echans-path)입니다. [EChanTV][EChanTV]의 이름을 따서 명명되었습니다. |
+| 모서리                       | 롤 오프에서 롤의 양쪽 끝 모서리에 있는 띠 부분입니다. 띠는 보라색, 주황색 또는 금색일 수 있습니다. |
+| 그랜드 캐니언 모서리          | [그랜드 캐니언](./rolls/grand-canyon.md) 패턴에서 파란색 롤의 첫 번째 벽 바로 뒤에 있는 작은 공간입니다. |
+| 그랜드 캐니언                | 롤 오프의 [파란색 롤 변형](./rolls/grand-canyon.md)입니다. |
+| 고립된 듀오                  | 롤 오프의 [주황색 및 파란색 롤 변형](./rolls/5-waller.md)입니다. |
+| JD의 경로                    | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#jd의-경로)입니다. [Joey Dever][JD]의 이름을 따서 명명되었습니다. |
+| 랩                          | [랩](./advanced/counting-laps.md)은 롤이 360도 완전히 회전하는 것을 말합니다. |
+| 노 점프, 노 다이브           | 점프나 다이브 없이 롤 오프의 공동우승을 달성하는 도전을 설명하는 데 사용됩니다. |
+| 원-롤                       | 벽 점프를 사용하여 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
+| 오픈-클로즈드                | 롤 오프의 [파란색 롤 변형](./rolls/closed-open-open-closed.md)입니다. |
+| PG의 경로                   | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 명명되었습니다. |
+| Piggy의 경로                | 롤 오프의 [클로즈드-오픈 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. 롤 오프 피기의 이름을 따서 명명되었습니다. |
+| 기둥 참호                   | 롤 오프의 [파란색 롤 변형](./rolls/pillar-trench.md)입니다. |
+| Popper의 모서리             | [그랜드 캐니언](./rolls/grand-canyon.md) 패턴에서 파란색 롤의 두 번째 벽 바로 뒤에 있는 작은 공간입니다. [lil_poppers][lil_poppers]의 이름을 따서 명명되었습니다. |
+| Popper의 경로               | 롤 오프의 [이지 4 + 그랜드 캐니언](./variations/easy-4-grand-canyon.md#popper의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [lil_poppers][lil_poppers]의 이름을 따서 명명되었습니다. |
+| Rainbow의 경로              | 그랜드 캐니언 패턴의 다양한 변형([클로즈드-오픈](./variations/closed-open-grand-canyon.md#rainbow의-경로), [5 벽](./variations/5-waller-grand-canyon.md#rainbow의-경로), [고립형 듀오](./variations/isolated-duo-grand-canyon.md#rainbow의-경로))을 공동우승하는 데 사용되는 경로입니다. [RainbowStays][RainbowStays]의 이름을 따서 명명되었습니다. |
+| SH3RKH4N의 경로             | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#sh3rkh4n의-경로)입니다. [SH3RKH4N][SH3RKH4N]의 이름을 따서 명명되었습니다. |
+| Suki의 간격                  | [오픈-클로즈드](./rolls/closed-open-open-closed.md) 패턴에서 파란색 롤의 첫 번째 벽 바로 뒤에 큰 간격이 있습니다. suki_da_yo의 이름을 따서 명명되었습니다. |
+| Suki의 모서리                | [오픈-클로즈드](./rolls/closed-open-open-closed.md) 패턴에서 파란색 롤의 첫 번째 벽 바로 뒤에 있는 작은 공간입니다. suki_da_yo의 이름을 따서 명명되었습니다. |
+| Suki의 경로                  | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#suki의-경로)입니다. suki_da_yo의 이름을 따서 명명되었습니다. |
+| Syed의 경로                  | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#syed의-경로)입니다. [Syedhsn555][Syed]의 이름을 따서 명명되었습니다. |
+| 썸네일 변형                  | [클로즈드-오픈 + 이지 4](./variations/closed-open-easy-4.md) 변형을 설명하는 데 사용되는 또 다른 이름으로, 롤 오프 시작 전에 나타나는 썸네일을 뜻합니다. |
+| 썸네일 역변형                | 썸네일 변형의 반대인 [이지 4 + 오픈-클로즈드](./variations/easy-4-open-closed.md) 변형을 설명하는 데 사용되는 또 다른 이름입니다. |
+| 벽 점프                      | 롤 오프에서 벽 가장자리를 점프로 넘어 다니는 행위입니다. |
 
 [alexjlockwood]: <https://www.twitch.tv/alexjlockwood> "alexjlockwood's Twitch"
 [CityLimitsPK]: <https://www.twitch.tv/citylimitspk> "CityLimitsPK's Twitch"
 [EChanTV]: <https://www.youtube.com/user/hellomotto39> "EChan's YouTube"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
 [lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
-[RollOffPiggy]: <https://www.twitch.tv/roll_off_piggy> "Roll Off Piggy's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
 [RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
