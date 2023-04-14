@@ -120,7 +120,7 @@ plugins:
           build: true
           site_name: "Roll Off Club"
         ko:
-          name: 한국어
+          name: 한국어 (Korean)
           build: true
           site_name: "Roll Off 클럽"
       nav_translations:
