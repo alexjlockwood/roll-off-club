@@ -8,7 +8,7 @@ Also known as the "5th Hardest Variation", [Isolated Duo](../rolls/isolated-duo.
 
 ## Paths
 
-There are 4 possible paths to take on laps 9-12 of the timeout:
+There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
@@ -94,6 +94,28 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 | 10    | Very hard  |
 | 11    | Hard       |
 | 12    | Medium     |
+
+### Rainbow's Path
+
+<video controls>
+  <source src="../../images/variations/isolated-duo-grand-canyon-rainbow-path.mp4" type="video/mp4">
+</video>
+
+#### Summary
+
+1. Start on blue
+2. Outer wall jump on the right side of blue
+3. Run across the grand canyon ledge and jump dive to orange
+4. Transfer back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Very hard  |
+| 10    | Very hard  |
+| 11    | Very hard  |
+| 12    | Very hard  |
 
 ## Recommended Pathing
 

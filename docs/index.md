@@ -29,9 +29,17 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 
 ## Practice with us
 
-Join the [**Roll Call Discord**](https://discord.gg/xf9D89Hfxa) to be notified when we practice in customs, or by following the Twitch accounts below!
+Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practice in customs, or by following the Twitch accounts below!
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)
+
+## Translations
+
+Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
+
+* [qutrits](https://github.com/qutrits) ([Korean](./ko/))
+
+[RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
