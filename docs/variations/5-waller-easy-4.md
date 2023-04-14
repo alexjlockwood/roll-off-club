@@ -4,7 +4,7 @@
 
 ## Overview
 
-[5 Waller](../rolls/5-waller.md) + [Easy 4](../rolls/easy-4.md#파란색-롤) is one of the most dangerous variations when it comes to desync.
+[5 Waller](../rolls/5-waller.md) + [Easy 4](../rolls/easy-4.md#blue) is one of the most dangerous variations when it comes to desync.
 
 ## Paths
 
