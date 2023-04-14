@@ -90,6 +90,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes 
+    - navigation.footer
+    - content.action.edit
 
 markdown_extensions:
   - admonition
@@ -118,7 +120,7 @@ plugins:
           build: true
           site_name: "Roll Off Club"
         ko:
-          name: 한국어
+          name: 한국어 (Korean)
           build: true
           site_name: "Roll Off 클럽"
       nav_translations:
@@ -136,6 +138,8 @@ plugins:
 
 extra:
   social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xf9D89Hfxa
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/alexjlockwood
   analytics:
