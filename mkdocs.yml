@@ -90,6 +90,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes 
+    - navigation.footer
 
 markdown_extensions:
   - admonition
