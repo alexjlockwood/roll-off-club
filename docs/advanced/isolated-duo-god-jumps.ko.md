@@ -8,7 +8,7 @@
 * 롤의 최대한 가장자리에서 코요테 점프를 시도합니다. 바닥 떨어져유에서 하는 당신의 코요테 점프 감각을 활용하세요.
 * 점프 후 다이브를 시전할 시점에는 반대편 바닥이 보이지 않으므로 착지할 때쯤에는 바닥이 있을 거라고 믿고 다이브를 시전합니다.
 
-아래는 파란색 [고립된 듀오](../rolls/isolated-duo.md) 패턴에서 갓 점프하는 모습을 담은 영상 클립입니다.
+아래는 [고립된 듀오](../rolls/isolated-duo.md) 패턴의 파란색 롤에서 갓 점프하는 모습을 담은 영상 클립입니다.
 
 <video controls>
   <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
