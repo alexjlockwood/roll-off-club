@@ -1,4 +1,4 @@
-# 5 벽 + 고립된 듀오 변형
+# 5 벽 + 고립된 듀오
 
 ![5 Waller + Isolated Duo](../images/variations/5-waller-isolated-duo.jpg)
 

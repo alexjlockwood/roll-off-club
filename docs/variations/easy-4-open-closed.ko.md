@@ -1,4 +1,4 @@
-# 이지 4 + 오픈-클로즈드 변형
+# 이지 4 + 오픈-클로즈드
 
 ![Easy 4 + Open-Closed](../images/variations/easy-4-open-closed.jpg)
 

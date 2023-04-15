@@ -1,4 +1,4 @@
-# 클로즈드-오픈 + 오픈-클로즈드 변형
+# 클로즈드-오픈 + 오픈-클로즈드
 
 ![Closed-Open + Open-Closed](../images/variations/closed-open-open-closed.jpg)
 

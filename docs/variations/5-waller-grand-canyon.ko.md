@@ -1,4 +1,4 @@
-# 5 벽 + 그랜드 캐니언 변형
+# 5 벽 + 그랜드 캐니언
 
 ![5 Waller + Grand Canyon](../images/variations/5-waller-grand-canyon.jpg)
 

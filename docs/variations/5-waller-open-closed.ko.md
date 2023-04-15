@@ -1,4 +1,4 @@
-# 5 벽 + 오픈-클로즈드 변형
+# 5 벽 + 오픈-클로즈드
 
 ![5 Waller + Open-Closed](../images/variations/5-waller-open-closed.jpg)
 
