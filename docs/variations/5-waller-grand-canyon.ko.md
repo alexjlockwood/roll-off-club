@@ -53,7 +53,7 @@
 | 11 #  | 어려움      |
 | 12 #  | 어려움      |
 
-### 바깥쪽 벽 점프를 이용하는 경로
+### 주황색 5 벽 패턴의 바깥쪽 벽 점프를 이용하는 경로
 
 <video controls>
   <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump.mp4" type="video/mp4">

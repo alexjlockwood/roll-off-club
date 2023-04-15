@@ -18,7 +18,7 @@
 
 ### 갓 점프 경로
 
-표준 경로에서 충돌을 피할 수 있는 또 다른 방법은 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴에서 [갓 점프](../advanced/isolated-duo-god-jumps.md)를 활용하는 방법입니다. 이러면 플레이어가 [주황색 5 벽](../rolls/5-waller.md) 패턴과 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴 사이를 빠르게 환승하는 중간에 플레이어 간의 충돌을 방지할 수 있습니다. 고립된 듀오 패턴에서 [갓 점프](../advanced/isolated-duo-god-jumps.md)는 슬라임이 최대 높이까지 도달하면 수행하기 어려울 수 있으므로 미리 연습하는 것을 권장합니다.
+표준 경로에서 충돌을 피할 수 있는 또 다른 방법은 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴에서 [갓 점프](../advanced/isolated-duo-god-jumps.md)를 활용하는 방법입니다. 이러면 플레이어가 [주황색 5 벽](../rolls/5-waller.md) 패턴과 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴 사이를 빠르게 환승하는 중간에 플레이어 간의 충돌을 피할 수 있습니다. 고립된 듀오 패턴에서 [갓 점프](../advanced/isolated-duo-god-jumps.md)는 슬라임이 최대 높이까지 도달하면 수행하기 어려울 수 있으므로 미리 연습하는 것을 권장합니다.
 
 <video controls>
   <source src="../../images/variations/5-waller-isolated-duo-god-jump-path.mp4" type="video/mp4">

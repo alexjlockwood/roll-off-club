@@ -28,7 +28,7 @@
   <source src="../../images/variations/5-waller-open-closed-lap8-alternate-path.mp4" type="video/mp4">
 </video>
 
-#### 바깥쪽 벽 점프를 이용하는 경로
+#### 파란색 오픈-클로즈드 패턴의 바깥쪽 벽 점프를 이용하는 경로
 
 7번째 랩에서 8번째 랩 구간에서 플레이어간의 충돌을 피하는 또 다른 경로는 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 벽 점프를 활용하는 경로입니다. 벽 점프 스킬을 자유롭게 구사할 수 있다면 이 방법이 훨씬 더 안전한 대체 경로가 될 수 있습니다.
 

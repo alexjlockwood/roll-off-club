@@ -12,7 +12,7 @@
 
 9번째 랩에서 마지막 12번째 랩까지 진행할 수 있는 경로는 5가지입니다.
 
-### 그랜드 캐니언 모서리를 이용하는 경로
+### 파란색 그랜드 캐니언 패턴의 모서리를 이용하는 경로
 
 <video controls>
   <source src="../../images/variations/closed-open-grand-canyon-gc-ledge.mp4" type="video/mp4">
@@ -33,7 +33,7 @@
 | 11    | 어려움      |
 | 12    | 매우 어려움  |
 
-### 안쪽 벽 점프를 이용하는 경로
+### 주황색 클로즈드-오픈 패턴의 안쪽 벽 점프를 이용하는 경로
 
 <video controls>
   <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump.mp4" type="video/mp4">
@@ -54,7 +54,7 @@
 | 11 #  | 어려움      |
 | 12 #  | 어려움      |
 
-### 바깥쪽 벽 점프를 이용하는 경로
+### 주황색 클로즈드-오픈 패턴의 바깥쪽 벽 점프를 이용하는 경로
 
 <video controls>
   <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump.mp4" type="video/mp4">

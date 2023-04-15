@@ -27,7 +27,7 @@ hide:
 | JD의 경로                    | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#jd의-경로)입니다. [Joey Dever][JD]의 이름을 따서 지어졌습니다. |
 | 랩                          | [랩](./advanced/counting-laps.md)은 롤이 360도 완전히 회전하는 것을 말합니다. |
 | 노 점프, 노 다이브           | 점프나 다이브 없이 롤 오프의 공동우승을 달성하는 도전을 설명하는 데 사용됩니다. |
-| 원-롤                       | 벽 점프를 사용하여 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
+| 원-롤                       | 벽 점프를 사용해서 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
 | 오픈-클로즈드                | 롤 오프의 [파란색 롤 변형](./rolls/closed-open-open-closed.md)입니다. |
 | PG의 경로                   | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 지어졌습니다. |
 | Piggy의 경로                | 롤 오프의 [클로즈드-오픈 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. 롤 오프 피기의 이름을 따서 지어졌습니다. |
