@@ -20,7 +20,7 @@
   <source src="../../images/variations/easy-4-open-closed-lap9.mp4" type="video/mp4">
 </video>
 
-대체 경로로 8번째 랩과 9번째 랩은 [주황색 이지 4](../rolls/easy-4.md#주황색-롤) 패턴에서 4번 연속 점프 후 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴의 금 벽 앞 좁은 공간을 이용해서 빠르게 환승할 수 있습니다.
+대체 경로로 8번째 랩과 9번째 랩은 [주황색 이지 4](../rolls/easy-4.md#주황색-롤) 패턴에서 4번 연속 점프 후 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴의 금 벽 뒤 좁은 공간을 이용해서 빠르게 환승할 수 있습니다.
 
 <video controls>
   <source src="../../images/variations/easy-4-open-closed-alternate-path.mp4" type="video/mp4">
