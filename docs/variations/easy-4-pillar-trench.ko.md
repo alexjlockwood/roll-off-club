@@ -1,4 +1,4 @@
-# 이지 4 + 기둥 참호 변형
+# 이지 4 + 기둥 참호
 
 ![Easy 4 + Pillar Trench](../images/variations/easy-4-pillar-trench.jpg)
 

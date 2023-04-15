@@ -1,4 +1,4 @@
-# 클로즈드-오픈 + 그랜드 캐니언 변형
+# 클로즈드-오픈 + 그랜드 캐니언
 
 ![Closed-Open + Grand Canyon](../images/variations/closed-open-grand-canyon.jpg)
 

@@ -1,4 +1,4 @@
-# 클로즈드-오픈 + 기둥 참호 변형
+# 클로즈드-오픈 + 기둥 참호
 
 ![Closed-Open + Pillar Trench](../images/variations/closed-open-pillar-trench.jpg)
 

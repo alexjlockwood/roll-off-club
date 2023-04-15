@@ -1,4 +1,4 @@
-# 5 벽 + 이지 4 변형
+# 5 벽 + 이지 4
 
 ![5 Waller + Easy 4](../images/variations/5-waller-easy-4.jpg)
 

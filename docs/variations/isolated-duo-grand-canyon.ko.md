@@ -1,4 +1,4 @@
-# 고립된 듀오 + 그랜드 캐니언 변형
+# 고립된 듀오 + 그랜드 캐니언
 
 ![Isolated Duo + Grand Canyon](../images/variations/isolated-duo-grand-canyon.jpg)
 

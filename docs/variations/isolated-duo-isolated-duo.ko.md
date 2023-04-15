@@ -1,4 +1,4 @@
-# 고립된 듀오 + 고립된 듀오 변형
+# 고립된 듀오 + 고립된 듀오
 
 ![Isolated Duo + Isolated Duo](../images/variations/isolated-duo-isolated-duo.jpg)
 

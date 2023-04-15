@@ -1,4 +1,4 @@
-# 5 벽 + 기둥 참호 변형
+# 5 벽 + 기둥 참호
 
 ![5 Waller + Pillar Trench](../images/variations/5-waller-pillar-trench.jpg)
 

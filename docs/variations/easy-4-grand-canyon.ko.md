@@ -1,4 +1,4 @@
-# 이지 4 + 그랜드 캐니언 변형
+# 이지 4 + 그랜드 캐니언
 
 ![Easy 4 + Grand Canyon](../images/variations/easy-4-grand-canyon.jpg)
 

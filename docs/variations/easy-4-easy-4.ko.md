@@ -1,4 +1,4 @@
-# 이지 4 + 이지 4 변형
+# 이지 4 + 이지 4
 
 ![Easy 4 + Easy 4](../images/variations/easy-4-easy-4.jpg)
 

@@ -1,4 +1,4 @@
-# 이지 4 + 고립된 듀오 변형
+# 이지 4 + 고립된 듀오
 
 ![Easy 4 + Isolated Duo](../images/variations/easy-4-isolated-duo.jpg)
 

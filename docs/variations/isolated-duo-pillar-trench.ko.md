@@ -1,4 +1,4 @@
-# 고립된 듀오 + 기둥 참호 변형
+# 고립된 듀오 + 기둥 참호
 
 ![Isolated Duo + Pillar Trench](../images/variations/isolated-duo-pillar-trench.jpg)
 

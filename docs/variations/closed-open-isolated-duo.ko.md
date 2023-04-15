@@ -1,4 +1,4 @@
-# 클로즈드-오픈 + 고립된 듀오 변형
+# 클로즈드-오픈 + 고립된 듀오
 
 ![클로즈드-오픈 + 고립된 듀오](../images/variations/closed-open-isolated-duo.jpg)
 

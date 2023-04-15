@@ -6,4 +6,4 @@
 
 ## 변형
 
-점프나 다이브 없이 공동우승한 20가지 롤 오프 변형 패턴을 모두 담은 [유튜브 재생 목록](https://youtube.com/playlist?list=PL1sF1RHb6YqNGeD2soXQ82R-3JmOssCw5)이 있습니다. 이 플레이리스트를 제작해준 RainbowStays에 감사드립니다!
+점프나 다이브 없이 공동우승한 20가지 롤 오프 변형 패턴을 모두 담은 [유튜브 재생 목록](https://youtube.com/playlist?list=PL1sF1RHb6YqNGeD2soXQ82R-3JmOssCw5)이 있습니다. 플레이리스트를 제작해준 RainbowStays에게 감사드립니다!
