@@ -26,7 +26,7 @@
 
 ## 원-롤링
 
-적대적인 플레이어를 유인 후 벽 점프를 이용해서 탈락시킬 수 있습니다.
+적대적인 플레이어를 유인 후 벽 점프를 활용해서 탈락시킬 수 있습니다.
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
