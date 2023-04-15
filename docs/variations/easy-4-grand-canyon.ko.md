@@ -10,7 +10,7 @@
 
 9번째 랩에서 마지막 12번째 랩의 후반에 살아남기 위해 선택할 수 있는 경로는 세 가지입니다. 다른 플레이어와 충돌을 피하기 위해서 플레이어 수가 적은 경로를 선택하는 게 좋습니다.
 
-### 주황색 롤에서 끝나는 경로
+### 주황색 이지 4 패턴에서 끝나는 경로
 
 <video controls>
   <source src="../../images/variations/easy-4-grand-canyon-end-on-orange.mp4" type="video/mp4">
@@ -25,7 +25,7 @@
 | 11 #  | 중간       |
 | 12 #  | 중간       |
 
-### 파란색 롤에서 끝나는 경로
+### 파란색 그랜드 캐니언 패턴에서 끝나는 경로
 
 <video controls>
   <source src="../../images/variations/easy-4-grand-canyon-end-on-blue.mp4" type="video/mp4">

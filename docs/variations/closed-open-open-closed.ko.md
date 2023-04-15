@@ -19,9 +19,9 @@
 #### 요약
 
 1. [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 시작해서 2번의 점프로 도랑을 넘어갑니다.
-2. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 벽이 지나가면 주황색 롤로 환승합니다.
-3. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴을 달리다가 넓은 도랑을 만나면 점프 다이브로 넘어갑니다.
-4. 바로 준비하고 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 점프 다이브 합니다.
+2. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 지나가면 환승합니다.
+3. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴을 달리다가 넓은 도랑을 나타나면 점프 다이브로 넘어갑니다.
+4. 바로 준비하고 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 점프 다이브해서 환승합니다.
 
 #### 난이도
 
@@ -42,7 +42,7 @@
 
 1. [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 시작해서 3번의 점프로 도랑을 넘어갑니다.
 2. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽 앞에 있는 좁은 공간으로 점프해서 환승합니다.
-3. 바로 준비하고 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 점프 다이브 합니다.
+3. 바로 준비하고 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 점프 다이브해서 환승합니다.
 
 #### 난이도
 
@@ -62,9 +62,9 @@
 #### 요약
 
 1. [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 시작해서 2번의 점프로 도랑을 넘어갑니다.
-2. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 지나가면 [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴으로 환승합니다.
-3. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴을 달리다가 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴의 금 벽이 나타나면 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴의 금 벽 뒤쪽 좁은 공간으로 환승합니다.
-4. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 나타나면 파란 벽 뒤쪽 좁은 공간으로 환승합니다.
+2. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 지나가면 환승합니다.
+3. [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴을 달리다가 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴의 금 벽이 나타나면 금 벽 뒤쪽 좁은 공간으로 환승합니다.
+4. 다시 [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 지나가면 환승합니다.
 
 #### 난이도
 
@@ -83,7 +83,7 @@
 * 1명이 9번째 랩에서 마지막 12번째 랩 동안 [PG의 경로](./closed-open-open-closed.md#PG의-경로)를 시도합니다.
 * 1명이 9번째 랩에서 마지막 12번째 랩 동안 [JD의 경로](./closed-open-open-closed.md#JD의-경로)를 시도합니다.
 
-이 변형에서 주의해야 할 점은 두 명의 플레이어가 [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 두 번째 벽 앞 좁은 공간에서 마주쳐서 충돌하는 경우입니다. 두 플레이어가 좁은 공간에서 마주쳤다면 한 플레이어가 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 재빠르게 점프 환승해서 충돌하지 않고 진행하는 게 매우 중요합니다. ([알렉스의 경로](./closed-open-open-closed.md#알렉스의-경로) 7초~10초 참고)
+이 변형에서 주의해야 할 점은 두 명의 플레이어가 [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 두 번째 파란 벽의 좁은 공간에서 마주쳐서 충돌하는 경우입니다. 두 플레이어가 좁은 공간에서 마주쳤다면 한 플레이어가 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴으로 재빠르게 점프로 환승해서 충돌을 피하는 게 매우 중요합니다. ([알렉스의 경로](./closed-open-open-closed.md#알렉스의-경로) 7초~10초 참고)
 
 ## 공동우승 예시
 
