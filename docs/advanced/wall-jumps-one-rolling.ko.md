@@ -46,13 +46,13 @@
   <source src="../../images/advanced/wall-jumps-one-rolling/5-waller-orange.mp4" type="video/mp4">
 </video>
 
-### 주황색 클로즈드-오픈 패턴
+### 주황색 닫힘-열림 패턴
 
 <video controls>
   <source src="../../images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
 </video>
 
-### 파란색 오픈-클로즈드 패턴
+### 파란색 열림-닫힘 패턴
 
 <video controls>
   <source src="../../images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">

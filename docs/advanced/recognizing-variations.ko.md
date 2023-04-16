@@ -23,9 +23,9 @@
 
 ![Isolated Duo](../images/advanced/recognizing-variants/isolated-duo.jpg)
 
-### 클로즈드-오픈 & 오픈-클로즈드
+### 닫힘-열림 & 열림-닫힘
 
-[클로즈드-오픈 & 오픈-클로즈드](../rolls/closed-open-open-closed.md) 패턴은 앞쪽과 뒤쪽 모두 기둥이 있다는 것으로 구분할 수 있습니다. 아래 사진은 [주황색 클로즈드-오픈](../rolls/closed-open-open-closed.md#주황색-롤) 패턴과 [파란색 오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴을 보여줍니다.
+[닫힘-열림 & 열림-닫힘](../rolls/closed-open-open-closed.md) 패턴은 앞쪽과 뒤쪽 모두 기둥이 있다는 것으로 구분할 수 있습니다. 아래 사진은 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴과 [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 패턴을 보여줍니다.
 
 ![Closed-Open & Open-Closed](../images/advanced/recognizing-variants/closed-open-open-closed.jpg)
 
@@ -61,6 +61,6 @@
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/isolated-duo-blue-side-view.jpg)
 
-마찬가지로, 파란색 [오픈-클로즈드](../rolls/closed-open-open-closed.md#파란색-롤) 패턴은 모서리가 금색인 유일한 파란색 패턴이기 때문에 모서리 색상이 금색인 것으로 쉽게 알아볼 수 있습니다.
+마찬가지로, 파란색 [열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 패턴은 모서리가 금색인 유일한 파란색 패턴이기 때문에 모서리 색상이 금색인 것으로 쉽게 알아볼 수 있습니다.
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/open-closed-blue-side-view.jpg)

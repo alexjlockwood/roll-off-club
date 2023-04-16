@@ -22,7 +22,7 @@
 
 좋은 전략은 경로에서 점점 더 어려워지는 부분을 매 순간 인지하고 변경하는 것입니다. 파란색 롤이 주황색 롤보다 빠르게 회전한다는 사실을 인지하고 있으면 다음 랩을 대비할 수 있습니다.
 
-예를 들어, 아래 영상 클립은 [이지 4 + 오픈-클로즈드](../variations/easy-4-open-closed.md) 변형의 한 랩을 보여줍니다. 파란색 롤에서 주황색 롤로 전환하는 게 간단하고 진행하기 쉽다는 것을 보실 수 있습니다.
+예를 들어, 아래 영상 클립은 [이지 4 + 열림-닫힘](../variations/easy-4-open-closed.md) 변형의 한 랩을 보여줍니다. 파란색 롤에서 주황색 롤로 전환하는 게 간단하고 진행하기 쉽다는 것을 보실 수 있습니다.
 
 <video controls>
   <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">

@@ -11,9 +11,9 @@
 롤 오프에서 출현할 수 있는 20개의 변형 중 가장 어려운 변형입니다. 이 변형에서 생존율을 높이려면 미리 경로를 외워두는 게 좋습니다.
 
 * [5 벽 + 그랜드 캐니언](./5-waller-grand-canyon.md)
-* [5 벽 + 오픈-클로즈드](./5-waller-open-closed.md)
-* [클로즈드-오픈 + 그랜드 캐니언](./closed-open-grand-canyon.md)
-* [클로즈드-오픈 + 오픈-클로즈드](./closed-open-open-closed.md)
+* [5 벽 + 열림-닫힘](./5-waller-open-closed.md)
+* [닫힘-열림 + 그랜드 캐니언](./closed-open-grand-canyon.md)
+* [닫힘-열림 + 열림-닫힘](./closed-open-open-closed.md)
 * [고립된 듀오 + 그랜드 캐니언](./isolated-duo-grand-canyon.md)
 
 ## 고난도 변형
@@ -21,7 +21,7 @@
 가장 어려운 난도의 변형은 아니지만, 많은 플레이어가 후반전에서 어려움을 겪는 변형입니다.
 
 * [이지 4 + 그랜드 캐니언](./easy-4-grand-canyon.md)
-* [이지 4 + 오픈-클로즈드](./easy-4-open-closed.md)
+* [이지 4 + 열림-닫힘](./easy-4-open-closed.md)
 * [5 벽 + 이지 4](./5-waller-easy-4.md)
 * [5 벽 + 고립된 듀오](./5-waller-isolated-duo.md)
 * [5 벽 + 기둥 참호](./5-waller-pillar-trench.md)
@@ -30,9 +30,9 @@
 
 [기본](../getting-started/index.md)을 익혔다면 그리 어렵지 않지만, 어렵지 않다는 것은 동시에 많은 플레이어가 후반전까지 남아 있을 수 있다는 뜻입니다. 후반전에 많은 플레이어가 살아남아 있다면 충돌 위험성이 높아집니다. 이 변형을 위해 경로를 외우는 것은 *필요하지 않습니다*. 하지만 [패턴](../rolls/index.md)을 외우는 것은 권장합니다.
 
-* [클로즈드-오픈 + 이지 4](./closed-open-easy-4.md)
-* [클로즈드-오픈 + 고립된 듀오](./closed-open-isolated-duo.md)
-* [클로즈드-오픈 + 기둥 참호](./closed-open-pillar-trench.md)
+* [닫힘-열림 + 이지 4](./closed-open-easy-4.md)
+* [닫힘-열림 + 고립된 듀오](./closed-open-isolated-duo.md)
+* [닫힘-열림 + 기둥 참호](./closed-open-pillar-trench.md)
 * [이지 4 + 기둥 참호](./easy-4-pillar-trench.md)
 * [고립된 듀오 + 고립된 듀오](./isolated-duo-isolated-duo.md)
 
@@ -43,7 +43,7 @@
 * [이지 4 + 이지 4](./easy-4-easy-4.md)
 * [이지 4 + 고립된 듀오](./easy-4-isolated-duo.md)
 * [고립된 듀오 + 이지 4](./isolated-duo-easy-4.md)
-* [고립된 듀오 + 오픈-클로즈드](./isolated-duo-open-closed)
+* [고립된 듀오 + 열림-닫힘](./isolated-duo-open-closed)
 * [고립된 듀오 + 기둥 참호](./isolated-duo-pillar-trench.md)
 
 ## 공동우승 예시
