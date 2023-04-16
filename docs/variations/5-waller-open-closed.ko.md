@@ -152,27 +152,27 @@
 | 11 #  | 어려움      |
 | 12 #  | 매우 어려움 |
 
-#### Dytl's Path
+#### Dytl의 경로
 
 <video controls>
   <source src="../../images/variations/5-waller-open-closed-dytls-path.mp4" type="video/mp4">
 </video>
 
-##### Summary
+##### 요약
 
-1. Start 2 jumps on blue
-2. Transfer to orange
-3. Jump to the inner ledge before the 2nd wall on orange
-4. Jump dive back to blue
+1. 파란색 오픈-클로즈드 패턴에서 2번의 연속 점프로 시작합니다.
+2. 주황색 5 벽 패턴으로 환승합니다.
+3. 환승 후 넓은 도랑을 점프 다이브로 넘어갑니다.
+4. 파란색 오픈-클로즈드 패턴의 넓은 도랑을 점프 다이브로 넘어갑니다.
 
-##### Difficulty
+##### 난이도
 
 | Lap # | Difficulty |
 | ----- | ---------- |
-| 9     | Impossible |
-| 10    | Impossible |
-| 11    | Very hard  |
-| 12    | Hard       |
+| 9     | 불가능 |
+| 10    | 불가능 |
+| 11    | 매우 어려움d  |
+| 12    | 어려움       |
 
 ## 권장하는 경로
 
