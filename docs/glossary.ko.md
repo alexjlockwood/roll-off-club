@@ -17,6 +17,7 @@ hide:
 | City의 모서리                | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 세 번째 벽 바로 앞에 있는 아주 좁은 공간입니다. [CityLimitsPK][CityLimitsPK]의 이름을 따서 지어졌습니다. |
 | City의 경로                  | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#city의-경로)입니다. |
 | 클로즈드-오픈                 | 롤 오프의 [주황색 롤 변형](./rolls/closed-open-open-closed.md)입니다. |
+| Dytl's path                 | A [path](./variations/5-waller-open-closed.md#dytls-path) used to timeout the [5 Waller + Open-Closed](./variations/5-waller-open-closed.md) variation of Roll Off. |
 | 이지 4                       | 롤 오프의 [주황색 및 파란색 롤 변형](./rolls/easy-4.md)입니다. |
 | EChan의 요새                 | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 3번째 벽과 4번째 벽 사이에 있는 밀폐된 공간입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |
 | EChan의 경로                 | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#echans-path)입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |

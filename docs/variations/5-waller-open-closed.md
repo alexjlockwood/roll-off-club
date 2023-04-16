@@ -40,7 +40,7 @@ Another way to avoid desync on laps 7-8 is to simply outer wall jump on blue. Th
 
 Laps 9-12 are when this variation gets extremely difficult. It is highly recommended to familiarize yourself with the below paths in order to survive.
 
-There are 5 possible paths to take on laps 9-12 of the timeout:
+There are 6 possible paths to take on laps 9-12 of the timeout:
 
 #### Syed's Path
 
@@ -116,7 +116,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 1. Start 2 jumps on blue
 2. Transfer to orange
-3. Jump dive to the inner ledge before the 2nd wall on orange
+3. Jump to the inner ledge before the 2nd wall on orange
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Jump dive across the large gap on blue
 
@@ -139,7 +139,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 1. Start 2 jumps on blue
 2. Transfer to orange
-3. Jump dive to the inner ledge before the 2nd wall on orange
+3. Jump to the inner ledge before the 2nd wall on orange
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Transfer back to orange after the 3rd wall on orange passes
 
@@ -151,6 +151,28 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 | 10    | Medium     |
 | 11    | Hard       |
 | 12    | Very hard  |
+
+#### Dytl's Path
+
+<video controls>
+  <source src="../../images/variations/5-waller-open-closed-dytls-path.mp4" type="video/mp4">
+</video>
+
+##### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange
+3. Jump to the inner ledge before the 2nd wall on orange
+4. Jump dive back to blue
+
+##### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Impossible |
+| 11    | Very hard  |
+| 12    | Hard       |
 
 ## Recommended Pathing
 

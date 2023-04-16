@@ -152,6 +152,28 @@
 | 11 #  | 어려움      |
 | 12 #  | 매우 어려움 |
 
+#### Dytl's Path
+
+<video controls>
+  <source src="../../images/variations/5-waller-open-closed-dytls-path.mp4" type="video/mp4">
+</video>
+
+##### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange
+3. Jump to the inner ledge before the 2nd wall on orange
+4. Jump dive back to blue
+
+##### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Impossible |
+| 11    | Very hard  |
+| 12    | Hard       |
+
 ## 권장하는 경로
 
 다음은 이 변형에 대한 이상적인 2인 공동우승의 예시입니다.
