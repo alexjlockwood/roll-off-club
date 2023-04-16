@@ -12,9 +12,29 @@
 
 ### 파란색 그랜드 캐니언 패턴에서 시작하는 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-grand-canyon-start-on-blue.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-start-on-blue-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-start-on-blue-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-start-on-blue-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-start-on-blue-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
@@ -33,9 +53,29 @@
 
 ### 파란색 그랜드 캐니언 패턴의 모서리를 이용하는 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-grand-canyon-gc-ledge.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
@@ -55,9 +95,29 @@
 
 ### 주황색 5 벽 패턴의 바깥쪽 벽 점프를 이용하는 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
@@ -76,9 +136,29 @@
 
 ### Rainbow의 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-grand-canyon-rainbow-path.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 

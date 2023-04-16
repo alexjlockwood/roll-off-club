@@ -103,6 +103,11 @@ markdown_extensions:
           case: lower
   - pymdownx.betterem
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      alternate_style: true
 
 plugins:
   - search
