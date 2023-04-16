@@ -2,7 +2,7 @@
 
 ## 파란색 롤
 
-![Grand Canyon Blue](../images/rolls/grand-canyon-blue-annotated.jpg)
+![파란색 그랜드 캐니언](../images/rolls/grand-canyon-blue-annotated.jpg)
 
 "그랜드 캐니언" 패턴은 랩의 시작 구간에 있는 거대한 도랑에서 그 이름이 유래되었습니다.
 

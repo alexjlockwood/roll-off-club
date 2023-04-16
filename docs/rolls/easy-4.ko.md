@@ -6,7 +6,7 @@
 
 ## 주황색 롤
 
-![Easy 4 Orange](../images/rolls/easy-4-orange-annotated.jpg)
+![주황색 이지 4](../images/rolls/easy-4-orange-annotated.jpg)
 
 주황색 "이지 4" 패턴은 랩의 시작 구간을 4번의 짧은 연속 점프로 진행합니다.
 
@@ -17,7 +17,7 @@
 
 ## 파란색 롤
 
-![Easy 4 Blue](../images/rolls/easy-4-blue-annotated.jpg)
+![파란색 이지 4](../images/rolls/easy-4-blue-annotated.jpg)
 
 파란색 "이지 4" 패턴은 랩의 마지막 구간을 4번의 짧은 연속 점프로 진행합니다.
 

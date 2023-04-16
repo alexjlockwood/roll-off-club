@@ -1,6 +1,6 @@
 # 고립된 듀오 + 이지 4
 
-![Isolated Duo + Easy 4](../images/variations/isolated-duo-easy-4.jpg)
+![고립된 듀오 + 이지 4](../images/variations/isolated-duo-easy-4.jpg)
 
 ## 개요
 

@@ -2,7 +2,7 @@
 
 ## 파란색 롤
 
-![Pillar Trench Blue](../images/rolls/pillar-trench-blue-annotated.jpg)
+![파란색 기둥 참호](../images/rolls/pillar-trench-blue-annotated.jpg)
 
 "기둥 참호" 패턴은 출현하는 모든 패턴 중 가장 많은 12개의 기둥을 가진 것에서 이름을 따왔습니다.
 

@@ -4,7 +4,7 @@
 
 ## 주황색 롤
 
-![Closed-Open Orange](../images/rolls/closed-open-orange-annotated.jpg)
+![주황색 닫힘-열림](../images/rolls/closed-open-orange-annotated.jpg)
 
 주황색 "닫힘-열림" 패턴은 랩의 시작 구간은 벽으로 닫혀 있고 마지막 구간에는 열린 공간이 있기 때문에 붙여진 이름입니다.
 
@@ -15,7 +15,7 @@
 
 ## 파란색 롤
 
-![Open-Closed Blue](../images/rolls/open-closed-blue-annotated.jpg)
+![파란색 열림-닫힘](../images/rolls/open-closed-blue-annotated.jpg)
 
 파란색 "열림-닫힘" 패턴은 랩의 시작 구간에는 열린 공간이 있고 마지막 구간은 벽으로 닫혀 있기 때문에 붙여진 이름입니다.
 

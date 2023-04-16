@@ -23,11 +23,11 @@ hide:
 | 모서리                       | 롤의 양쪽 끝 모서리에 있는 띠 부분입니다. 띠는 보라색, 주황색 또는 금색일 수 있습니다. |
 | 그랜드 캐니언 모서리          | [그랜드 캐니언](./rolls/grand-canyon.md) 패턴에서 첫 번째 벽 바로 뒤에 있는 좁은 공간입니다. |
 | 그랜드 캐니언                | [파란색 롤 변형](./rolls/grand-canyon.md)입니다. |
-| 고립된 듀오                  | [주황색 및 파란색 롤 변형](./rolls/5-waller.md)입니다. |
+| 고립된 듀오                  | [주황색 및 파란색 롤 변형](./rolls/isolated-duo.md)입니다. |
 | JD의 경로                    | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#jd의-경로)입니다. [Joey Dever][JD]의 이름을 따서 지어졌습니다. |
 | 랩                          | [랩](./advanced/counting-laps.md)은 롤이 360도 완전히 회전하는 것을 말합니다. |
 | 노 점프, 노 다이브           | [점프나 다이브 없이 롤 오프의 공동우승](./advanced/no-jump-dive-timeouts.md)을 달성하는 도전을 설명하는 데 사용됩니다. |
-| 원-롤                       | [원-롤](./advanced/wall-jumps-one-rolling.md/#원-롤링-챌린지)은 벽 점프를 사용해서 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
+| 원-롤                       | [원-롤](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)은 벽 점프를 사용해서 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
 | 열림-닫힘                | [파란색 롤 변형](./rolls/closed-open-open-closed.md#파란색-롤)입니다. |
 | PG의 경로                   | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 지어졌습니다. |
 | Piggy의 경로                | [닫힘-열림 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. 롤 오프 피기의 이름을 따서 지어졌습니다. |
