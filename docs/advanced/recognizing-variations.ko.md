@@ -13,7 +13,7 @@
 
 ### 5 벽
 
-[5 벽](../rolls/5-waller.md) 패턴은 앞쪽에는 기둥이 있고 뒤쪽에는 기둥이 없습니다. 아래 사진은 5 벽 패턴의 주황색 롤입니다.
+[5 벽](../rolls/5-waller.md) 패턴은 앞쪽에는 기둥이 있고 뒤쪽에는 기둥이 없습니다. 아래 사진은 [5 벽](../rolls/5-waller.md) 패턴의 주황색 롤입니다.
 
 ![5 Waller](../images/advanced/recognizing-variants/5-waller.jpg)
 
@@ -57,7 +57,7 @@
 
 ## 기타 팁
 
-파란색 [고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴은 안쪽 모서리에 보라색 줄무늬가 있는 유일한 파란색 패턴이기 때문에 모서리 안쪽에 보라색 줄무늬 색상으로 쉽게 알아볼 수 있습니다.
+파란색 [고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴은 안쪽 모서리에 보라색 줄무늬가 있는 유일한 파란색 패턴이기 때문에 모서리 안쪽에 보라색 줄무늬로 쉽게 알아볼 수 있습니다.
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/isolated-duo-blue-side-view.jpg)
 

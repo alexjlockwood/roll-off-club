@@ -34,6 +34,12 @@
   <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-orange.mp4" type="video/mp4">
 </video>
 
+### 파란색 이지 4 패턴
+
+<video controls>
+  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
+</video>
+
 ### 주황색 5 벽 패턴
 
 <video controls>
@@ -46,34 +52,28 @@
   <source src="../../images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
 </video>
 
-### 주황색 고립된 듀오 패턴
-
-<video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
-</video>
-
-### 파란색 이지 4 패턴
-
-<video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
-</video>
-
-### 파란색 기둥 참호 패턴
-
-<video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
-</video>
-
 ### 파란색 오픈-클로즈드 패턴
 
 <video controls>
   <source src="../../images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">
 </video>
 
+### 주황색 고립된 듀오 패턴
+
+<video controls>
+  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
+</video>
+
 ### 파란색 고립된 듀오 패턴
 
 <video controls>
   <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-blue.mp4" type="video/mp4">
+</video>
+
+### 파란색 기둥 참호 패턴
+
+<video controls>
+  <source src="../../images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
 </video>
 
 ## 원-롤링 예시
