@@ -10,14 +10,13 @@ hide:
 | 4 바이 4                     | 전체 20가지 변형 중 가장 쉬운 [이지 4 + 이지 4](./variations/easy-4-easy-4.md) 변형을 설명하는 데 사용되는 또 다른 이름입니다. |
 | 5 벽                         | 롤 오프의 [주황색 롤 변형](./rolls/5-waller.md)입니다. |
 | 5 벽 클럽                    | 롤 오프에서 가장 난도가 높은 5 벽 패턴을 원-롤로 공동우승하는 명망 높은 폴 가이즈 플레이어 그룹입니다. |
-| 알렉스의 경로                 | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md#알렉스의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [알렉즈락우드][alexjlockwood]에서 이름을 따왔습니다. |
+| 알렉스의 경로                 | 롤 오프의 [클로즈드-오픈 + 오픈-클로즈드](./variations/closed-open-open-closed.md#알렉스의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [알렉즈락우드][alexjlockwood]에서 이름을 따왔습다. |
 | 베이비 경로                   | 클로즈드-오픈 + 그랜드 캐니언 변형에서 [바깥쪽 벽 점프](./variations/closed-open-grand-canyon.md#바깥쪽-벽-점프를-이용하는-경로) 경로를 설명하는 데 사용되는 또 다른 이름입니다. 다른 경로에 비해 벽 점프가 더 쉬운 유일한 경로이기 때문에 붙여진 이름입니다. |
 | 기둥                         | 롤 오프에서 롤 아래에 있는 원형 레일입니다. |
 | 기둥 점프                    | 롤 오프에서 롤 아래에 있는 원형 레일을 밟고 점프하는 행위입니다. |
 | City의 모서리                | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 세 번째 벽 바로 앞에 있는 아주 좁은 공간입니다. [CityLimitsPK][CityLimitsPK]의 이름을 따서 지어졌습니다. |
 | City의 경로                  | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#city의-경로)입니다. |
 | 클로즈드-오픈                 | 롤 오프의 [주황색 롤 변형](./rolls/closed-open-open-closed.md)입니다. |
-| Dytl's path                 | A [path](./variations/5-waller-open-closed.md#dytls-path) used to timeout the [5 Waller + Open-Closed](./variations/5-waller-open-closed.md) variation of Roll Off. |
 | 이지 4                       | 롤 오프의 [주황색 및 파란색 롤 변형](./rolls/easy-4.md)입니다. |
 | EChan의 요새                 | [5 벽](./rolls/5-waller.md) 패턴에서 주황색 롤의 3번째 벽과 4번째 벽 사이에 있는 밀폐된 공간입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |
 | EChan의 경로                 | 롤 오프의 [5 벽 + 오픈-클로즈드](./variations/5-waller-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#echans-path)입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |
