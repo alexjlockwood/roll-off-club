@@ -123,6 +123,10 @@ plugins:
           name: 한국어 (Korean)
           build: true
           site_name: "Roll Off 클럽"
+        zh:
+          name: TODO (Chinese)
+          build: true
+          site_name: "TODO"
       nav_translations:
         ko:
           Home: 홈
@@ -135,6 +139,17 @@ plugins:
           Easy Variations: 쉬운 난도 변형
           Advanced: 고급
           Glossary: 용어집
+        zh:
+          Home: TODO
+          Getting Started: TODO
+          Rolls: TODO
+          Variations: TODO
+          Hardest Variations: TODO
+          Hard Variations: TODO
+          Medium Variations: TODO
+          Easy Variations: TODO
+          Advanced: TODO
+          Glossary: TODO
 
 extra:
   social:
