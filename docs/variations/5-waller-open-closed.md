@@ -40,13 +40,33 @@ Another way to avoid desync on laps 7-8 is to simply outer wall jump on blue. Th
 
 Laps 9-12 are when this variation gets extremely difficult. It is highly recommended to familiarize yourself with the below paths in order to survive.
 
-There are 5 possible paths to take on laps 9-12 of the timeout:
+There are 6 possible paths to take on laps 9-12 of the timeout:
 
 #### Syed's Path
 
-<video controls>
-  <source src="../../images/variations/5-waller-open-closed-syeds-path.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
+    </video>
 
 ##### Summary
 
@@ -66,9 +86,11 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 #### City's Path
 
-<video controls>
-  <source src="../../images/variations/5-waller-open-closed-citys-path.mp4" type="video/mp4">
-</video>
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
+    </video>
 
 ##### Summary
 
@@ -87,9 +109,29 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 #### SH3RKH4N's Path
 
-<video controls>
-  <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap12.mp4" type="video/mp4">
+    </video>
 
 ##### Summary
 
@@ -108,15 +150,35 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 #### Suki's Path
 
-<video controls>
-  <source src="../../images/variations/5-waller-open-closed-sukis-path.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
+    </video>
 
 ##### Summary
 
 1. Start 2 jumps on blue
 2. Transfer to orange
-3. Jump dive to the inner ledge before the 2nd wall on orange
+3. Jump to the inner ledge before the 2nd wall on orange
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Jump dive across the large gap on blue
 
@@ -131,15 +193,35 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 #### EChan's Path
 
-<video controls>
-  <source src="../../images/variations/5-waller-open-closed-echans-path.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
+    </video>
 
 ##### Summary
 
 1. Start 2 jumps on blue
 2. Transfer to orange
-3. Jump dive to the inner ledge before the 2nd wall on orange
+3. Jump to the inner ledge before the 2nd wall on orange
 4. Transfer to the small outer ledge after the 1st wall on blue
 5. Transfer back to orange after the 3rd wall on orange passes
 
@@ -151,6 +233,30 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 | 10    | Medium     |
 | 11    | Hard       |
 | 12    | Very hard  |
+
+#### Dytl's Path
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
+    </video>
+
+##### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange
+3. Jump to the inner ledge before the 2nd wall on orange
+4. Jump dive back to blue
+
+##### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Impossible |
+| 11    | Very hard  |
+| 12    | Hard       |
 
 ## Recommended Pathing
 

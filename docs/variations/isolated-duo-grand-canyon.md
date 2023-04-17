@@ -12,9 +12,29 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
-<video controls>
-  <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Summary
 
@@ -33,9 +53,29 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Grand Canyon Ledge
 
-<video controls>
-  <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Summary
 
@@ -55,9 +95,29 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Outer Wall Jump
 
-<video controls>
-  <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Summary
 
@@ -76,9 +136,11 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Inner Wall Jump
 
-<video controls>
-  <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump.mp4" type="video/mp4">
-</video>
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Summary
 
@@ -97,9 +159,29 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Rainbow's Path
 
-<video controls>
-  <source src="../../images/variations/isolated-duo-grand-canyon-rainbow-path.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Summary
 

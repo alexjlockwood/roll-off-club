@@ -12,9 +12,29 @@
 
 ### 알렉스의 경로
 
-<video controls>
-  <source src="../../images/variations/closed-open-open-closed-alexs-path.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
@@ -34,9 +54,29 @@
 
 ### PG의 경로
 
-<video controls>
-  <source src="../../images/variations/closed-open-open-closed-pgs-path.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
@@ -55,9 +95,29 @@
 
 ### JD의 경로
 
-<video controls>
-  <source src="../../images/variations/closed-open-open-closed-jds-path.mp4" type="video/mp4">
-</video>
+=== "랩 9"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "랩 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "랩 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "랩 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 요약
 
