@@ -48,7 +48,7 @@ These are the easiest Roll Off variations to timeout, containing lots of open sp
 * [Easy 4 + Easy 4](./easy-4-easy-4.md)
 * [Easy 4 + Isolated Duo](./easy-4-isolated-duo.md)
 * [Isolated Duo + Easy 4](./isolated-duo-easy-4.md)
-* [Isolated Duo + Open-Closed](./isolated-duo-open-closed)
+* [Isolated Duo + Open-Closed](./isolated-duo-open-closed.md)
 * [Isolated Duo + Pillar Trench](./isolated-duo-pillar-trench.md)
 
 ## Example Timeouts

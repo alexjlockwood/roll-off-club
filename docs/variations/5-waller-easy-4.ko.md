@@ -1,6 +1,6 @@
 # 5 벽 + 이지 4
 
-![5 Waller + Easy 4](../images/variations/5-waller-easy-4.jpg)
+![5 벽 + 이지 4](../images/variations/5-waller-easy-4.jpg)
 
 ## 개요
 

@@ -6,7 +6,7 @@
 
 ## 주황색 롤
 
-![Isolated Duo Orange](../images/rolls/isolated-duo-orange-annotated.jpg)
+![주황색 고립된 듀오](../images/rolls/isolated-duo-orange-annotated.jpg)
 
 ### 기억해야 할 사항
 

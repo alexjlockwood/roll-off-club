@@ -6,7 +6,7 @@
 
 * [이지 4](../rolls/easy-4.md)
 * [고립된 듀오](../rolls/isolated-duo.md)
-* [클로즈드-오픈 & 오픈-클로즈드](../rolls/closed-open-open-closed.md)
+* [닫힘-열림 & 열림-닫힘](../rolls/closed-open-open-closed.md)
 * [기둥 참호](../rolls/pillar-trench.md)
 * [5 벽](../rolls/5-waller.md)
 * [그랜드 캐니언](../rolls/grand-canyon.md)
