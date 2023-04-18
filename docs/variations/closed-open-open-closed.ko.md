@@ -12,25 +12,25 @@
 
 ### 알렉스의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
@@ -54,25 +54,25 @@
 
 ### PG의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
@@ -95,25 +95,25 @@
 
 ### JD의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
