@@ -44,25 +44,25 @@
 
 #### Syed의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
@@ -86,7 +86,7 @@
 
 #### City의 경로
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
@@ -109,25 +109,25 @@
 
 #### SH3RKH4N의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap12.mp4" type="video/mp4">
@@ -150,25 +150,25 @@
 
 #### Suki의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
@@ -193,25 +193,25 @@
 
 #### EChan의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
@@ -236,7 +236,7 @@
 
 #### Dytl의 경로
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
@@ -251,12 +251,12 @@
 
 ##### 난이도
 
-| 랩 # | Difficulty |
+| 랩 # | Difficulty  |
 | ----- | ---------- |
-| 9 #    | 불가능 |
-| 10 #   | 불가능 |
-| 11 #   | 매우 어려움d  |
-| 12 #   | 어려움       |
+| 9 #    | 불가능     |
+| 10 #   | 불가능     |
+| 11 #   | 매우 어려움 |
+| 12 #   | 어려움     |
 
 ## 권장하는 경로
 

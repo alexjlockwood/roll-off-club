@@ -12,25 +12,25 @@
 
 ### 파란색 그랜드 캐니언 패턴에서 시작하는 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-start-on-blue-lap12.mp4" type="video/mp4">
@@ -53,25 +53,25 @@
 
 ### 파란색 그랜드 캐니언 모서리를 이용하는 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
@@ -95,25 +95,25 @@
 
 ### 주황색 고립된 듀오 패턴의 바깥쪽 벽 점프를 이용하는 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
@@ -136,7 +136,7 @@
 
 ### 주황색 고립된 듀오 패턴의 안쪽 벽 점프를 이용하는 경로
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
@@ -159,25 +159,25 @@
 
 ### Rainbow의 경로
 
-=== "9 랩"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "10 랩"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "11 랩"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "12 랩"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
