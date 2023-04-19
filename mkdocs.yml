@@ -128,10 +128,6 @@ plugins:
           name: 한국어 (Korean)
           build: true
           site_name: "Roll Off 클럽"
-        ja:
-          name: 日本語 (Japanese)
-          buidl: true
-          site_name: "Roll Off クラブ"
       nav_translations:
         ko:
           Home: 홈
@@ -144,17 +140,6 @@ plugins:
           Easy Variations: 쉬운 난도 변형
           Advanced: 고급
           Glossary: 용어집
-        ja:
-          Home: ホーム
-          Getting Started: はじめに
-          Rolls: パターン
-          Variations: バリエーション
-          Hardest Variations: 最高難易度バリエーション
-          Hard Variations: 高難易度バリエーション
-          Medium Variations: 中難易度バリエーション
-          Easy Variations: 簡単な難易度バリエーション
-          Advanced: 上級者向け
-          Glossary: 用語集
 extra:
   social:
     - icon: fontawesome/brands/discord
