@@ -4,13 +4,13 @@
 
 ## 개요
 
-[5 벽](../rolls/5-waller.md) + [고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 변형은 [주황색 5 벽](../rolls/5-waller.md) 패턴의 공간 부족으로 플레이어가 대부분의 시간을 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴에 머물러야 합니다.
+[5 벽](../rolls/5-waller.md) + [고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 변형은 [주황색 5 벽](../rolls/5-waller.md) 패턴의 공간 부족으로 대부분의 플레이어가 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴을 활용해서 경로를 진행해야 합니다.
 
 ## 경로
 
 ### 표준 경로
 
-일반적인 경로는 [주황색 5 벽](../rolls/5-waller.md) 패턴의 두 번째 파란 벽 앞에 있는 좁은 공간을 활용하는 방법입니다. 이 벽의 좁은 공간으로 이동한 후 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴으로 다시 환승해서 긴 점프 활용해 도랑을 넘어갑니다. 이렇게 진행하면 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴에서 진행하기 어려운 첫 번째 [갓 점프](../advanced/isolated-duo-god-jumps.md)를 피할 수 있습니다. 하지만 여러 명의 플레이어가 같은 경로 이용할 경우 [주황색 5 벽](../rolls/5-waller.md) 패턴의 두 번째 벽의 좁은 공간에서 충돌이 일어날 수 있습니다.
+일반적인 경로는 [주황색 5 벽](../rolls/5-waller.md) 패턴의 두 번째 파란 벽 앞에 있는 좁은 공간을 활용하는 방법입니다. 이 벽의 좁은 공간으로 이동한 후 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴으로 다시 환승해서 긴 점프 활용해 도랑을 넘어갑니다. 이렇게 진행하면 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-롤) 패턴에서 진행하기 어려운 첫 번째 [갓 점프](../advanced/isolated-duo-god-jumps.md)를 피할 수 있습니다. 하지만 여러 명의 플레이어가 같은 경로를 이용할 경우 [주황색 5 벽](../rolls/5-waller.md) 패턴의 두 번째 벽의 좁은 공간에서 충돌이 일어날 수 있습니다.
 
 <video controls>
   <source src="../../images/variations/5-waller-isolated-duo-standard-path.mp4" type="video/mp4">

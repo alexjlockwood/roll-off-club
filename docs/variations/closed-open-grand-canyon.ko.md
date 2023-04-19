@@ -4,9 +4,9 @@
 
 ## 개요
 
-롤 오프에 출현하는 20가지 변형 중 "두 번째로 어려운 변형"으로도 알려진 [닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) + [그랜드 캐니언](../rolls/grand-canyon.md) 변형은 공동우승이 가장 어려운 변형 중 하나입니다.
+롤 오프에 출현하는 20가지 변형 중 "두 번째로 어려운 변형"으로도 알려진 [닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) + [그랜드 캐니언](../rolls/grand-canyon.md) 변형은 공동우승이 매우 어렵기로 악명이 높은 변형입니다.
 
-이 변형은 9번째 랩의 3분 30초 구간부터 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 넓은 도랑 때문에 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽을 통과하는 게 매우 어려워집니다. 일반적인 경로는 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽이 지나가면 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 가운데에서 3번의 연속 점프 후 [그랜드 캐니언](../rolls/grand-canyon.md)의 넓은 도랑을 만나면 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴으로 환승해서 3번의 연속 점프로 진행하는 경로입니다.
+이 변형은 9번째 랩의 3분 30초 구간부터 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 넓은 도랑으로 인해 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽을 통과하는 게 매우 어려워집니다. 그러나 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽이 지나가고 나면, [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 가운데에서 3번의 연속 점프와 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 마지막 구간에서 3번의 연속 점프로 간단하게 진행할 수 있습니다.
 
 ## 경로
 
