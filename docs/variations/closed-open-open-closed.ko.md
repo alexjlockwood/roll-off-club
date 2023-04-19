@@ -4,7 +4,7 @@
 
 ## 개요
 
-[닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) + [열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 변형은 공동우승하기 가장 어려운 변형 중 하나입니다. 일반적으로 8번째 랩까지는 [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 3번의 연속 점프로 시작하고 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 끝나는 경로를 이용할 수 있습니다. 하지만 슬라임이 최대 높이에 도달하는 9번째 랩에서 마지막 12번째 랩까지는 이 경로가 매우 어려워집니다.
+[닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) + [열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 변형은 "네 번째로 어려운 변형"으로 알려져 있습니다. 8번째 랩까지는 [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-롤) 패턴에서 3번의 연속 점프로 시작하고 마지막 구간은 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 끝나는 간단한 경로입니다. 하지만 슬라임이 최대 높이에 도달하는 9번째 랩에서 마지막 12번째 랩까지는 변형의 난도가 급격하게 증가합니다.
 
 ## 경로
 

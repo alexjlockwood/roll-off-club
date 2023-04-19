@@ -31,7 +31,7 @@ hide:
 | 원-롤                       | [원-롤](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)은 벽 점프를 사용해서 환승 없이 하나의 롤에서만 머무르는 행위입니다. |
 | 열림-닫힘                | [파란색 롤 변형](./rolls/closed-open-open-closed.md#파란색-롤)입니다. |
 | PG의 경로                   | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 지어졌습니다. |
-| Piggy의 경로                | [닫힘-열림 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. [RollOffPiggy][RollOffPiggy]의 이름을 따서 지어졌습니다. |
+| Piggy의 경로                | [닫힘-열림 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. 롤 오프 피기의 이름을 따서 지어졌습니다. |
 | 기둥 참호                   | [파란색 롤 변형](./rolls/pillar-trench.md)입니다. |
 | Popper의 모서리             | [그랜드 캐니언](./rolls/grand-canyon.md) 패턴에서 두 번째 벽 바로 뒤에 있는 좁은 공간입니다. [lil_poppers][lil_poppers]의 이름을 따서 지어졌습니다. |
 | Popper의 경로               | [이지 4 + 그랜드 캐니언](./variations/easy-4-grand-canyon.md#popper의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [lil_poppers][lil_poppers]의 이름을 따서 지어졌습니다. |
@@ -50,7 +50,6 @@ hide:
 [EChanTV]: <https://www.youtube.com/user/hellomotto39> "EChan's YouTube"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
 [lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
-[RollOffPiggy]: <https://www.twitch.tv/roll_off_piggy> "Roll Off Piggy's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
 [RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
