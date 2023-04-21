@@ -4,9 +4,9 @@
 
 ## 개요
 
-롤 오프에 출현하는 20가지 변형 중 "두 번째로 어려운 변형"으로도 알려진 [닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) + [그랜드 캐니언](../rolls/grand-canyon.md) 변형은 공동우승이 매우 어렵기로 악명이 높은 변형입니다.
+롤 오프에 출현하는 20가지 변형 중 "두 번째로 어려운 변형"으로도 알려진 [닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) + [그랜드 캐니언](../rolls/grand-canyon.md) 변형은 공동우승이 매우 어렵기로 악명이 높은 변형입니다.
 
-이 변형은 9번째 랩의 3분 30초 구간부터 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 넓은 도랑으로 인해 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽을 통과하는 게 매우 어려워집니다. 그러나 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 첫 번째 벽이 지나가고 나면, [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 가운데에서 3번의 연속 점프와 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 마지막 구간에서 3번의 연속 점프로 간단하게 진행할 수 있습니다.
+이 변형은 9번째 랩의 3분 30초 구간부터 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 넓은 도랑으로 인해 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 첫 번째 벽을 통과하는 게 매우 어려워집니다. 그러나 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 첫 번째 벽이 지나가고 나면, [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 가운데에서 3번의 연속 점프와 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 마지막 구간에서 3번의 연속 점프로 간단하게 진행할 수 있습니다.
 
 ## 경로
 
@@ -34,9 +34,9 @@
 
 #### 요약
 
-1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 시작합니다.
+1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 시작합니다.
 2. [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴의 금 벽 뒤 좁은 공간으로 환승합니다.
-3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 파란 벽이 지나가면 다시 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴으로 점프해서 환승합니다.
+3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 파란 벽이 지나가면 다시 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴으로 점프해서 환승합니다.
 
 #### 난이도
 
@@ -69,7 +69,7 @@
 
 #### 요약
 
-1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 시작합니다.
+1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 시작합니다.
 2. 두 번의 짧은 점프 후 파란 벽을 만나면 안쪽으로 벽 점프해 넘어갑니다.
 3. [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴이 나타나면 환승합니다.
 
@@ -110,9 +110,9 @@
 
 #### 요약
 
-1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 시작합니다.
+1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 시작합니다.
 2. 두 번의 짧은 점프 후 파란 벽을 만나면 바깥쪽으로 벽 점프해 넘어갑니다.
-3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴의 안쪽으로 가로질러 이동 후 넓은 도랑을 만나면 긴 점프 다이브로 넘어갑니다.
+3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 안쪽으로 가로질러 이동 후 넓은 도랑을 만나면 긴 점프 다이브로 넘어갑니다.
 4. 파란 벽 앞에 좁은 공간에 착지 했다면 바로 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴으로 환승합니다.
 
 #### 난이도
@@ -134,9 +134,9 @@
 
 #### 요약
 
-1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 시작합니다.
+1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 시작합니다.
 2. 두 번의 짧은 점프 후 파란 벽 앞에서 머무릅니다.
-3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴에서 잠시 머무르다가 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴이 나타날 거라 믿고 점프 다이브로 환승합니다.
+3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 잠시 머무르다가 [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴이 나타날 거라 믿고 점프 다이브로 환승합니다.
 
 #### 난이도
 
@@ -159,7 +159,7 @@
 
 1. [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴에서 시작합니다.
 2. 1번의 짧은 점프 후 금 벽을 벽 점프로 넘어갑니다.
-3. 금 벽 뒤에 [그랜드 캐니언](../rolls/grand-canyon.md) 모서리를 가로질러 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-롤) 패턴으로 점프 다이브해서 환승합니다.
+3. 금 벽 뒤에 [그랜드 캐니언](../rolls/grand-canyon.md) 모서리를 가로질러 [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴으로 점프 다이브해서 환승합니다.
 4. [파란색 그랜드 캐니언](../rolls/grand-canyon.md) 패턴으로 다시 환승합니다.
 
 #### 난이도
