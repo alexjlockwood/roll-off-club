@@ -9,7 +9,7 @@ hide:
 | --------------------------- | ----------- |
 | 4 바이 4                     | 전체 20가지 변형 중 가장 쉬운 [이지 4 + 이지 4](./variations/easy-4-easy-4.md) 변형을 설명하는 데 사용되는 또 다른 이름입니다. |
 | 5 벽                         | [주황색 패턴 변형](./rolls/5-waller.md)입니다. |
-| 5 벽 클럽                    | 롤 오프에서 가장 난도가 높은 [5 벽](./rolls/5-waller.md) 패턴을 원-롤로 공동우승하는 명망 높은 폴 가이즈 플레이어 그룹입니다. |
+| 5 벽 클럽                    | 롤 오프에서 가장 난도가 높은 [5 벽](./rolls/5-waller.md) 패턴을 [원-롤링](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)으로 공동우승하는 명망 높은 폴 가이즈 플레이어 그룹입니다. |
 | Alex의 경로                 | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md#alex의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [alexjlockwood][alexjlockwood]에서 이름을 따왔습니다. |
 | 베이비 경로                   | 닫힘-열림 + 그랜드 캐니언 변형에서 [바깥쪽 벽 점프](./variations/closed-open-grand-canyon.md#바깥쪽-벽-점프를-이용하는-경로) 경로를 설명하는 데 사용되는 또 다른 이름입니다. 다른 경로에 비해 벽 점프가 더 쉬운 유일한 경로이기 때문에 붙여진 이름입니다. |
 | 기둥                         | 패턴 아래에 있는 원형 레일입니다. |
@@ -28,7 +28,7 @@ hide:
 | JD의 경로                    | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#jd의-경로)입니다. [Joey Dever][JD]의 이름을 따서 지어졌습니다. |
 | 랩                          | [랩](./advanced/counting-laps.md)은 패턴이 360도 완전히 회전하는 것을 말합니다. |
 | 노 점프, 노 다이브           | [점프나 다이브 없이 롤 오프의 공동우승](./advanced/no-jump-dive-timeouts.md)을 달성하는 도전을 설명하는 데 사용됩니다. |
-| 원-롤                       | [원-롤](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)은 벽 점프를 사용해서 환승 없이 하나의 패턴에서만 머무르는 행위입니다. |
+| 원-롤링                      | [원-롤링](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)은 벽 점프를 사용해서 환승 없이 하나의 패턴에서만 머무르는 행위입니다. |
 | 열림-닫힘                | [파란색 패턴 변형](./rolls/closed-open-open-closed.md#파란색-패턴)입니다. |
 | PG의 경로                   | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 지어졌습니다. |
 | Piggy의 경로                | [닫힘-열림 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. [RollOffPiggy][RollOffPiggy]의 이름을 따서 지어졌습니다. |
