@@ -6,4 +6,4 @@
 
 ## 변형
 
-노 점프 노 다이브로 공동우승에 성공한 모든 20가지 변형을 담은 [유튜브 재생 목록](https://youtube.com/playlist?list=PL1sF1RHb6YqNGeD2soXQ82R-3JmOssCw5)이 있습니다. 플레이리스트를 제작해준 RainbowStays에게 감사드립니다!
+노 점프 노 다이브로 공동우승에 성공한 모든 20가지 변형을 담은 [유튜브 재생 목록](https://youtube.com/playlist?list=PL1sF1RHb6YqNGeD2soXQ82R-3JmOssCw5)이 있습니다. 플레이리스트를 제작해 준 RainbowStays에 감사드립니다!
