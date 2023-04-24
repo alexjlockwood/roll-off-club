@@ -12,15 +12,55 @@
 
 ### 주황색 5 벽 패턴의 바깥쪽 좁은 공간을 이용하는 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 ### 주황색 5 벽 패턴의 안쪽 좁은 공간을 이용하는 경로
 
-<video controls>
-  <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 ## 공동우승 예시
 
