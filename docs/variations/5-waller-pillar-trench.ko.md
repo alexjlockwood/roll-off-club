@@ -10,37 +10,37 @@
 
 ### 경로 예시
 
-=== "Lap 7"
+=== "7번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap7.mp4" type="video/mp4">
     </video>
 
-=== "Lap 8"
+=== "8번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap8.mp4" type="video/mp4">
     </video>
 
-=== "Lap 9"
+=== "9번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "Lap 10"
+=== "10번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "Lap 11"
+=== "11번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "12번째 랩"
 
     <video controls>
       <source src="../../images/variations/5-waller-pillar-trench-example-path-lap12.mp4" type="video/mp4">
