@@ -12,15 +12,55 @@ The key to timing out this variation is coordination. You'll want to avoid havin
 
 ### Outer Orange Ledge
 
-<video controls>
-  <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 ### Inner Orange Ledge
 
-<video controls>
-  <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap12.mp4" type="video/mp4">
+    </video>
 
 ## Example Timeouts
 

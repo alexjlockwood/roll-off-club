@@ -12,9 +12,29 @@
 
 ### 주황색 이지 4 패턴에서 끝나는 경로
 
-<video controls>
-  <source src="../../images/variations/easy-4-grand-canyon-end-on-orange.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 난이도
 
@@ -27,9 +47,29 @@
 
 ### 파란색 그랜드 캐니언 패턴에서 끝나는 경로
 
-<video controls>
-  <source src="../../images/variations/easy-4-grand-canyon-end-on-blue.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap12.mp4" type="video/mp4">
+    </video>
 
 #### 난이도
 
