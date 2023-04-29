@@ -10,9 +10,97 @@
 
 ### 경로 예시
 
-<video controls>
-  <source src="../../images/variations/easy-4-isolated-duo-standard-path.mp4" type="video/mp4">
-</video>
+### 파란색 고립된 듀오 패턴에서 끝나는 경로
+
+=== "7번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap7.mp4" type="video/mp4">
+    </video>
+
+=== "8번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap8.mp4" type="video/mp4">
+    </video>
+
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 난이도
+
+| 랩 #  | 난이도     |
+| ----- | ---------- |
+| 7     | 쉬움        |
+| 8     | 쉬움        |
+| 9     | 쉬움        |
+| 10    | 쉬움        |
+| 11    | 쉬움        |
+| 12    | 쉬움        |
+
+### 주황색 이지 4 패턴에서 끝나는 경로
+
+=== "7번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap7.mp4" type="video/mp4">
+    </video>
+
+=== "8번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap8.mp4" type="video/mp4">
+    </video>
+
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap11.mp4" type="video/mp4">
+    </video>
+
+#### 난이도
+
+| 랩 #  | 난이도     |
+| ----- | ---------- |
+| 7     | 쉬움        |
+| 8     | 쉬움        |
+| 9     | 쉬움        |
+| 10    | 중간        |
+| 11    | 중간        |
+| 12    | 불가능      |
 
 ## 공동우승 예시
 
