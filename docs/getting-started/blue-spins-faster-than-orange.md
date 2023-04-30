@@ -8,7 +8,7 @@ For example, the picture below shows how the blue and orange rolls align for the
 
 ![Roll speed for last 4 laps](../images/getting-started/blue-spins-faster-than-orange/roll-speed-per-lap.jpg)
 
-Notice how the orange roll aligns differently relative to the blue roll after each lap. *This is because blue spins slightly faster relative than orange, causing the alignment to change each lap.* In this case, it means that the transfer from blue to orange gets slightly more difficult with each lap.
+Notice how the orange roll aligns differently relative to the blue roll after each lap. *This is because blue spins slightly faster relative to orange, causing the alignment to change each lap.* In this case, it means that the transfer from blue to orange gets slightly more difficult with each lap.
 
 ## Why this is important
 
