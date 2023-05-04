@@ -16,9 +16,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-minify-plugin
-      - run: pip install mkdocs-redirects
-      - run: pip install mkdocs-static-i18n
+      - run: pip install -r requirements.txt
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
 env:
