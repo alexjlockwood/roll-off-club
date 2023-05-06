@@ -136,6 +136,24 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Inner Wall Jump
 
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
 === "Lap 12"
 
     <video controls>

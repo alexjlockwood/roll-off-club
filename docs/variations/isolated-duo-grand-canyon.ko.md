@@ -136,6 +136,24 @@
 
 ### 주황색 고립된 듀오 패턴의 안쪽 벽 점프를 이용하는 경로
 
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
 === "12번째 랩"
 
     <video controls>
