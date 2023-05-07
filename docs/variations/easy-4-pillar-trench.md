@@ -12,9 +12,29 @@ There are 2 paths you can take to survive the final transfer on laps 9-12 of the
 
 ### End on Orange
 
-<video controls>
-  <source src="../../images/variations/easy-4-pillar-trench-end-on-orange.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Difficulty
 
@@ -25,11 +45,31 @@ There are 2 paths you can take to survive the final transfer on laps 9-12 of the
 | 11    | Medium     |
 | 12    | Medium     |
 
-### End on Blue
+### End On Blue
 
-<video controls>
-  <source src="../../images/variations/easy-4-pillar-trench-end-on-blue.mp4" type="video/mp4">
-</video>
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap12.mp4" type="video/mp4">
+    </video>
 
 #### Difficulty
 
