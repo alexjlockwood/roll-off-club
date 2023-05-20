@@ -130,10 +130,52 @@ There are 3 possible paths to take on laps 9-12 of the timeout:
 
 | Lap # | Difficulty |
 | ----- | ---------- |
+| 9     | Medium     |
+| 10    | Medium     |
+| 11    | Medium     |
+| 12    | Medium     |
+
+### 3C's Path
+
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
+    </video>
+
+#### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange after the 1st wall passes
+3. Transfer to small blue ledge after the 1st wall passes
+4. Jump dive across the large gap on blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
 | 9     | Hard       |
 | 10    | Medium     |
 | 11    | Medium     |
-| 12    | Hard       |
+| 12    | Medium     |
 
 ## Recommended Pathing
 

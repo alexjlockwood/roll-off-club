@@ -135,6 +135,48 @@
 | 11 #  | 중간        |
 | 12 #  | 어려움      |
 
+### 3C의 경로
+
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 요약
+
+1. [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-패턴) 패턴에서 시작해서 2번의 점프로 도랑을 넘어갑니다.
+2. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴의 파란 벽이 지나가면 환승합니다.
+3. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴을 달리다가 [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-패턴) 패턴의 금 벽이 나타나면 금 벽 뒤쪽 좁은 공간으로 환승합니다.
+4. [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-패턴) 패턴의 넓은 도랑을 점프 다이브로 넘어갑니다.
+
+#### 난이도
+
+| 랩 #  | 난이도      |
+| ----- | ---------- |
+| 9 #   | 어려움      |
+| 10 #  | 중간        |
+| 11 #  | 중간        |
+| 12 #  | 중간      |
+
 ## 권장하는 경로
 
 다음은 이 변형에 대한 이상적인 3인 공동우승의 예시입니다.
