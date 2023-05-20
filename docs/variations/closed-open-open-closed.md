@@ -8,7 +8,7 @@
 
 ## Paths
 
-There are 3 possible paths to take on laps 9-12 of the timeout:
+There are 4 possible paths to take on laps 9-12 of the timeout:
 
 ### Alex's Path
 
