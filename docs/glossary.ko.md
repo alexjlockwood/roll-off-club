@@ -7,6 +7,7 @@ hide:
 
 | 용어                         | 설명 |
 | --------------------------- | ----------- |
+| 3C의 경로                    | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#3c의-경로)입니다. Three-C의 이름을 따서 지어졌습니다. |
 | 4 바이 4                     | 전체 20가지 변형 중 가장 쉬운 [이지 4 + 이지 4](./variations/easy-4-easy-4.md) 변형을 설명하는 데 사용되는 또 다른 이름입니다. |
 | 5 벽                         | [주황색 패턴 변형](./rolls/5-waller.md)입니다. |
 | 5 벽 클럽                    | 롤 오프에서 가장 난도가 높은 [5 벽](./rolls/5-waller.md) 패턴을 [원-롤링](./advanced/wall-jumps-one-rolling.md#원-롤링-챌린지)으로 공동우승하는 명망 높은 폴 가이즈 플레이어 그룹입니다. |
