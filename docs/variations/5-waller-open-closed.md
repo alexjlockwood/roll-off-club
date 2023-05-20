@@ -86,6 +86,18 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 
 #### City's Path
 
+=== "Lap 9"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
+    </video>
+
 === "Lap 11"
 
     <video controls>

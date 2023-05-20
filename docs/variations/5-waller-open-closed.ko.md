@@ -86,6 +86,18 @@
 
 #### City의 경로
 
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
+    </video>
+
 === "11번째 랩"
 
     <video controls>
