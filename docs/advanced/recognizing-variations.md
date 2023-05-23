@@ -1,5 +1,10 @@
 # Recognizing Variations
 
+!!! note
+
+    Beginning with SS4 released in May 2023, the Roll Off introduction scenes have changed, making
+    some of the information in this page less useful for detecting variations.
+
 It is possible to detect the exact Roll Off variation from the preview at the start of the final. This can be convenient so that you don't have to spend the first lap trying to figure out which variation you have gotten.
 
 Below is a simple decision tree that you can use to detect each of the orange and blue rolls from the final's opening preview.
