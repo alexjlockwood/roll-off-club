@@ -119,30 +119,30 @@
 | 11 #  | 어려움     |
 | 12 #  | 매우 어려움 |
 
-#### SH3RKH4N의 경로
+#### Sherkhan의 경로
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap9.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap10.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap11.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap12.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 요약
@@ -274,7 +274,7 @@
 
 다음은 이 변형에 대한 이상적인 2인 공동우승의 예시입니다.
 
-* 1명이 9번째 랩에서 10번째 랩 동안 [Syed의 경로](#syed의-경로)를, 11번째 랩에서 마지막 12번째 랩 동안은 [SH3RKH4N의 경로](#sh3rkh4n의-경로)를 시도합니다.
+* 1명이 9번째 랩에서 10번째 랩 동안 [Syed의 경로](#syed의-경로)를, 11번째 랩에서 마지막 12번째 랩 동안은 [Sherkhan의 경로](#sherkhan의-경로)를 시도합니다.
 * 1명이 9번째 랩에서 10번째 랩 동안 [EChan의 경로](#echan의-경로)를, 11번째 랩에서 마지막 12번째 랩 동안은 [Suki의 경로](#suki의-경로)를 시도합니다.
 
 ## 공동우승 예시

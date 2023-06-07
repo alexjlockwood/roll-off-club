@@ -119,30 +119,30 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 | 11    | Hard       |
 | 12    | Very hard  |
 
-#### SH3RKH4N's Path
+#### Sherkhan's Path
 
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap9.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap10.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap11.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sh3rkh4ns-path-lap12.mp4" type="video/mp4">
+      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -274,7 +274,7 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 
 Here is an example of what an ideal 2 person timeout looks like for this variation:
 
-* 1 player takes Syed's path on laps 9-10 and SH3RKH4N's path on laps 11-12
+* 1 player takes Syed's path on laps 9-10 and Sherkhan's path on laps 11-12
 * 1 player takes EChan's path on laps 9-10 and Suki's path on laps 11-12
 
 ## Example Timeouts

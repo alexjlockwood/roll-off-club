@@ -37,7 +37,7 @@ hide:
 | Popper의 모서리             | [그랜드 캐니언](./rolls/grand-canyon.md) 패턴에서 두 번째 벽 바로 뒤에 있는 좁은 공간입니다. [lil_poppers][lil_poppers]의 이름을 따서 지어졌습니다. |
 | Popper의 경로               | [이지 4 + 그랜드 캐니언](./variations/easy-4-grand-canyon.md#popper의-경로) 변형을 공동우승하는 데 사용되는 경로입니다. [lil_poppers][lil_poppers]의 이름을 따서 지어졌습니다. |
 | Rainbow의 경로              | 그랜드 캐니언 패턴의 다양한 변형([닫힘-열림](./variations/closed-open-grand-canyon.md#rainbow의-경로), [5 벽](./variations/5-waller-grand-canyon.md#rainbow의-경로), [고립형 듀오](./variations/isolated-duo-grand-canyon.md#rainbow의-경로))을 공동우승하는 데 사용되는 경로입니다. [RainbowStays][RainbowStays]의 이름을 따서 지어졌습니다. |
-| SH3RKH4N의 경로             | [5 벽 + 열림-닫힘](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#sh3rkh4n의-경로)입니다. [SH3RKH4N][SH3RKH4N]의 이름을 따서 지어졌습니다. |
+| Sherkhan의 경로             | [5 벽 + 열림-닫힘](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#sherkhan의-경로)입니다. [SH3RKH4N][SH3RKH4N]의 이름을 따서 지어졌습니다. |
 | Suki의 도랑                  | [파란색 열림-닫힘](./rolls/closed-open-open-closed.md#파란색-패턴) 패턴의 첫 번째 벽 바로 뒤에 넓은 도랑입니다. suki_da_yo의 이름을 따서 지어졌습니다. |
 | Suki의 모서리                | [파란색 열림-닫힘](./rolls/closed-open-open-closed.md#파란색-패턴) 패턴의 첫 번째 벽 바로 뒤에 있는 좁은 공간입니다. suki_da_yo의 이름을 따서 지어졌습니다. |
 | Suki의 경로                  | [5 벽 + 열림-닫힘](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#suki의-경로)입니다. suki_da_yo의 이름을 따서 지어졌습니다. |
