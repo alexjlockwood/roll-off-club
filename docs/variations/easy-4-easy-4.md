@@ -50,14 +50,6 @@ Beginning with the 9th lap, it can be useful to start with 3 jumps on orange ins
       <source src="../../images/variations/easy-4-easy-4-example-path-lap12.mp4" type="video/mp4">
     </video>
 
-<video controls>
-  <source src="../../images/variations/easy-4-easy-4-standard-path.mp4" type="video/mp4">
-</video>
-
-<video controls>
-  <source src="../../images/variations/easy-4-easy-4-alternate-path.mp4" type="video/mp4">
-</video>
-
 ## Example Timeouts
 
 View all Roll Off paths for all 20 variations on [YouTube](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F).
