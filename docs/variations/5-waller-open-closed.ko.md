@@ -104,6 +104,12 @@
       <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
     </video>
 
+=== "12번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
+    </video>
+
 ##### 요약
 
 1. [파란색 열림-닫힘](../rolls/closed-open-open-closed.md#파란색-패턴) 패턴에서 3번의 연속 점프로 시작합니다.

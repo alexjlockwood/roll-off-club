@@ -104,6 +104,12 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
       <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
     </video>
 
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
+    </video>
+
 ##### Summary
 
 1. Start 3 jumps on blue
