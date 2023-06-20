@@ -254,6 +254,12 @@
 
 #### Dytl의 경로
 
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
+    </video>
+
 === "12번째 랩"
 
     <video controls>

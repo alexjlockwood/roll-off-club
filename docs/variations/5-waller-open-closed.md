@@ -254,6 +254,12 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 
 #### Dytl's Path
 
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
+    </video>
+
 === "Lap 12"
 
     <video controls>
