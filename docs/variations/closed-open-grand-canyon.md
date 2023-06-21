@@ -126,6 +126,18 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Piggy's Path
 
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
+    </video>
+
 === "Lap 12"
 
     <video controls>

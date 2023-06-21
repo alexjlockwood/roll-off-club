@@ -126,6 +126,18 @@
 
 ### Piggy의 경로
 
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
+    </video>
+
 === "12번째 랩"
 
     <video controls>
