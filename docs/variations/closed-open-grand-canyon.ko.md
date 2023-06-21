@@ -32,6 +32,12 @@
       <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
+=== "12번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+    </video>
+
 #### 요약
 
 1. [주황색 닫힘-열림](../rolls/closed-open-open-closed.md#주황색-패턴) 패턴에서 시작합니다.
@@ -165,6 +171,24 @@
 
     <video controls>
       <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약

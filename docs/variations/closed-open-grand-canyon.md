@@ -32,6 +32,12 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
       <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+    </video>
+
 #### Summary
 
 1. Start on orange
@@ -165,6 +171,24 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
     <video controls>
       <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
