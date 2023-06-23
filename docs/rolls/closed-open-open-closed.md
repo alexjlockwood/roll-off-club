@@ -19,6 +19,10 @@ The "Closed-Open" roll gets its name is for having a confined start and an open 
 
 The "Open-Closed" roll gets its name is for having an open start and a confined ending.
 
+!!! tip
+
+    Open-Closed is the only blue roll that has *gold edges*. Read more about [recognizing variations](../advanced/recognizing-variations.md).
+
 ### What to remember
 
 * **Starts with 3 jumps.** Most variations you'll want to start on blue to take advantage of this space.
