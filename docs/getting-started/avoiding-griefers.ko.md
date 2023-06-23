@@ -32,7 +32,7 @@
   <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
-!!! 경고
+!!! warning "경고"
 
     롤 오프 초반에 [벽 점프](../advanced/wall-jumps-one-rolling.md#벽-점프)를 시도하지 마세요. 적대적인 플레이어에게 초반부터 주의를 끌게 되면 적이 나를 공격하는 데 집중할 가능성이 커집니다.
 

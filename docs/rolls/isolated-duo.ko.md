@@ -17,6 +17,10 @@
 
 ![Isolated Duo Blue](../images/rolls/isolated-duo-blue-annotated.jpg)
 
+!!! tip "팁"
+
+    고립된 듀오 패턴은 *모서리가 보라색*인 유일한 파란색 패턴입니다. 더 자세한 정보는 [변형을 조기에 인식하는 방법](../advanced/recognizing-variations.md)을 읽어보세요.
+
 ### 기억해야 할 사항
 
 * **첫 번째 도랑의 [갓 점프](../advanced/isolated-duo-god-jumps.md)는 어렵습니다.** [갓 점프](../advanced/isolated-duo-god-jumps.md)는 슬라임이 최대 높이에 도달하는 후반전에서 디테일한 컨트롤이 필요하므로 가능하면 미리 [연습](../advanced/isolated-duo-god-jumps.md)을 해두시기를 바랍니다.
