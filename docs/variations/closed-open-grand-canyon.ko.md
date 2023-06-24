@@ -55,6 +55,12 @@
 
 ### 주황색 닫힘-열림 패턴의 안쪽 벽 점프를 이용하는 경로
 
+=== "9번째 랩"
+
+    <video controls>
+      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
 === "10번째 랩"
 
     <video controls>
