@@ -4,7 +4,7 @@
 
 Wall jumping refers to the act of jumping around the side of a wall in Roll Off. It is an advanced strategy used to avoid griefers and desync, especially late in a timeout. It is also is used to complete [one-roll challenges](./wall-jumps-one-rolling.md#one-roll-timeouts).
 
-When performing wall jumps, I recommend doing them without dives when possible. Although it feels more dangerous, with practice you will be able to get consistent. It also avoids two common bugs that can occur when performing wall jumps with dives:
+When performing wall jumps, I recommend positioning yourself far to the right side (you can even have half of your feet hovering over the edge of the roll when you perform the jump). I also I recommend doing them without dives when possible. Although it feels more dangerous, with practice you will be able to get consistent. It also avoids two common bugs that can occur when performing wall jumps with dives:
 
 ### Dive bug
 
