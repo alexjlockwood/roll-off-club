@@ -219,7 +219,8 @@ Here is an example of what an ideal 3 person timeout looks like for this variati
 
 * 1 player outer wall jumps laps 9-12
 * 1 player inner wall jumps laps 9-12
-* 1 player takes grand canyon ledge laps 9-11 and takes piggy path lap 12
+* 1 player takes grand canyon ledge laps 9-11 and takes Piggy's Path lap 12
+* 1 player takes Rainbow's path lap 9-12
 
 ## Example Timeouts
 
