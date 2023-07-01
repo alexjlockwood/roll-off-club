@@ -50,6 +50,8 @@ nav:
       - variations/isolated-duo-easy-4.md
       - variations/isolated-duo-open-closed.md
       - variations/isolated-duo-pillar-trench.md
+  - 'No Jump':
+      - no-jump/easy-4-grand-canyon.md
   - 'Advanced':
     - advanced/index.md
     - advanced/counting-laps.md
