@@ -37,7 +37,7 @@ hide:
 | Popper's ledge              | The small ledge immediately after the 2nd wall on [Grand Canyon](./rolls/grand-canyon.md) blue. Named after [lil_poppers][lil_poppers]. |
 | Popper's path               | A [path](./variations/easy-4-grand-canyon.md#poppers-path) used to timeout the Easy 4 + Grand Canyon variation of Roll Off. Named after [lil_poppers][lil_poppers]. |
 | Rainbow's path             | A path used to timeout Grand Canyon variations of Roll Off ([Closed-Open](./variations/closed-open-grand-canyon.md#rainbows-path), [5 Waller](./variations/5-waller-grand-canyon.md#rainbows-path), and [Isolated Duo](./variations/isolated-duo-grand-canyon.md#rainbows-path)). Named after [RainbowStays][RainbowStays]. |
-| Sherkhan's path             | A [path](./variations/5-waller-open-closed.md#sherkhan-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [SH3RKH4N][SH3RKH4N]. |
+| Sherkhan's path             | A [path](./variations/5-waller-open-closed.md#sherkhans-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after [SH3RKH4N][SH3RKH4N]. |
 | Suki's gap                  | The large gap immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
 | Suki's ledge                | The small ledge immediately after the 1st wall on [Open-Closed](./rolls/closed-open-open-closed.md) blue. Named after suki_da_yo. |
 | Suki's path                 | A [path](./variations/5-waller-open-closed.md#sukis-path) used to timeout the 5 Waller + Open-Closed variation of Roll Off. Named after suki_da_yo. |
