@@ -128,8 +128,8 @@ plugins:
           name: 한국어 (Korean)
           build: true
           site_name: "Roll Off 클럽"
-        zh-CN:
-          name: 简体中文
+        zh:
+          name: 简体中文 (Simplified Chinese)
           build: true
           site_name: "滚轮俱乐部"
 
@@ -146,7 +146,7 @@ plugins:
           Easy Variations: 쉬운 난도 변형
           Advanced: 고급
           Glossary: 용어집
-        zh-CN:
+        zh:
           Home: 主页
           Getting Started: 初露头角
           Rolls: 滚轮

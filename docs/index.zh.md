@@ -7,7 +7,7 @@ hide:
 
 !!! 提示
 
-    本网站亦有[韩文](/ko)版本。
+    本网站亦有[韩文(한국어)](/ko)版本。
 
 ## 初露头角
 
@@ -45,6 +45,6 @@ hide:
 十分感谢所有在闲暇之余帮助我们翻译本网站至各种语言的玩家！如果您想要帮助我们翻译到另一种语言，请在[**Roll Call Discord**][RollCallDiscord]联系我们。
 
 * [eunma](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([Korean pages](/ko/))
-* [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](/zh-CN/))
+* [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](./))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
