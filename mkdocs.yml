@@ -170,6 +170,7 @@ extra:
   analytics:
     provider: google
     property: G-NHXDMJB5FJ
+  generator: false
 
 extra_css:
   - stylesheets/extra.css
