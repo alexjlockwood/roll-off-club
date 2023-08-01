@@ -25,14 +25,14 @@ hide:
 | Edge                        | The parts of the roll that line each side of the gaps in Roll Off. Can be either purple, orange, or gold. |
 | Grand Canyon ledge          | The small ledge immediately after the 1st wall on [Grand Canyon](./rolls/grand-canyon.md) blue. |
 | Grand Canyon                | A [blue roll variant](./rolls/grand-canyon.md) in Roll Off. |
-| Isolated Duo                | An [orange & blue roll variant](./rolls/5-waller.md) in Roll Off. |
+| Isolated Duo                | An [orange & blue roll variant](./rolls/isolated-duo.md) in Roll Off. |
 | JD's path                   | A [path](./variations/closed-open-open-closed.md#jds-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [Joey Dever][JD]. |
 | Lap                         | A full 360 degree rotation of a roll during a Roll Off timeout. |
 | No jump, no dive            | Used to describe the challenge of achieving a Roll Off timeout without jumping or diving. |
 | One-roll                    | The act of timing out Roll Off on a single roll using only wall jumps. |
 | Open-Closed                 | A [blue roll variant](./rolls/closed-open-open-closed.md) in Roll Off. |
 | PG's path                   | A [path](./variations/closed-open-open-closed.md#pgs-path) used to timeout the Closed-Open + Open-Closed variation of Roll Off. Named after [Prakhar Gupta][PG]. |
-| Piggy's path                | A [path](./variations/closed-open-grand-canyon.md#piggys-path) used to timeout the Closed-Open + Grand Canyon variation of Roll Off. Named after [Roll Off Piggy][RollOffPiggy]. |
+| Piggy's path                | A [path](./variations/closed-open-grand-canyon.md#piggys-path) used to timeout the Closed-Open + Grand Canyon variation of Roll Off. Discovered by [Sweet Crying Deity][SweetCryingDeity] and named after [Roll Off Piggy][RollOffPiggy]. |
 | Pillar Trench               | A [blue roll variant](./rolls/pillar-trench.md) in Roll Off. |
 | Popper's ledge              | The small ledge immediately after the 2nd wall on [Grand Canyon](./rolls/grand-canyon.md) blue. Named after [lil_poppers][lil_poppers]. |
 | Popper's path               | A [path](./variations/easy-4-grand-canyon.md#poppers-path) used to timeout the Easy 4 + Grand Canyon variation of Roll Off. Named after [lil_poppers][lil_poppers]. |
@@ -51,7 +51,8 @@ hide:
 [EChanTV]: <https://www.youtube.com/user/hellomotto39> "EChan's YouTube"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
 [lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
-[RollOffPiggy]: <https://www.twitch.tv/roll_off_piggy> "Roll Off Piggy's Twitch"
+[SweetCryingDeity]: <https://space.bilibili.com/394453214> "SweetCryingDeity's Bilibili"
+[RollOffPiggy]: <https://space.bilibili.com/476949409> "Roll Off Piggy's Bilibili"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
 [RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
