@@ -6,37 +6,35 @@
 
 ## 不要过早吸引注意
 
-远离闸总且不要给自己吸引注意。更多地关注滚轮版型和路线规划。
-Stay out of the way early on and don't draw attention to yourself. Just focus on the roll patterns and your own pathing. Most griefers spend so much time trying to kill other players early on that they neglect to memorize the roll patterns, so by the time the slime rises and the rolls get faster, they panic and die.
+远离闸总且不要给自己吸引注意。更多地关注滚轮版型和路线规划。很多闸总花太多精力闸人导致他们没有关注滚轮版型，以致后期粘液上升、滚轮加速后，他们很快就出局了。
 
-## Kill the griefer
+## 干掉闸总
 
-You can push the griefer into a gap:
+你可以将闸总推到坑里：
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
 </video>
 
-You can pants a griefer before they jump a gap:
+你可以在闸总跳坑前抓他：
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
 </video>
 
-It is easier to kill griefers when you surprise them, so try not to draw attention to yourself early on and they won't suspect it.
+出其不意动手往往更容易干掉闸总，所以不要过早给自己吸引注意，这样他们就不会有太多防备。
 
-## One-rolling
+## 侧跳
 
-You can one-roll to avoid a griefer:
+你可以通过侧跳避开闸总：
 
 <video controls>
   <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
-!!! warning
+!!! 警告
 
-    Avoid one-rolling early on in the timeout, as it will draw attention to yourself and
-    make it more likely that griefers will focus on killing you.
+    尽量不要前期就开始侧跳，因为这样会给自己吸引注意并让闸总专注于干掉你。
 
 <!--
 IGNORE THIS FOR TRANSLATIONS:
