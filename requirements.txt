@@ -1,4 +1,4 @@
-mkdocs
+mkdocs==1.4.2
 mkdocs-material
 mkdocs-minify-plugin
 mkdocs-redirects
