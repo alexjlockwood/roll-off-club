@@ -4,7 +4,7 @@
 
 橙浮岛和蓝浮岛互为镜像，两者障碍完全相同。
 
-## 橙浮岛
+## 橙轮
 
 ![橙浮岛](../images/rolls/isolated-duo-orange-annotated.jpg)
 
@@ -13,7 +13,7 @@
 * **浮岛前的坑为中坑，很容易跳过去。** 这个中坑可以轻松通过跳扑过去，因此可以用来避开切板的豆子。
 * **浮岛后的坑为大坑，很难跳过去。** 虽然大坑也能[跳过去](../advanced/isolated-duo-god-jumps.md)，但后期需要较精准的操作，建议多加练习。
 
-## 蓝浮岛
+## 蓝轮
 
 ![蓝浮岛](../images/rolls/isolated-duo-blue-annotated.jpg)
 
