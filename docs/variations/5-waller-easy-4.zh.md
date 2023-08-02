@@ -62,6 +62,6 @@
       <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap12.mp4" type="video/mp4">
     </video>
 
-## Example Timeouts
+## 平冠示例
 
-View all Roll Off paths for all 20 variations on [YouTube](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F).
+你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh)观看全版型路线展示。
