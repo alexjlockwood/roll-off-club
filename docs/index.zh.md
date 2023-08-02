@@ -46,5 +46,6 @@ hide:
 
 * [eunma](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([Korean pages](/ko/))
 * [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](./))
+* [Roll Off Piggy](https://space.bilibili.com/476949409) A.K.A. 滚轮笨笨猪 ([Simplified Chinese pages](./))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
