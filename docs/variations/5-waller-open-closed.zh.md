@@ -166,129 +166,129 @@
 | 11    | 中等       |
 | 12    | 中等       |
 
-#### Suki's Path
+#### Suki路线（切到蓝细跳中坑）
 
-=== "Lap 9"
+=== "第9圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "Lap 10"
+=== "第10圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "Lap 11"
+=== "第11圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "第12圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
     </video>
 
-##### Summary
+##### 总结
 
-1. Start 2 jumps on blue
-2. Transfer to orange
-3. Jump to the inner ledge before the 2nd wall on orange
-4. Transfer to the small outer ledge after the 1st wall on blue
-5. Jump dive across the large gap on blue
+1. 从蓝轮开始连续跳三个坑
+2. 切到橙轮
+3. 跳到橙轮第二个挡板前的细边
+4. 切到蓝轮第一个挡板后的细边
+5. 跳过蓝轮的中坑
 
-##### Difficulty
+##### 难度
 
-| Lap # | Difficulty |
+| 圈数 | 难度 |
 | ----- | ---------- |
-| 9     | Hard       |
-| 10    | Hard       |
-| 11    | Hard       |
-| 12    | Hard       |
+| 9     | 困难       |
+| 10    | 困难       |
+| 11    | 困难       |
+| 12    | 困难       |
 
-#### EChan's Path
+#### EChan路线（切到蓝细再切回橙）
 
-=== "Lap 9"
+=== "第9圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "Lap 10"
+=== "第10圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "Lap 11"
+=== "第11圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "第12圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
     </video>
 
-##### Summary
+##### 总结
 
-1. Start 2 jumps on blue
-2. Transfer to orange
-3. Jump to the inner ledge before the 2nd wall on orange
-4. Transfer to the small outer ledge after the 1st wall on blue
-5. Transfer back to orange after the 3rd wall on orange passes
+1. 从蓝轮开始连续跳三个坑
+2. 切到橙轮
+3. 跳到橙轮第二个挡板前的细边
+4. 切到蓝轮第一个挡板后的细边
+5. 切到橙轮第三和第四个挡板之间
 
-##### Difficulty
+##### 难度
 
-| Lap # | Difficulty |
+| 圈数 | 难度 |
 | ----- | ---------- |
-| 9     | Medium     |
-| 10    | Medium     |
-| 11    | Hard       |
-| 12    | Very hard  |
+| 9     | 中等       |
+| 10    | 中等       |
+| 11    | 困难       |
+| 12    | 非常难     |
 
-#### Dytl's Path
+#### Dytl路线
 
-=== "Lap 11"
+=== "第11圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "第12圈"
 
     <video controls>
       <source src="../../images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
     </video>
 
-##### Summary
+##### 总结
 
-1. Start 2 jumps on blue
-2. Transfer to orange
-3. Jump to the inner ledge before the 2nd wall on orange
-4. Jump dive back to blue
+1. 从蓝轮开始连续跳三个坑
+2. 切到橙轮
+3. 跳到橙轮第二个挡板前的细边
+4. 跳切到蓝轮
 
-##### Difficulty
+##### 难度
 
-| Lap # | Difficulty |
+| 圈数 | 难度 |
 | ----- | ---------- |
-| 9     | Impossible |
-| 10    | Impossible |
-| 11    | Very hard  |
-| 12    | Hard       |
+| 9     | 不可能     |
+| 10    | 不可能     |
+| 11    | 非常难     |
+| 12    | 困难       |
 
-## Recommended Pathing
+## 路线推荐
 
-Here is an example of what an ideal 2 person timeout looks like for this variation:
+以下是一个双人平冠的路线选择示例：
 
-* 1 player takes Syed's path on laps 9-10 and Sherkhan's path on laps 11-12
-* 1 player takes EChan's path on laps 9-10 and Suki's path on laps 11-12
+* 一名玩家在第9~10圈走Syed路线（切橙细再跳到超细边），在第11~12圈走Sherkhan路线（切橙细再切回蓝）
+* 一名玩家在第9~10圈走Echan路线（切蓝细再切回橙），在第11~12圈走Suki路线（切蓝细跳中坑）
 
-## Example Timeouts
+## 其他教学
 
-View all Roll Off paths for all 20 variations on [YouTube](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F).
+你也可以在[Bilibili](https://www.bilibili.com/video/BV1ud4y1o7ec)看最难板的专题教学，其中有结尾部分的跑法说明。
