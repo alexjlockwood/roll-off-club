@@ -1,12 +1,20 @@
-# 版型识别
+# 提前识别版型
 
 !!! 注意
 
     从2023年5月更新的SS4赛季开始，滚轮行动的准备界面动画有较大变化，导致可以用来识别版型的信息变少。
 
-在准备界面的动画播放时，玩家可以尝试快速识别出滚轮版型It is possible to detect the exact Roll Off variation from the preview at the start of the final. This can be convenient so that you don't have to spend the first lap trying to figure out which variation you have gotten.
+在准备界面的动画播放时，玩家可以尝试快速识别出滚轮版型，这样在第1圈就不用花时间识别了。
 
-Below is a simple decision tree that you can use to detect each of the orange and blue rolls from the final's opening preview.
+## 通过彩边和侧面条纹颜色识别
+
+橙轮的彩边有紫色和金色。如果是紫色，则可能是；如果是金色，则可能是
+蓝轮的彩边有橙色、紫色和金色。如果是橙色，则可能是；如果是紫色，则必然是；如果是金色，则必然是
+特别地，蓝天坑是唯一一个侧面条纹颜色与彩边颜色不对应的版型。蓝天坑的侧面条纹为橙色（其他蓝轮均为蓝色），前后条纹为绿色（其他轮均和彩边为统一颜色）。
+
+## 通过开头和结尾的障碍识别
+
+以下是一个可以用来识别版型的决策树。由于准备界面动画的改变，这种方法已不太实用。即便不能在准备界面识别出版型也不必惊慌，
 
 ![Flow chart](../images/advanced/recognizing-variants/flow-chart-light.jpg#only-light)
 ![Flow chart](../images/advanced/recognizing-variants/flow-chart-dark.jpg#only-dark)
