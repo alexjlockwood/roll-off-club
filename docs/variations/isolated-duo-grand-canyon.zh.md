@@ -10,7 +10,7 @@
 
 这里一共为第9~12圈提供五条路线：
 
-### 从蓝轮开始跑
+### 从蓝轮开始跑（蓝起）
 
 === "第9圈"
 
@@ -134,97 +134,97 @@
 | 11    | 中等       |
 | 12    | 中等       |
 
-### Inner Wall Jump
+### 内侧跳
 
-=== "Lap 9"
+=== "第9圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
-=== "Lap 10"
+=== "第10圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
-=== "Lap 11"
+=== "第11圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "第12圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
-#### Summary
+#### 总结
 
-1. Start on orange
-2. Inner wall jump on the left side of orange
-3. Run on orange until it is safe to jump back to blue
+1. 从橙轮开始跑
+2. 内侧跳通过第一个挡板
+3. 继续在橙轮跑，直到可以安全切到蓝轮
 
-#### Difficulty
+#### 难度
 
-| Lap # | Difficulty |
+| 圈数 | 难度 |
 | ----- | ---------- |
-| 9     | Very hard  |
-| 10    | Very hard  |
-| 11    | Hard       |
-| 12    | Medium     |
+| 9     | 非常难     |
+| 10    | 非常难     |
+| 11    | 困难       |
+| 12    | 中等       |
 
-### Rainbow's Path
+### 彩虹路线
 
-=== "Lap 9"
+=== "第9圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
     </video>
 
-=== "Lap 10"
+=== "第10圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
     </video>
 
-=== "Lap 11"
+=== "第11圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
     </video>
 
-=== "Lap 12"
+=== "第12圈"
 
     <video controls>
       <source src="../../images/variations/isolated-duo-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
-#### Summary
+#### 总结
 
-1. Start on blue
-2. Outer wall jump on the right side of blue
-3. Run across the grand canyon ledge and jump dive to orange
-4. Transfer back to blue
+1. 从蓝轮开始跑
+2. 外侧跳通过第一个挡板，且时机要尽可能早
+3. 沿着天坑细边跳切到橙轮
+4. 切回蓝轮
 
-#### Difficulty
+#### 难度
 
-| Lap # | Difficulty |
+| 圈数 | 难度 |
 | ----- | ---------- |
-| 9     | Very hard  |
-| 10    | Very hard  |
-| 11    | Very hard  |
-| 12    | Very hard  |
+| 9     | 非常难     |
+| 10    | 非常难     |
+| 11    | 非常难     |
+| 12    | 非常难     |
 
-## Recommended Pathing
+## 路线推荐
 
-Here is an example of what an ideal 3 person timeout looks like for this variation:
+以下是一个三人平冠的路线选择示例：
 
-* 1 player starts on blue laps 9-12
-* 1 player takes the grand canyon ledge laps 9-12
-* 1 player outer wall jumps laps 9-12
+* 一名玩家在第9~12圈走蓝起路线
+* 一名玩家在第9~12圈走天坑细边路线
+* 一名玩家在第9~12圈走半侧跳路线
 
-## Example Timeouts
+## 平冠示例
 
-View all Roll Off paths for all 20 variations on [YouTube](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F).
+你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh)观看全版型路线展示。
