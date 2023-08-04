@@ -7,7 +7,7 @@ hide:
 
 !!! note
 
-    This website has also been translated to [Korean](./ko).
+    This website has also been translated to [Korean](./ko) and [Chinese](./zh).
 
 ## Getting Started
 
