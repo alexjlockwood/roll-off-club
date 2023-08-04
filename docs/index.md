@@ -7,7 +7,7 @@ hide:
 
 !!! note
 
-    This website has also been translated to [Korean](./ko) and [Chinese](./zh).
+    This website has also been translated to [Korean](/ko) and [Chinese](/zh).
 
 ## Getting Started
 
@@ -44,7 +44,8 @@ Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practic
 
 Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
 
-* [eunma](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([Korean pages](./ko/))
-* [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](./zh/))
+* [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([Korean pages](/ko))
+* [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))
+* [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([Simplified Chinese pages](/zh))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"

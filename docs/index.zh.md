@@ -5,10 +5,6 @@ hide:
 
 # 滚轮俱乐部
 
-!!! note "提示"
-
-    本网站亦有[韩文(한국어)](/ko)版本。
-
 ## 初露头角
 
 此 [**版块**](getting-started/index.md) 介绍了滚轮5分钟平冠所需的基础知识。
@@ -31,7 +27,7 @@ hide:
 
 此 [**版块**](advanced/index.md) 介绍了更多高阶技巧和策略，例如如何计圈、如何快速分辨版型、如何侧跳等等。
 
-## 和我们一起练习！
+## 和我们一起练习
 
 加入 [**Roll Call Discord**][RollCallDiscord] 以在自定义练习房间开放时获得通知。你也可以关注我们成员的Twitch频道！
 
@@ -44,8 +40,8 @@ hide:
 
 十分感谢所有在闲暇之余帮助我们翻译本网站至各种语言的玩家！如果您想要帮助我们翻译到另一种语言，请在[**Roll Call Discord**][RollCallDiscord]联系我们。
 
-* [eunma](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([Korean pages](/ko/))
-* [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](./))
-* [Roll Off Piggy](https://space.bilibili.com/476949409) A.K.A. 滚轮笨笨猪 ([Simplified Chinese pages](./))
+* [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([Korean pages](/ko))
+* [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))
+* [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([Simplified Chinese pages](/zh))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
