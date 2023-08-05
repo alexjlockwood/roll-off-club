@@ -189,4 +189,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh?p=5)观看橙2蓝3的路线展示。
+你也可以在Bilibili观看[橙2蓝3的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=5)。
