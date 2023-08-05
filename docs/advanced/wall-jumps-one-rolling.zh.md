@@ -77,4 +77,4 @@
 
 ## 侧跳平冠示例
 
-你可以在[Bilibili](https://www.bilibili.com/video/BV1cG411b7Hy)观看全版型侧跳视频。感谢夏川真凉提供的录像！
+你也可以在Bilibili观看[全版型侧跳视频](https://www.bilibili.com/video/BV1cG411b7Hy)。感谢夏川真凉提供的录像！
