@@ -8,7 +8,7 @@
 
 ## 路线
 
-第9~12圈有四条可行的路线：
+这里一共为第9~12圈提供四条路线：
 
 ### 从蓝轮开始跑（蓝起）
 
@@ -186,4 +186,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh)观看全版型路线展示。
+你也可以在Bilibili观看[橙多蓝天坑的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh/?p=7)。

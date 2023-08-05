@@ -19,9 +19,9 @@
 
 蓝3版型得名于其开头处连续3个坑。
 
-!!! 小贴士
+!!! tip "小贴士"
 
-    蓝3是蓝轮中唯一有*金色彩边*的。更多关于[版型识别](../advanced/recognizing-variations.md)的内容。
+    蓝3是蓝轮中唯一有*金色彩边*的。更多关于[版型识别](../advanced/recognizing-variations.zh.md)的内容。
 
 ### 要点
 

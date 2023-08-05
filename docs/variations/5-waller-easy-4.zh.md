@@ -64,4 +64,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh)观看全版型路线展示。
+你也可以在Bilibili观看[橙多蓝4的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=4)。
