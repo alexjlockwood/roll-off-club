@@ -16,9 +16,9 @@
 
 以下部分中，跳坑经常是更安全的选择：
 
-* [蓝多挡板](../rolls/pillar-trench.md)中部连续跳3个坑
-* [蓝天坑](../rolls/grand-canyon.md)中部连续跳3个坑
-* [橙浮岛/蓝浮岛](../rolls/isolated-duo.md)中部连续跳3个坑
+* [蓝多挡板](../rolls/pillar-trench.zh.md)中部连续跳3个坑
+* [蓝天坑](../rolls/grand-canyon.zh.md)中部连续跳3个坑
+* [橙浮岛/蓝浮岛](../rolls/isolated-duo.zh.md)中部连续跳3个坑
 
 !!! warning "警告"
 
