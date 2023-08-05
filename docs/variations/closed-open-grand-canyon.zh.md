@@ -224,4 +224,4 @@
 
 ## 其他教学
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1JG411b7YW)看次难板的专题教学。
+你也可以在Bilibili观看[橙2蓝天坑的专题教学](https://www.bilibili.com/video/BV1JG411b7YW)。
