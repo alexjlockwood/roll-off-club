@@ -227,4 +227,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh?p=7)观看橙浮蓝天的路线展示。
+你也可以在Bilibili观看[橙浮岛蓝天坑的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=7)。
