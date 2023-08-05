@@ -8,9 +8,11 @@
 
 ## 通过彩边和侧面条纹颜色识别
 
-橙轮的彩边有紫色和金色。如果是紫色，则可能是；如果是金色，则可能是
-蓝轮的彩边有橙色、紫色和金色。如果是橙色，则可能是；如果是紫色，则必然是；如果是金色，则必然是
-特别地，蓝天坑是唯一一个侧面条纹颜色与彩边颜色不对应的版型。蓝天坑的侧面条纹为橙色（其他蓝轮均为蓝色），前后条纹为绿色（其他轮均和彩边为统一颜色）。
+橙轮的彩边有紫色和金色。如果是紫色，则可能是[橙4](../rolls/easy-4.zh.md#橙轮)、[橙2](../rolls/closed-open-open-closed.zh.md#橙轮)或[橙多挡板](../rolls/5-waller.zh.md)；如果是金色，则可能是[橙浮岛](../rolls/isolated-duo.zh.md#橙轮)或[橙多挡板](../rolls/5-waller.zh.md)。
+蓝轮的彩边有橙色、紫色和金色。如果是橙色，则可能是[蓝4](../rolls/easy-4.zh.md#蓝轮)、[蓝多挡板](../rolls/pillar-trench.zh.md)或[蓝天坑](../rolls/grand-canyon.zh.md)；如果是紫色，则必然是[蓝浮岛](../rolls/isolated-duo.zh.md#蓝轮)；如果是金色，则必然是[蓝3](../rolls/closed-open-open-closed.zh.md#蓝轮)。
+特别地，[蓝天坑](../rolls/grand-canyon.zh.md)是唯一一个侧面条纹颜色与彩边颜色不对应的版型。蓝天坑的侧面条纹为橙色（其他蓝轮均为蓝色），前后条纹为绿色（其他滚筒均和彩边为统一颜色），钢筋为黄色（其他蓝轮均为紫色）。
+
+![Grand Canyon side view](../images/advanced/recognizing-variants/grand-canyon-side-view.jpg)
 
 ## 通过开头和结尾的障碍识别
 
@@ -19,6 +21,7 @@
 ![Flow chart](../images/advanced/recognizing-variants/flow-chart-light.jpg#only-light)
 ![Flow chart](../images/advanced/recognizing-variants/flow-chart-dark.jpg#only-dark)
 
+<!--
 ## Rolls
 
 The strategies you can use to detect each roll early on are described below.
@@ -76,3 +79,4 @@ To differentiate it from Grand Canyon, check that the roll has oranged striped i
 Similarly, [Open-Closed](../rolls/closed-open-open-closed.md) Blue can be recognized early by its gold edge color, as it is the only blue roller with gold edges.
 
 ![Isolated Duo Blue](../images/advanced/recognizing-variants/open-closed-blue-side-view.jpg)
+-->
