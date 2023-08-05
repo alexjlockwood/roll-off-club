@@ -97,4 +97,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh?p=1)观看全版型路线展示。
+你也可以在Bilibili观看[橙4蓝天坑的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=1)。
