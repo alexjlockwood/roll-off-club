@@ -90,4 +90,4 @@
 
 ## 平冠示例
 
-你也可以在Bilibili观看[橙多蓝浮岛路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=4)。
+你也可以在Bilibili观看[橙多蓝浮岛的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=4)。
