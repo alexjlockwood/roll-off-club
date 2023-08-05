@@ -22,6 +22,8 @@
 ![Flow chart](../images/advanced/recognizing-variants/flow-chart-dark.jpg#only-dark)
 
 <!--
+Not useful:
+
 ## Rolls
 
 The strategies you can use to detect each roll early on are described below.
