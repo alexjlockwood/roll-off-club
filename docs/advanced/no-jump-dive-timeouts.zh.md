@@ -6,4 +6,4 @@
 
 ## 平冠示例
 
-你可以在[Bilibili](https://www.bilibili.com/video/BV1u14y1H7dh)观看全版型纯切平冠视频。感谢彩虹提供的录像!
+你可以在Bilibili观看[全版型纯切平冠视频](https://www.bilibili.com/video/BV1u14y1H7dh)。感谢彩虹提供的录像!
