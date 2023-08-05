@@ -3,23 +3,23 @@ hide:
   - navigation
 ---
 
-# Glossary
+# 术语表
 
-| Term                        | Description |
+| 术语                        | 简述 |
 | --------------------------- | ----------- |
-| 橙4/蓝4                     | 滚轮行动中的两种[版型](./rolls/easy-4.md)，两者互为镜像 |
-| 橙浮岛/蓝浮岛                | 滚轮行动中的两种[版型](./rolls/isolated-duo.md)，两者互为镜像 |
-| 橙2/蓝3                     | 滚轮行动中的两种[版型](./rolls/closed-open-open-closed.md)，两者互为镜像 |
-| 橙多挡板                     | 滚轮行动中的一种[橙轮版型](./rolls/5-waller.md) |
-| 蓝多挡板                     | 滚轮行动中的一种[蓝轮版型](./rolls/pillar-trench.md) |
-| 蓝天坑                      | 滚轮行动中的一种[蓝轮版型](./rolls/grand-canyon.md) |
+| 橙4/蓝4                     | 滚轮行动中的两种[滚筒](./rolls/easy-4.md)，二者互为镜像 |
+| 橙浮岛/蓝浮岛                | 滚轮行动中的两种[滚筒](./rolls/isolated-duo.md)，二者互为镜像 |
+| 橙2/蓝3                     | 滚轮行动中的两种[滚筒](./rolls/closed-open-open-closed.md)，二者互为镜像 |
+| 橙多挡板                     | 滚轮行动中的一种[橙轮](./rolls/5-waller.md) |
+| 蓝多挡板                     | 滚轮行动中的一种[蓝轮](./rolls/pillar-trench.md) |
+| 蓝天坑                      | 滚轮行动中的一种[蓝轮](./rolls/grand-canyon.md) |
 | 44板                        | [橙4 + 蓝4](./variations/easy-4-easy-4.md)版型的别名，是20种版型中最简单的 |
 | 最难板                      | [橙多挡板 + 蓝3](./variations/5-waller-open-closed.md)版型的别名，是20种版型中最困难的 |
 | 次难板                      | [橙2 + 蓝天坑](./variations/closed-open-grand-canyon.md)版型的别名，是20种版型中第二难的。实际上与最难板各有各的难点，仅为习惯叫法 |
 | 双浮岛                      | [橙浮岛 + 蓝浮岛](./variations/isolated-duo-isolated-duo.md)版型的简称，也叫双二小 |
 | 对称板                      | 任意两种互为镜像的橙轮和蓝轮组成的版型，包括[橙2 + 蓝3](./variations/closed-open-open-closed.md)、[橙浮岛 + 蓝浮岛](./variations/isolated-duo-isolated-duo.md)、[橙4 + 蓝4](./variations/easy-4-easy-4.md) |
 | 挡板                        | 滚轮上的墙形障碍。滚轮行动中橙轮上的挡板为蓝色，而蓝轮上的挡板为金色 |
-| 细边                        | 滚轮挡板前或挡板后，非常短的一块板子 |
+| 细边                        | 滚轮挡板前或挡板后，较短的一块板子 |
 | 超细边                      | 特指[橙多挡板](./rolls/5-waller.md)中第3个挡板前的细边，是滚轮行动所有版型的细边中最短的。虽然橙多挡板中第4个挡板后的细边也是最短的，但由于极少在实战中用到，故不单独命名 |
 | 天坑细边                     | [蓝天坑](./rolls/grand-canyon.md)中第一个挡板后的细边 |
 | 彩边                        | 滚轮板子前后边缘与板子主体颜色不同的部分，滚轮行动中有紫色、橙色和金色的彩边 |
