@@ -50,7 +50,7 @@
 
 ### 跳大坑路线
 
-跳过蓝轮的大坑可以降低被其他玩家切板时挤到的风险。 记得多练习[跳大坑](../advanced/isolated-duo-god-jumps.md)，因为粘液涨到最高后跳大坑难度很高。
+跳过蓝轮的大坑可以降低被其他玩家切板时挤到的风险。 记得多练习[跳大坑](../advanced/isolated-duo-god-jumps.zh.md)，因为粘液涨到最高后跳大坑难度很高。
 
 === "第7圈"
 
@@ -90,4 +90,4 @@
 
 ## 平冠示例
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh?p=4)观看全版型路线展示。
+你也可以在Bilibili观看[橙多蓝浮岛路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh?p=4)。
