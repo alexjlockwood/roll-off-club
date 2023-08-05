@@ -2,10 +2,9 @@
 
 此版块深入浅出地分析了20种滚轮版型。
 
-!!! 注意
+!!! note “注意”
 
-    建议在学习20种版型的细节之前先阅读[初露头角](../getting-started/index.zh.md)版块，尤其是学习9种[滚轮](../getting-started/learning-the-rolls.zh.md)
-    并了解[蓝轮转动比橙轮快](../getting-started/blue-spins-faster-than-orange.zh.md)。在熟悉这些的基础上，很多版型不依靠记忆路线就能做到平冠了。
+    建议在学习20种版型的细节之前先阅读[初露头角](../getting-started/index.zh.md)版块，尤其是学习9种[滚轮](../getting-started/learning-the-rolls.zh.md)并了解[蓝轮转动比橙轮快](../getting-started/blue-spins-faster-than-orange.zh.md)。在熟悉这些的基础上，很多版型不依靠记忆路线就能做到平冠了。
 
 ## 最困难版型
 

@@ -32,7 +32,7 @@
   <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
-!!! 警告
+!!! warning "警告"
 
     尽量不要前期就开始侧跳，因为这样会给自己吸引注意并让闸总专注于干掉你。
 

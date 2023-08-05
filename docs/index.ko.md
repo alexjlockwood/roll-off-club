@@ -38,9 +38,10 @@ hide:
 
 ## 페이지 번역
 
-이 웹사이트를 다른 언어로 번역하는 데 재능기부 해주신 분들께 진심으로 감사드립니다! 페이지 번역을 하고 싶으시다면 [**Roll Call 디스코드**][Roll Call 디스코드]로 문의해 주세요.
+이 웹사이트를 다른 언어로 번역하는 데 재능기부 해주신 분들께 진심으로 감사드립니다! 다른 언어로 번역하는 데 가이드가 필요하시면 [**Roll Call 디스코드**][Roll Call 디스코드]로 문의해 주세요.
 
-* [신모씨](https://github.com/qutrits) A.K.A. 제임스 웹 우주 망원경 ([한국어 페이지](./))
-* [RainbowStays](https://twitter.com/RainbowStays) A.K.A. 彩虹 ([Simplified Chinese pages](/zh/))
+* [신모씨](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([한국어 페이지](/ko))
+* [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([중국어 간체 페이지](/zh))
+* [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([중국어 간체 페이지](/zh))
 
 [Roll Call 디스코드]: <https://discord.gg/xf9D89Hfxa> "Roll Call 디스코드"
