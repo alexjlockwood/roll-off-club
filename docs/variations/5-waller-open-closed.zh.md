@@ -291,4 +291,4 @@
 
 ## 其他教学
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1ud4y1o7ec)观看最难板的专题教学，其中有结尾部分的跑法说明。
+你也可以在Bilibili观看[最难板的专题教学](https://www.bilibili.com/video/BV1ud4y1o7ec)，其中有结尾部分的跑法说明。
