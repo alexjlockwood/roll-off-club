@@ -17,7 +17,7 @@
 
 ![蓝浮岛](../images/rolls/isolated-duo-blue-annotated.jpg)
 
-!!! 小贴士
+!!! tip "小贴士"
     蓝浮岛是蓝轮中唯一有*紫色彩边*的。更多关于[版型识别](../advanced/recognizing-variations.md)的内容。
 
 ### 要点

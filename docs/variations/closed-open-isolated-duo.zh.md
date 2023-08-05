@@ -48,4 +48,4 @@
 
 ## 其他教学
 
-你也可以在[Bilibili](https://www.bilibili.com/video/BV1ud4y1o7ec)看最难板的专题教学，其中有结尾部分的跑法说明。
+你也可以在[Bilibili](https://www.bilibili.com/video/BV1PB4y1i7fh?p=3)观看全版型路线展示。
