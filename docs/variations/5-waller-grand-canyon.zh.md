@@ -186,4 +186,4 @@
 
 ## 平冠示例
 
-你也可以在Bilibili观看[橙多蓝天的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh/?p=7)。
+你也可以在Bilibili观看[橙多蓝天坑的路线展示](https://www.bilibili.com/video/BV1PB4y1i7fh/?p=7)。
