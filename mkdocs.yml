@@ -119,48 +119,44 @@ plugins:
   - minify:
       minify_html: true
   - i18n:
-      reconfigure_search: true
-      reconfigure_material: true
+      default_language: en
       docs_structure: suffix
       languages:
-        - build: true
-          default: true
-          locale: en
+        en:
           name: English
-          site_name: Roll Off Club
-        - build: true
-          default: false
-          locale: ko
+          build: true
+          site_name: "Roll Off Club"
+        ko:
           name: 한국어 (Korean)
-          nav_translations:
-            Advanced: 고급
-            Easy Variations: 쉬운 난도 변형
-            Getting Started: 시작하기
-            Glossary: 용어집
-            Hard Variations: 고난도 변형
-            Hardest Variations: 최고난도 변형
-            Home: 홈
-            Medium Variations: 중간 난도 변형
-            Rolls: 패턴
-            Variations: 변형
-          site_name: Roll Off 클럽
-        - build: true
-          default: false
-          locale: zh
+          build: true
+          site_name: "Roll Off 클럽"
+        zh:
           name: 简体中文 (Simplified Chinese)
-          nav_translations:
-            Advanced: 进阶
-            Easy Variations: 简单版型
-            Getting Started: 初露头角
-            Glossary: 术语表
-            Hard Variations: 困难版型
-            Hardest Variations: 最困难版型
-            Home: 主页
-            Medium Variations: 中等版型
-            Rolls: 滚筒
-            Variations: 版型
-          site_name: 滚轮俱乐部
-
+          build: true
+          site_name: "滚轮俱乐部"
+      nav_translations:
+        ko:
+          Home: 홈
+          Getting Started: 시작하기
+          Rolls: 패턴
+          Variations: 변형
+          Hardest Variations: 최고난도 변형
+          Hard Variations: 고난도 변형
+          Medium Variations: 중간 난도 변형
+          Easy Variations: 쉬운 난도 변형
+          Advanced: 고급
+          Glossary: 용어집
+        zh:
+          Home: 主页
+          Getting Started: 初露头角
+          Rolls: 滚筒
+          Variations: 版型
+          Hardest Variations: 最困难版型
+          Hard Variations: 困难版型
+          Medium Variations: 中等版型
+          Easy Variations: 简单版型
+          Advanced: 进阶
+          Glossary: 术语表
 extra:
   social:
     - icon: fontawesome/brands/discord
