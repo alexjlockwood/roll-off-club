@@ -13,37 +13,37 @@
 === "7번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "8번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/isolated-duo-isolated-duo-example-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/isolated-duo-isolated-duo-example-path-lap12.mp4" type="video/mp4">
     </video>
 
 ## 공동우승 예시

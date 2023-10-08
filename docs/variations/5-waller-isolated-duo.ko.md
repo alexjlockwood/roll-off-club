@@ -15,37 +15,37 @@
 === "7번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "8번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap12.mp4" type="video/mp4">
     </video>
 
 ### 갓 점프 경로
@@ -55,37 +55,37 @@
 === "7번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "8번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap12.mp4" type="video/mp4">
     </video>
 
 ## 공동우승 예시

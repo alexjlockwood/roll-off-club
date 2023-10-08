@@ -31,7 +31,7 @@
 例如，下列片段中我很早就从橙轮切到了蓝轮。切完之后我跑在蓝轮中间，这样就为身后另两个准备切板的豆子留出了空间。
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
 </video>
 
 ## 保持同一条路线
@@ -45,7 +45,7 @@
 例如，以下片段中，我在0:03和0:08两处避开了和另一个豆子切同一条细边。
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
 </video>
 
 ## 避免在其他豆子身前跳坑

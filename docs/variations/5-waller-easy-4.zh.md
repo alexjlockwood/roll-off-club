@@ -15,25 +15,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-outer-orange-ledge-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-outer-orange-ledge-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-outer-orange-ledge-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-outer-orange-ledge-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-outer-orange-ledge-lap12.mp4" type="video/mp4">
     </video>
 
 ### 挡板前细边
@@ -41,25 +41,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-inner-orange-ledge-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-inner-orange-ledge-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-inner-orange-ledge-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-easy-4-inner-orange-ledge-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-easy-4-inner-orange-ledge-lap12.mp4" type="video/mp4">
     </video>
 
 ## 平冠示例

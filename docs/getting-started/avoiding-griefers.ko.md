@@ -13,13 +13,13 @@
 적대적인 플레이어를 도랑으로 밀어 넣어서 탈락시킬 수 있습니다.
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
 </video>
 
 적대적인 플레이어가 도랑을 뛰어넘기 전에 기습적으로 잡아서 탈락시킬 수 있습니다.
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
 </video>
 
 적대적인 플레이어를 기습하면 탈락시키기 쉬우므로, 초반에 주의를 끌지 않으면 상대방이 의심하지 않을 겁니다.
@@ -29,7 +29,7 @@
 적대적인 플레이어를 유인 후 [벽 점프](../advanced/wall-jumps-one-rolling.md#벽-점프)를 활용해서 탈락시킬 수 있습니다.
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
 !!! warning "경고"

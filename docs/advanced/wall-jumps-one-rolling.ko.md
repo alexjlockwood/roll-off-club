@@ -9,7 +9,7 @@
 ### 다이브 버그
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/dive-bug.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/dive-bug.mp4" type="video/mp4">
 </video>
 
 다이브 버그는 벽 점프를 시도할 때 젤리빈이 잘못된 각도로 다이브하는 것처럼 보이는 성가신 버그를 말합니다. 다이브를 시전했을 때 롤을 향한 수평 운동량이 충분하지 않을 때 발생합니다. 이 버그는 피하기가 상당히 어렵고 다이브로 벽 점프를 시도할 때 무작위로 발생할 수 있습니다.
@@ -17,7 +17,7 @@
 ### 탈락 버그
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/elimination-bug.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/elimination-bug.mp4" type="video/mp4">
 </video>
 
 탈락 버그는 젤리빈이 패턴을 달리고 있는 상태에서 슬라임에 닿지 않았는데도 탈락하는 버그를 말합니다. 다이브하지 않고 벽 점프를 시도할 때도 발생할 수 있지만, (1) 좁은 공간으로 벽 점프 다이브를 하거나 (2) 높은 핑으로 플레이할 때 발생할 가능성이 더 높습니다.
@@ -31,49 +31,49 @@
 ### 주황색 이지 4 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/easy-4-orange.mp4" type="video/mp4">
 </video>
 
 ### 파란색 이지 4 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
 </video>
 
 ### 주황색 5 벽 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/5-waller-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/5-waller-orange.mp4" type="video/mp4">
 </video>
 
 ### 주황색 닫힘-열림 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
 </video>
 
 ### 파란색 열림-닫힘 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">
 </video>
 
 ### 주황색 고립된 듀오 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
 </video>
 
 ### 파란색 고립된 듀오 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/isolated-duo-blue.mp4" type="video/mp4">
 </video>
 
 ### 파란색 기둥 참호 패턴
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
 </video>
 
 ## 원-롤링 예시

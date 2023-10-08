@@ -33,7 +33,7 @@
 예를 들어, 아래 영상 클립에서는 가능한 한 빨리 주황색 패턴에서 파란색 패턴으로 환승합니다. 또한 파란색 패턴 가운데로 달려가서 다른 두 플레이어가 안전하게 환승할 수 있도록 충분한 공간을 확보합니다.
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
 </video>
 
 ## 일관성 있는 경로 유지
@@ -47,7 +47,7 @@
 예를 들어, 아래 영상 클립에서는 두 명의 플레이어가 같은 좁은 공간을 이용해서 환승하지 않습니다. (특히 3초와 8초 주시)
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
 </video>
 
 ## 다른 플레이어 앞에서 점프하지 않기

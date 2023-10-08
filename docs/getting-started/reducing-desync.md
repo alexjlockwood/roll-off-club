@@ -33,7 +33,7 @@ Try to transfer across rolls as early as possible. The longer you wait to transf
 For example, in the video below I transfer from orange to blue as early as possible. I also run to the middle of blue to give plenty of space for the other two beans to make the transfer shortly after.
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/transfer-early.mp4" type="video/mp4">
 </video>
 
 ## Maintain consistent pathing
@@ -47,7 +47,7 @@ Transfering to the same small ledge as someone else is very dangerous and should
 For example, in the video below no point are two beans occupying the same small ledge (specifically at 0:03 and 0:08).
 
 <video controls>
-  <source src="../../images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
+  <source src="/images/getting-started/reducing-desync/avoid-same-small-ledge.mp4" type="video/mp4">
 </video>
 
 ## Avoid jumping in front of others

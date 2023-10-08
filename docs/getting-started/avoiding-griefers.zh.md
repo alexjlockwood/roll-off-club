@@ -13,13 +13,13 @@
 你可以将闸总推到坑里：
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
 </video>
 
 你可以在闸总跳坑前抓他：
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
 </video>
 
 出其不意动手往往更容易干掉闸总，所以不要过早给自己吸引注意，这样他们就不会有太多防备。
@@ -29,7 +29,7 @@
 你可以通过侧跳避开闸总：
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
 !!! warning "警告"

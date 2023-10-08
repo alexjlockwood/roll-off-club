@@ -11,19 +11,19 @@
 在第1~8圈，从蓝轮开始连续跳3个坑并切到橙轮是比较简单的跑法：
 
 <video controls>
-  <source src="../../images/variations/easy-4-open-closed-lap8.mp4" type="video/mp4">
+  <source src="/images/variations/easy-4-open-closed-lap8.mp4" type="video/mp4">
 </video>
 
 从第9圈开始，你须从橙轮开始连续跳4个坑并切到蓝轮。
 
 <video controls>
-  <source src="../../images/variations/easy-4-open-closed-lap9.mp4" type="video/mp4">
+  <source src="/images/variations/easy-4-open-closed-lap9.mp4" type="video/mp4">
 </video>
 
 在第8~9圈，你也可以从橙轮开始连续跳4个坑后切到蓝轮的细边：
 
 <video controls>
-  <source src="../../images/variations/easy-4-open-closed-alternate-path.mp4" type="video/mp4">
+  <source src="/images/variations/easy-4-open-closed-alternate-path.mp4" type="video/mp4">
 </video>
 
 ## 平冠示例

@@ -15,25 +15,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -57,25 +57,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -98,25 +98,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -140,25 +140,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약

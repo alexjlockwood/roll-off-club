@@ -15,25 +15,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -57,25 +57,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -98,25 +98,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -140,25 +140,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结

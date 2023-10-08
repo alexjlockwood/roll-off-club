@@ -17,7 +17,7 @@ Laps 7-8 are particularly dangerous due to the possibility of desync.
 The standard path that you will usually take is to start with 3 jumps on blue and then transfer back to orange after the 3rd wall. The transfer is very tight on lap 8 so I recommend running straight up to the 1st wall on blue before switching back to orange to avoid getting pushed back into the slime by other players.
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-standard-path.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-standard-path.mp4" type="video/mp4">
 </video>
 
 #### Alternate Path
@@ -25,7 +25,7 @@ The standard path that you will usually take is to start with 3 jumps on blue an
 If there are many other players still alive by laps 7-8, a safer alternate path is to start with 2 jumps on blue, transfer to the outer ledge after the 2nd orange wall, transfer to the outer ledge on blue after the 1st blue wall, and jump dive across the large blue gap. This path is harder to execute, but will avoid desync in the middle that sometimes is impossible to control.
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-alternate-path.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-alternate-path.mp4" type="video/mp4">
 </video>
 
 #### Outer Wall Jump
@@ -33,7 +33,7 @@ If there are many other players still alive by laps 7-8, a safer alternate path 
 Another way to avoid desync on laps 7-8 is to simply outer wall jump on blue. This can be a much safer alternative if you are confident in your ability to execute the precise wall jumps on Open-Closed blue.
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-outer-wall-jump.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-outer-wall-jump.mp4" type="video/mp4">
 </video>
 
 ### Laps 9-12
@@ -47,25 +47,25 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -89,25 +89,25 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -130,25 +130,25 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -171,25 +171,25 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -214,25 +214,25 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary
@@ -257,13 +257,13 @@ There are 6 possible paths to take on laps 9-12 of the timeout:
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### Summary

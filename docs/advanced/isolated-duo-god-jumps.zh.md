@@ -11,11 +11,11 @@
 以下片段展示了在蓝浮岛上跳大坑：
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
 </video>
 
 以下片段展示了跳大坑时的侧面视角：
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
 </video>

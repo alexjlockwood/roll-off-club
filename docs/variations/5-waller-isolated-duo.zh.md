@@ -15,37 +15,37 @@
 === "第7圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "第8圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-standard-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-standard-path-lap12.mp4" type="video/mp4">
     </video>
 
 ### 跳大坑路线
@@ -55,37 +55,37 @@
 === "第7圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "第8圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-isolated-duo-god-jump-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-isolated-duo-god-jump-path-lap12.mp4" type="video/mp4">
     </video>
 
 ## 平冠示例

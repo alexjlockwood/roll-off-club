@@ -17,25 +17,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -58,25 +58,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -99,25 +99,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -141,19 +141,19 @@
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结
@@ -176,25 +176,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 总结

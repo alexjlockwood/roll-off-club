@@ -13,13 +13,13 @@ Stay out of the way early on and don't draw attention to yourself. Just focus on
 You can push the griefer into a gap:
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pushing-a-griefer.mp4" type="video/mp4">
 </video>
 
 You can pants a griefer before they jump a gap:
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/pantsing-a-griefer.mp4" type="video/mp4">
 </video>
 
 It is easier to kill griefers when you surprise them, so try not to draw attention to yourself early on and they won't suspect it.
@@ -29,7 +29,7 @@ It is easier to kill griefers when you surprise them, so try not to draw attenti
 You can one-roll to avoid a griefer:
 
 <video controls>
-  <source src="../../images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
+  <source src="/images/getting-started/avoiding-griefers/one-rolling-to-avoid-a-griefer.mp4" type="video/mp4">
 </video>
 
 !!! warning

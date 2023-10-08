@@ -11,11 +11,11 @@ To perform the god jump, be sure to:
 Here is a video showing a god jump on Isolated Duo Blue:
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
 </video>
 
 Here is a video showing the side view:
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
 </video>

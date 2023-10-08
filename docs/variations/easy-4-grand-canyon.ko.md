@@ -15,25 +15,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-orange-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-orange-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-orange-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-orange-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-orange-lap12.mp4" type="video/mp4">
     </video>
 
 #### 난이도
@@ -50,25 +50,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-blue-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-blue-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-blue-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-grand-canyon-end-on-blue-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-grand-canyon-end-on-blue-lap12.mp4" type="video/mp4">
     </video>
 
 #### 난이도
@@ -83,7 +83,7 @@
 ### Popper의 경로
 
 <video controls>
-  <source src="../../images/variations/easy-4-grand-canyon-poppers-path.mp4" type="video/mp4">
+  <source src="/images/variations/easy-4-grand-canyon-poppers-path.mp4" type="video/mp4">
 </video>
 
 #### 난이도

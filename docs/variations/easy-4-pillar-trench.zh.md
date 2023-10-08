@@ -15,25 +15,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-orange-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-orange-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-orange-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-orange-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-orange-lap12.mp4" type="video/mp4">
     </video>
 
 #### 难度
@@ -50,25 +50,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-blue-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-blue-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-blue-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-pillar-trench-end-on-blue-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-pillar-trench-end-on-blue-lap12.mp4" type="video/mp4">
     </video>
 
 #### 难度

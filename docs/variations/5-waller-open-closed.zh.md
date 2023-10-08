@@ -17,7 +17,7 @@
 比较常用的路线为：从蓝轮开始连续跳3个坑，然后切到橙轮第三和第四个挡板之间。此处切板在第8圈会变得很拥挤，所以建议切板前紧贴到蓝轮的第一个挡板前，避免被其他玩家往后挤。
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-standard-path.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-standard-path.mp4" type="video/mp4">
 </video>
 
 #### 备选路线
@@ -25,7 +25,7 @@
 如果第7~8圈仍有较多玩家存活，可以考虑另一条较安全的备选路线：从蓝轮开始连续跳2个坑，切到橙轮第二个挡板后的细边，切到蓝轮的细边行跳过中坑。这条路线本身难度更高，但可以避免和其他玩家发生难以预料的碰撞。
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-alternate-path.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-alternate-path.mp4" type="video/mp4">
 </video>
 
 #### 外侧跳
@@ -33,7 +33,7 @@
 第7~8圈另一个防挤方式是在蓝3进行外侧跳。如果你对自己的侧跳能力比较自信，这会是一个更安全的路线。
 
 <video controls>
-  <source src="../../images/variations/5-waller-open-closed-lap8-outer-wall-jump.mp4" type="video/mp4">
+  <source src="/images/variations/5-waller-open-closed-lap8-outer-wall-jump.mp4" type="video/mp4">
 </video>
 
 ### 第9~12圈
@@ -47,25 +47,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-syeds-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结
@@ -89,25 +89,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-citys-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结
@@ -130,25 +130,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sherkhans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结
@@ -171,25 +171,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-sukis-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结
@@ -214,25 +214,25 @@
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-echans-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结
@@ -257,13 +257,13 @@
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-dytls-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/5-waller-open-closed-dytls-path-lap12.mp4" type="video/mp4">
     </video>
 
 ##### 总结

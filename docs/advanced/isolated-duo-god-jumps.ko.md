@@ -11,11 +11,11 @@
 아래는 [파란색 고립된 듀오](../rolls/isolated-duo.md#파란색-패턴) 패턴에서 갓 점프하는 모습을 담은 영상 클립입니다.
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-forward.mp4" type="video/mp4">
 </video>
 
 아래는 측면 시점의 영상 클립입니다.
 
 <video controls>
-  <source src="../../images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
+  <source src="/images/advanced/isolated-duo-god-jumps/isolated-duo-god-jump-side.mp4" type="video/mp4">
 </video>

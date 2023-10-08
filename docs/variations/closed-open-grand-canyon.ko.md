@@ -17,25 +17,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -58,25 +58,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -99,25 +99,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -141,19 +141,19 @@
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약
@@ -176,25 +176,25 @@
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### 요약

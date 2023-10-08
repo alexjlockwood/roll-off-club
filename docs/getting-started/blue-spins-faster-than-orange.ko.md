@@ -25,17 +25,17 @@
 예를 들어, 아래 영상 클립은 [이지 4 + 열림-닫힘](../variations/easy-4-open-closed.md) 변형의 한 랩을 보여줍니다. 파란색 패턴에서 주황색 패턴으로 전환하는 게 간단하고 진행하기 쉽다는 것을 보실 수 있습니다.
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">
 </video>
 
 바로 다음 랩에서 파란색 패턴에서 주황색 패턴으로 전환하는 게 위험해진 것을 알 수 있습니다. 이 시점에서 파란색 패턴이 주황색 패턴보다 빠르게 회전하기 때문에 다음 랩에서 같은 경로로 진행했을 때 위험하다는 것을 깨달았습니다.
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap8.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap8.mp4" type="video/mp4">
 </video>
 
 그래서 다음 랩에서는 경로를 변경해야 한다는 것을 인지하고 이전처럼 파란색 패턴에서 출발하는 대신 주황색 패턴에서 출발해 파란색 패턴으로 갈아타면서 비교적 쉽게 공략할 수 있었습니다.
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap9.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap9.mp4" type="video/mp4">
 </video>

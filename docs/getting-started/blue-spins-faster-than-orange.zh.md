@@ -25,17 +25,17 @@
 例如，以下片段展示了[橙4 + 蓝3](../variations/easy-4-open-closed.zh.md)版型中期的一圈。注意，从蓝轮切到橙轮这下是很容易做到的：
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">
 </video>
 
 然而，下一圈中我注意到从蓝轮切到橙轮这下变得比较困难了。鉴于蓝轮转动比橙轮快，这种切法在下一圈的风险会变得很高：
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap8.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap8.mp4" type="video/mp4">
 </video>
 
 因此，我知道下一圈我最好改变路线。我决定从橙轮开始跳坑并切到蓝轮，而不是像之前那样从蓝轮开始跳坑并切到橙轮。这样我就避开了那处危险的切法。
 
 <video controls>
-  <source src="../../images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap9.mp4" type="video/mp4">
+  <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap9.mp4" type="video/mp4">
 </video>

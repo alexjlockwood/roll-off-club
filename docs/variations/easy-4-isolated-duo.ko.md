@@ -15,37 +15,37 @@
 === "7번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap7.mp4" type="video/mp4">
     </video>
 
 === "8번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap8.mp4" type="video/mp4">
     </video>
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap11.mp4" type="video/mp4">
     </video>
 
 === "12번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-blue-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-blue-lap12.mp4" type="video/mp4">
     </video>
 
 #### 난이도
@@ -64,31 +64,31 @@
 === "7번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-orange-lap7.mp4" type="video/mp4">
     </video>
 
 === "8번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-orange-lap8.mp4" type="video/mp4">
     </video>
 
 === "9번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-orange-lap9.mp4" type="video/mp4">
     </video>
 
 === "10번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-orange-lap10.mp4" type="video/mp4">
     </video>
 
 === "11번째 랩"
 
     <video controls>
-      <source src="../../images/variations/easy-4-isolated-duo-end-on-orange-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-isolated-duo-end-on-orange-lap11.mp4" type="video/mp4">
     </video>
 
 #### 난이도

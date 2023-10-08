@@ -9,7 +9,7 @@
 ### 跳扑bug
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/dive-bug.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/dive-bug.mp4" type="video/mp4">
 </video>
 
 “跳扑bug”是指豆子在侧跳接扑的时候会看起来朝着错误的方向扑出去。此bug会在你没有足够的横向速度并按扑时出现，比较难避免且会随机出现。
@@ -17,7 +17,7 @@
 ### 出局bug
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/elimination-bug.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/elimination-bug.mp4" type="video/mp4">
 </video>
 
 出局bug是指豆子看起来落在板子上了，但随后却出局了。即使侧跳不接扑，这个bug也有可能出现，不过最可能出现该bug的是这两种情况：(1)你侧跳落在一条细边上；(2) 你延迟很高。
@@ -30,49 +30,49 @@
 ### 橙4
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/easy-4-orange.mp4" type="video/mp4">
 </video>
 
 ### 橙多挡板
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/5-waller-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/5-waller-orange.mp4" type="video/mp4">
 </video>
 
 ### 橙2
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/closed-open-orange.mp4" type="video/mp4">
 </video>
 
 ### 橙浮岛
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/isolated-duo-orange.mp4" type="video/mp4">
 </video>
 
 ### 蓝4
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/easy-4-blue.mp4" type="video/mp4">
 </video>
 
 ### 蓝多挡板
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/pillar-trench-blue.mp4" type="video/mp4">
 </video>
 
 ### 蓝3
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/open-closed-blue.mp4" type="video/mp4">
 </video>
 
 ### 蓝浮岛
 
 <video controls>
-  <source src="../../images/advanced/wall-jumps-one-rolling/isolated-duo-blue.mp4" type="video/mp4">
+  <source src="/images/advanced/wall-jumps-one-rolling/isolated-duo-blue.mp4" type="video/mp4">
 </video>
 
 ## 侧跳平冠示例

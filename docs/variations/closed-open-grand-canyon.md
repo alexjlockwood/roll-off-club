@@ -17,25 +17,25 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-gc-ledge-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -58,25 +58,25 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -99,25 +99,25 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -141,19 +141,19 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-piggys-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -176,25 +176,25 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-grand-canyon-rainbows-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary

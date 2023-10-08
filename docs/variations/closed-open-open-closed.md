@@ -15,25 +15,25 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-alexs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -57,25 +57,25 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-pgs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -98,25 +98,25 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-jds-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary
@@ -140,25 +140,25 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 === "Lap 9"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "Lap 10"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "Lap 11"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "Lap 12"
 
     <video controls>
-      <source src="../../images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/closed-open-open-closed-3cs-path-lap12.mp4" type="video/mp4">
     </video>
 
 #### Summary

@@ -17,37 +17,37 @@
 === "第7圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap7.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap7.mp4" type="video/mp4">
     </video>
 
 === "第8圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap8.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap8.mp4" type="video/mp4">
     </video>
 
 === "第9圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap9.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap9.mp4" type="video/mp4">
     </video>
 
 === "第10圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap10.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap10.mp4" type="video/mp4">
     </video>
 
 === "第11圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap11.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap11.mp4" type="video/mp4">
     </video>
 
 === "第12圈"
 
     <video controls>
-      <source src="../../images/variations/easy-4-easy-4-example-path-lap12.mp4" type="video/mp4">
+      <source src="/images/variations/easy-4-easy-4-example-path-lap12.mp4" type="video/mp4">
     </video>
 
 ## 平冠示例
