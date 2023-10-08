@@ -4,20 +4,20 @@
 
 滚筒一览：
 
-* [橙4/蓝4](../rolls/easy-4.zh.md)
-* [橙浮岛/蓝浮岛](../rolls/isolated-duo.zh.md)
-* [橙2/蓝3](../rolls/closed-open-open-closed.zh.md)
-* [橙多挡板](../rolls/5-waller.zh.md)
-* [蓝多挡板](../rolls/pillar-trench.zh.md)
-* [蓝天坑](../rolls/grand-canyon.zh.md)
+* [橙4/蓝4](../rolls/easy-4.md)
+* [橙浮岛/蓝浮岛](../rolls/isolated-duo.md)
+* [橙2/蓝3](../rolls/closed-open-open-closed.md)
+* [橙多挡板](../rolls/5-waller.md)
+* [蓝多挡板](../rolls/pillar-trench.md)
+* [蓝天坑](../rolls/grand-canyon.md)
 
 ## 益处
 
 在开始玩之前先熟悉滚轮特征有许多益处：
 
 * 后期更容易选择路线
-* 可以更多地专注于[减少碰撞](./reducing-desync.zh.md)
-* 更容易[避开闸总](./avoiding-griefers.zh.md)
+* 可以更多地专注于[减少碰撞](./reducing-desync.md)
+* 更容易[避开闸总](./avoiding-griefers.md)
 
 ## 记忆技巧
 

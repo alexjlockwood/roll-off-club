@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙浮岛](../rolls/isolated-duo.zh.md#橙轮) + [蓝3](../rolls/closed-open-open-closed.zh.md#蓝轮)开头的空间很充裕，可以在蓝轮连续跳3个坑，也可以在橙轮跳中坑。不过注意橙轮浮岛后的坑为[大坑](../advanced/isolated-duo-god-jumps.zh.md)，跳大坑不熟练的话建议切到蓝轮避开。
+[橙浮岛](../rolls/isolated-duo.md#橙轮) + [蓝3](../rolls/closed-open-open-closed.md#蓝轮)开头的空间很充裕，可以在蓝轮连续跳3个坑，也可以在橙轮跳中坑。不过注意橙轮浮岛后的坑为[大坑](../advanced/isolated-duo-god-jumps.md)，跳大坑不熟练的话建议切到蓝轮避开。
 
 ## 路线
 

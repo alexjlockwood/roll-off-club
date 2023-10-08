@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙多挡板](../rolls/5-waller.zh.md) + [蓝天坑](../rolls/grand-canyon.zh.md)经常被认为是第三难的版型。
+[橙多挡板](../rolls/5-waller.md) + [蓝天坑](../rolls/grand-canyon.md)经常被认为是第三难的版型。
 
 ## 路线
 

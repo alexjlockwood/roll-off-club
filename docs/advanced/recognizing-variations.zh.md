@@ -8,11 +8,11 @@
 
 ## 通过彩边和侧面条纹颜色识别
 
-橙轮的彩边有紫色和金色。如果是紫色，则可能是[橙4](../rolls/easy-4.zh.md#橙轮)、[橙2](../rolls/closed-open-open-closed.zh.md#橙轮)或[橙多挡板](../rolls/5-waller.zh.md)；如果是金色，则可能是[橙浮岛](../rolls/isolated-duo.zh.md#橙轮)或[橙多挡板](../rolls/5-waller.zh.md)。
+橙轮的彩边有紫色和金色。如果是紫色，则可能是[橙4](../rolls/easy-4.md#橙轮)、[橙2](../rolls/closed-open-open-closed.md#橙轮)或[橙多挡板](../rolls/5-waller.md)；如果是金色，则可能是[橙浮岛](../rolls/isolated-duo.md#橙轮)或[橙多挡板](../rolls/5-waller.md)。
 
-蓝轮的彩边有橙色、紫色和金色。如果是橙色，则可能是[蓝4](../rolls/easy-4.zh.md#蓝轮)、[蓝多挡板](../rolls/pillar-trench.zh.md)或[蓝天坑](../rolls/grand-canyon.zh.md)；如果是紫色，则必然是[蓝浮岛](../rolls/isolated-duo.zh.md#蓝轮)；如果是金色，则必然是[蓝3](../rolls/closed-open-open-closed.zh.md#蓝轮)。
+蓝轮的彩边有橙色、紫色和金色。如果是橙色，则可能是[蓝4](../rolls/easy-4.md#蓝轮)、[蓝多挡板](../rolls/pillar-trench.md)或[蓝天坑](../rolls/grand-canyon.md)；如果是紫色，则必然是[蓝浮岛](../rolls/isolated-duo.md#蓝轮)；如果是金色，则必然是[蓝3](../rolls/closed-open-open-closed.md#蓝轮)。
 
-特别地，[蓝天坑](../rolls/grand-canyon.zh.md)是唯一一个侧面条纹颜色与其他蓝轮不同的版型。蓝天坑的侧面条纹为橙色（其他蓝轮均为蓝色），前后条纹为绿色（其他滚筒均和彩边为同一颜色），钢筋为黄色（其他蓝轮均为紫色）。
+特别地，[蓝天坑](../rolls/grand-canyon.md)是唯一一个侧面条纹颜色与其他蓝轮不同的版型。蓝天坑的侧面条纹为橙色（其他蓝轮均为蓝色），前后条纹为绿色（其他滚筒均和彩边为同一颜色），钢筋为黄色（其他蓝轮均为紫色）。
 
 ![Grand Canyon side view](../images/advanced/recognizing-variants/grand-canyon-side-view.jpg)
 

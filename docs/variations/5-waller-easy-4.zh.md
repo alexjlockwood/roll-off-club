@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙多挡板](../rolls/5-waller.zh.md) + [蓝4](../rolls/easy-4.zh.md#蓝轮)是最容易造成拥挤碰撞的版型之一。
+[橙多挡板](../rolls/5-waller.md) + [蓝4](../rolls/easy-4.md#蓝轮)是最容易造成拥挤碰撞的版型之一。
 
 ## 路线
 

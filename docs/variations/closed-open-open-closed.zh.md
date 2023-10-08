@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙2](../rolls/closed-open-open-closed.zh.md#橙轮) + [蓝3](../rolls/closed-open-open-closed.zh.md#蓝轮)经常被认为是第四难的版型。该版型前8圈很容易，只须在蓝轮开头连续跳3个坑，再在橙轮结尾连续跳3个坑。但当粘液涨到最高后，该版型会变得难跑且拥挤。
+[橙2](../rolls/closed-open-open-closed.md#橙轮) + [蓝3](../rolls/closed-open-open-closed.md#蓝轮)经常被认为是第四难的版型。该版型前8圈很容易，只须在蓝轮开头连续跳3个坑，再在橙轮结尾连续跳3个坑。但当粘液涨到最高后，该版型会变得难跑且拥挤。
 
 ## 路线
 

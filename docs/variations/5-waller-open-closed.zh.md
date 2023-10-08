@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙多挡板](../rolls/5-waller.zh.md) + [蓝3](../rolls/closed-open-open-closed.zh.md#蓝轮)被认为是20种版型中最困难的，其路线不仅跑起来难度高，还需要合理选择才能避开与其他玩家拥挤。
+[橙多挡板](../rolls/5-waller.md) + [蓝3](../rolls/closed-open-open-closed.md#蓝轮)被认为是20种版型中最困难的，其路线不仅跑起来难度高，还需要合理选择才能避开与其他玩家拥挤。
 
 ## 路线
 

@@ -22,7 +22,7 @@
 
 一个实用的对策：注意你的路线中逐渐变难的部分。一旦发现了，就可以依靠蓝轮转动速度更快的知识来提前为下一圈做准备。
 
-例如，以下片段展示了[橙4 + 蓝3](../variations/easy-4-open-closed.zh.md)版型中期的一圈。注意，从蓝轮切到橙轮这下是很容易做到的：
+例如，以下片段展示了[橙4 + 蓝3](../variations/easy-4-open-closed.md)版型中期的一圈。注意，从蓝轮切到橙轮这下是很容易做到的：
 
 <video controls>
   <source src="/images/getting-started/blue-spins-faster-than-orange/easy-4-open-closed-lap7.mp4" type="video/mp4">

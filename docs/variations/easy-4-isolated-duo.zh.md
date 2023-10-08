@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙4](../rolls/easy-4.zh.md#橙轮) + [蓝浮岛](../rolls/isolated-duo.zh.md#蓝轮)是一个相对简单的版型，因为橙4开头的空间很充裕。记住蓝轮浮岛前的坑是[大坑](../advanced/isolated-duo-god-jumps.zh.md)，所以可以待在橙轮来避开。
+[橙4](../rolls/easy-4.md#橙轮) + [蓝浮岛](../rolls/isolated-duo.md#蓝轮)是一个相对简单的版型，因为橙4开头的空间很充裕。记住蓝轮浮岛前的坑是[大坑](../advanced/isolated-duo-god-jumps.md)，所以可以待在橙轮来避开。
 
 ## 路线
 

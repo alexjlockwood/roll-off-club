@@ -8,7 +8,7 @@
 
 ## 学习滚轮版型
 
-[认识滚轮版型](./learning-the-rolls.zh.md)可以让你不用分配太多注意力去记忆路线，而是更加专注于减少碰撞。
+[认识滚轮版型](./learning-the-rolls.md)可以让你不用分配太多注意力去记忆路线，而是更加专注于减少碰撞。
 
 ## 优先跳坑而非切板
 
@@ -16,9 +16,9 @@
 
 以下部分中，跳坑经常是更安全的选择：
 
-* [蓝多挡板](../rolls/pillar-trench.zh.md)中部连续跳3个坑
-* [蓝天坑](../rolls/grand-canyon.zh.md)中部连续跳3个坑
-* [橙浮岛/蓝浮岛](../rolls/isolated-duo.zh.md)中部连续跳3个坑
+* [蓝多挡板](../rolls/pillar-trench.md)中部连续跳3个坑
+* [蓝天坑](../rolls/grand-canyon.md)中部连续跳3个坑
+* [橙浮岛/蓝浮岛](../rolls/isolated-duo.md)中部连续跳3个坑
 
 !!! warning "警告"
 

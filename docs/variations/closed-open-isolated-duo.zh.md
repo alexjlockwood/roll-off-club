@@ -4,7 +4,7 @@
 
 ## 概述
 
-在特定的时间段中，[橙2](../rolls/closed-open-open-closed.zh.md#橙轮) + [蓝浮岛](../rolls/isolated-duo.zh.md#蓝轮)中蓝轮的大坑会和橙轮的中坑同时出现，造成一定困难。记住蓝轮浮岛前的坑是[大坑](../advanced/isolated-duo-god-jumps.zh.md)，跳过去难度较高，而浮岛后的中坑则相对容易跳且可以用来防挤。
+在特定的时间段中，[橙2](../rolls/closed-open-open-closed.md#橙轮) + [蓝浮岛](../rolls/isolated-duo.md#蓝轮)中蓝轮的大坑会和橙轮的中坑同时出现，造成一定困难。记住蓝轮浮岛前的坑是[大坑](../advanced/isolated-duo-god-jumps.md)，跳过去难度较高，而浮岛后的中坑则相对容易跳且可以用来防挤。
 
 ## 路线
 

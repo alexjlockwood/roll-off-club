@@ -4,7 +4,7 @@
 
 ## 概述
 
-[橙浮岛](../rolls/isolated-duo.zh.md#橙轮) + [蓝天坑](../rolls/grand-canyon.zh.md)经常被认为是第五难的版型，可以算是简单版的“橙多挡板 + 蓝天坑”。
+[橙浮岛](../rolls/isolated-duo.md#橙轮) + [蓝天坑](../rolls/grand-canyon.md)经常被认为是第五难的版型，可以算是简单版的“橙多挡板 + 蓝天坑”。
 
 ## 路线
 

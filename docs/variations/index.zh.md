@@ -4,7 +4,7 @@
 
 !!! note "注意"
 
-    建议在学习20种版型的细节之前先阅读[初露头角](../getting-started/index.zh.md)版块，尤其是学习9种[滚轮](../getting-started/learning-the-rolls.zh.md)并了解[蓝轮转动比橙轮快](../getting-started/blue-spins-faster-than-orange.zh.md)。在熟悉这些的基础上，很多版型不依靠记忆路线就能做到平冠了。
+    建议在学习20种版型的细节之前先阅读[初露头角](../getting-started/index.md)版块，尤其是学习9种[滚轮](../getting-started/learning-the-rolls.md)并了解[蓝轮转动比橙轮快](../getting-started/blue-spins-faster-than-orange.md)。在熟悉这些的基础上，很多版型不依靠记忆路线就能做到平冠了。
 
 ## 最困难版型
 
@@ -28,7 +28,7 @@
 
 ## 中等版型
 
-如果你掌握了[初露头角](../getting-started/index.zh.md)中的内容，以下版型对你将不会很难，除非有大量玩家存活造成拥挤。记忆这些版型的路线并不是必须的，但记住[滚轮](../rolls/index.zh.md)是必要的。
+如果你掌握了[初露头角](../getting-started/index.md)中的内容，以下版型对你将不会很难，除非有大量玩家存活造成拥挤。记忆这些版型的路线并不是必须的，但记住[滚轮](../rolls/index.md)是必要的。
 
 * [橙2 + 蓝4](./closed-open-easy-4.md)
 * [橙2 + 蓝浮岛](./closed-open-isolated-duo.md)
@@ -38,7 +38,7 @@
 
 ## 简单版型
 
-以下是最容易平冠的版型，每种都有多条路线选择。记忆这些版型的路线并不是必须的，但记住[滚轮](../rolls/index.zh.md)是必要的。
+以下是最容易平冠的版型，每种都有多条路线选择。记忆这些版型的路线并不是必须的，但记住[滚轮](../rolls/index.md)是必要的。
 
 * [橙4 + 蓝4](./easy-4-easy-4.md)
 * [橙4 + 蓝浮岛](./easy-4-isolated-duo.md)
