@@ -177,4 +177,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - scripts/extra.js
+
 copyright: Copyright &copy; 2022-2023 Alex Lockwood
