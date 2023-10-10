@@ -32,6 +32,7 @@ hide:
 加入 [**Roll Call Discord**][RollCallDiscord] 以在自定义练习房间开放时获得通知。你也可以关注我们成员的Twitch频道！
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
+* [Electro8k](https://www.youtube.com/@Electro8k)
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)

@@ -32,6 +32,7 @@ hide:
 [**Roll Call 디스코드**](https://discord.gg/xf9D89Hfxa)에 가입해서 커스텀 연습이 있을 때 알림을 받거나 아래 트위치 계정을 팔로우하세요!
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
+* [Electro8k](https://www.youtube.com/@Electro8k)
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)

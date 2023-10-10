@@ -36,6 +36,7 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practice in customs, or by following the Twitch accounts below!
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
+* [Electro8k](https://www.youtube.com/@Electro8k)
 * [CityLimitsPK](https://www.twitch.tv/citylimitspk)
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)

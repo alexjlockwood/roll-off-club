@@ -131,7 +131,7 @@ plugins:
         - build: true
           default: false
           locale: ko
-          name: 한국어 (Korean)
+          name: 한국어
           nav_translations:
             Advanced: 고급
             Easy Variations: 쉬운 난도 변형
@@ -147,7 +147,7 @@ plugins:
         - build: true
           default: false
           locale: zh
-          name: 简体中文 (Simplified Chinese)
+          name: 简体中文
           nav_translations:
             Advanced: 进阶
             Easy Variations: 简单版型
