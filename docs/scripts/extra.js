@@ -1,3 +1,4 @@
+// Adapted from: https://github.com/Gothic-Modding-Community/gmc/blob/8e15b7922228dc961557c9f1570eba14ffb47e32/overrides/assets/javascripts/extra.js
 window.addEventListener("DOMContentLoaded", _ => {
     const MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
     const observer = new MutationObserver((mutations, _) => {
