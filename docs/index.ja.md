@@ -7,33 +7,34 @@ hide:
 
 !!! note
 
-    This website has also been translated to [Korean](/ko) and [Chinese](/zh).
+    当サイトは現在翻訳中です。翻訳の有志者をお待ちしています！
+     [英語版](https://rolloff.club/) はこちら
 
-## Getting Started
+## はじめに
 
-This [**section**](getting-started/index.md) explains the basics required to timeout Roll Off.
+この [**項目**](getting-started/index.md) では、ロールオフ耐久の基本情報を説明します。
 
-Start here if you are looking to get your first Roll Off timeout or to improve your win rate overall.
+ロールオフを初めて耐久したい方や、全体的な勝率を上げたい方はここから！
 
-## Rolls
+## ロール
 
-This [**section**](rolls/index.md) details the 4 orange rolls and 5 blue rolls that can appear in any given Roll Off final.
+この [**項目**](rolls/index.md) では、ロールオフで出現する可能性のある4つのオレンジロールと5つの青ロールについて詳しく説明します。
 
-Start here if you are interested in memorizing the important aspects of these rolls, which will make surviving the final much easier.
+ロールの重要な点を覚えたい方はここから！
 
-## Variations
+## パターン
 
-This [**section**](variations/index.md) gives in-depth analysis of specific Roll Off variations, including clips of specific paths to take for the harder variations.
+この [**項目**](variations/index.md) では、特定のロールオフのパターンを詳細に分析します。難しいパターンでの耐久映像も掲載しています。
 
-Start here if you are familiar with the basics and are trying to learn how to timeout the hardest variations Roll Off has to offer.
+ロールオフの基本はバッチリで、難しいパターンで耐久したい方はここから！
 
-## Advanced
+## 発展
 
-This [**section**](advanced/index.md) gives more advanced tips and strategies, such as tips for counting laps, recognizing variations early, and wall jumping.
+この [**項目**](advanced/index.md) では、周回数の数え方、パターンの早見表、壁抜けのコツなど、より高度な小ネタや戦略を紹介します。
 
-## Practice with us
+## 一緒に練習しよう
 
-Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practice in customs, or by following the Twitch accounts below!
+ [**Roll call Discord**][RollCallDiscord] に参加してカスタム練習の通知を受け取るか下のTwitchアカウントをフォローしてください！
 
 * [williamschiv](https://www.twitch.tv/williamschiv)
 * [Electro8k](https://www.youtube.com/@Electro8k)
@@ -41,12 +42,16 @@ Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practic
 * [jdever449](https://www.twitch.tv/jdever449)
 * [alexjlockwood](https://www.twitch.tv/alexjlockwood)
 
-## Translations
+日本のロールオフの [**Discordサーバー**][RollofJP] もあります。一緒に耐久したい、けど海外の人は怖い、という方はこちら！
 
-Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
+## 翻訳
 
-* [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([Korean pages](/ko))
-* [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))
-* [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([Simplified Chinese pages](/zh))
+このサイトをボランティアで翻訳してくださった方々、本当にありがとうございました！翻訳をご希望の方は、[**Roll Call Discord**][RollCallDiscord] までご連絡ください。
+
+* [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([韓国語](/ko))
+* [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([簡体字中国語](/zh))
+* [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([簡体字中国語](/zh))
+* [Waribashi](https://twitter.com/Paki_waribashi) a.k.a. Pakiっと割りばし ([日本語](/ja))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
+[RollofJP]: <https://discord.gg/uCtKRSF8SB> "RollofJP"
