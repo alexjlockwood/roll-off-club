@@ -5,11 +5,6 @@ hide:
 
 # Roll Off Club
 
-!!! note
-
-    当サイトは現在翻訳中です。翻訳の有志者をお待ちしています！
-     [英語版](https://rolloff.club/) はこちら
-
 ## はじめに
 
 この [**項目**](getting-started/index.md) では、ロールオフ耐久の基本情報を説明します。
