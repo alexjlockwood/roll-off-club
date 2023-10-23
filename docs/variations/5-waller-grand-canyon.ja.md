@@ -1,10 +1,10 @@
-# 壁まし + 大穴
+# 壁まし+大穴
 
 ![5 Waller + Grand Canyon](../images/variations/5-waller-grand-canyon.jpg)
 
 ## 概要
 
-海外では「3番目に難しいパターン」としても知られる [壁まし](../rolls/5-waller.md) + [大穴](../rolls/grand-canyon.md) は、耐久の難易度ではトップクラスに位置します。
+海外では「3番目に難しいパターン」としても知られる[壁まし](../rolls/5-waller.md)+[大穴](../rolls/grand-canyon.md)は、耐久の難易度ではトップクラスに位置します。
 
 ## ルート
 
@@ -39,7 +39,7 @@
 #### 概要
 
 1. 青スタート
-2. オレンジの最初の壁直後の小さな島に移動する。
+2. オレンジの最初の壁裏に移動する。
 3. 青に安全に戻れるまで、オレンジにいる。
 
 #### 難易度
@@ -80,7 +80,7 @@
 #### 概要
 
 1. オレンジスタート
-2. 青の最初の壁裏の小さな島に移動する
+2. 青の最初の壁裏に移動する
 3. オレンジの壁裏にジャンプで戻る
 4. 青に安全に戻れるまでオレンジにいる
 
@@ -136,7 +136,7 @@
 
 ### Rainbow ルート
 
-[RainbowStays][RainbowStays] が考案したとされるルートです。
+[RainbowStays][RainbowStays]にちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -188,6 +188,6 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
 
 [RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"

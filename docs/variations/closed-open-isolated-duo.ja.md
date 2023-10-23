@@ -1,10 +1,10 @@
-# 3ジャン + 中穴
+# 3ジャン+中穴
 
 ![Closed-Open + Isolated Duo](../images/variations/closed-open-isolated-duo.jpg)
 
 ## 概要
 
-[3ジャン](../rolls/closed-open-open-closed.md#orange) + [中穴](../rolls/isolated-duo.md#blue) は、耐久の後半では青とオレンジで中穴が揃い、スペースがなくなって難しくなることがあります。青の1つめの中穴跳びは [ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md) が必要なので難しく、出来るだけ避けるようにしてください。2つめの中穴は簡単に飛べるので、中盤の衝突を避けるのに有効です。
+[3ジャン](../rolls/closed-open-open-closed.md#orange)+[中穴](../rolls/isolated-duo.md#blue)は、耐久の後半では青とオレンジで中穴が揃い、スペースがなくなって難しくなることがあります。青の1つ目の中穴跳びは[ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md)が必要なので難しく、出来るだけ避けるのが賢明です。2つめの中穴は簡単に飛べるので、中盤の衝突を避けるのに有効です。
 
 ## ルート
 
@@ -48,4 +48,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

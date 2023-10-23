@@ -1,10 +1,10 @@
-# 4ジャン + 4ジャン
+# 4ジャン+4ジャン
 
 ![Easy 4 + Easy 4](../images/variations/easy-4-easy-4.jpg)
 
 ## 概要
 
-[4ジャン](../rolls/easy-4.md#orange) + [4ジャン](../rolls/easy-4.md#blue) は、最も簡単なパターンとして知られています。
+[4ジャン](../rolls/easy-4.md#orange)+[4ジャン](../rolls/easy-4.md#blue)は、最も簡単なパターンとして知られています。
 
 ## ルート
 
@@ -50,4 +50,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

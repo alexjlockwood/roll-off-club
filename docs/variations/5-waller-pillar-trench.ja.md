@@ -1,10 +1,10 @@
-# 壁まし + 壁まし
+# 壁まし+壁まし
 
 ![5 Waller + Pillar Trench](../images/variations/5-waller-pillar-trench.jpg)
 
-## Overview
+## 概要
 
-[壁まし](../rolls/5-waller.md) + [壁まし](../rolls/pillar-trench.md) は、オレンジ壁ましの中で最も簡単なパターンです。各周回のスタートでは衝突を避けるのが難しいですが、中盤と終盤はまっすぐで、青の中盤には広いスペースがあります。
+[壁まし](../rolls/5-waller.md)+[壁まし](../rolls/pillar-trench.md) は、壁まし(オレンジ)の中で最も簡単なパターンです。各周回のスタートでは衝突を避けるのが難しいですが、中盤と終盤はまっすぐで、青の中盤には広いスペースがあります。
 
 ## ルート
 
@@ -48,4 +48,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

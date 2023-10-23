@@ -1,9 +1,10 @@
-# 3ジャン + 3ジャン
+# 3ジャン+3ジャン
+
 ![Closed-Open + Open-Closed](../images/variations/closed-open-open-closed.jpg)
 
 ## 概要
 
-[中穴](../rolls/closed-open-open-closed.md#orange) + [中穴](../rolls/closed-open-open-closed.md#blue) 4番目に耐久が難しいパターンといわれています。最初の8周は非常に簡単で、青で3回ジャンプ後、オレンジで3回ジャンプで終わります。ただし、9～12周目になってスライムの高さが最大になると、このパターンは急激に難しくなります。
+[3ジャン](../rolls/closed-open-open-closed.md#orange)+[3ジャン](../rolls/closed-open-open-closed.md#blue)は、4番目に耐久が難しいパターンといわれています。最初の8周は非常に簡単で、青で3回ジャンプ後、オレンジで3回ジャンプで終わります。9～12周目になってスライムの高さが最大になると、このパターンは急激に難しくなります。
 
 ## ルート
 
@@ -11,7 +12,7 @@
 
 ### Alex ルート
 
-[alexjlockwood][alexjlockwood] が考案したとされるルートです。
+[alexjlockwood][alexjlockwood]にちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -55,7 +56,7 @@
 
 ### PG ルート
 
-[Prakhar Gupta][PG] が命名したとされるルートです。
+[Prakhar Gupta][PG]にちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -83,7 +84,7 @@
 
 #### 概要
 
-1. 青3回ジャンプで開始
+1. 青3回ジャンプでスタート
 2. オレンジの2つめの壁前にジャンプする
 3. ジャンプダイブで青に戻る
 
@@ -98,7 +99,7 @@
 
 ### JD ルート
 
-[Joey Dever][JD] が命名したとされるルートです。
+[Joey Dever][JD]にちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -140,9 +141,9 @@
 | 11    | 普通       |
 | 12    | 普通       |
 
-### 3C's Path
+### 3C ルート
 
-Three-C が考案したとされるルートです。
+Three-Cにちなんで名づけられたルートです。。
 
 === "9周目"
 
@@ -196,7 +197,7 @@ Three-C が考案したとされるルートです。
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
 
 [alexjlockwood]: <https://www.twitch.tv/alexjlockwood> "alexjlockwood's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"

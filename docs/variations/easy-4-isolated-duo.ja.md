@@ -1,10 +1,10 @@
-# 4ジャン + 中穴
+# 4ジャン+中穴
 
 ![Easy 4 + Isolated Duo](../images/variations/easy-4-isolated-duo.jpg)
 
-## Overview
+## 概要
 
-[4ジャン](../rolls/easy-4.md#orange) + [中穴](../rolls/isolated-duo.md#blue) は、オレンジの始めにスペースがあり、比較的簡単なパターンです。青の1つ目の中穴は [ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md) が必要なので、苦手な人はオレンジにいるようにしましょう。
+[4ジャン](../rolls/easy-4.md#orange)+[中穴](../rolls/isolated-duo.md#blue)は、オレンジの始めにスペースがあり、比較的簡単なパターンです。青の1つ目の中穴は[ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md)が必要なので、苦手な人はオレンジにいるようにしましょう。
 
 ## ルート
 
@@ -103,4 +103,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

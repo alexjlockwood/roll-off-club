@@ -1,14 +1,14 @@
-# 4ジャン + 壁まし
+# 4ジャン+壁まし
 
 ![Easy 4 + Pillar Trench](../images/variations/easy-4-pillar-trench.jpg)
 
 ## 概要
 
-[4ジャン](../rolls/easy-4.md#orange) + [壁まし](../rolls/pillar-trench.md) は、始めはオレンジの4回ジャンプ、中盤は青で3回ジャンプと最初は難しくないのですが、終盤は耐久の後半になると、人数が多いと難しくなります。
+[4ジャン](../rolls/easy-4.md#orange)+[壁まし](../rolls/pillar-trench.md)は、始めはオレンジの4回ジャンプ、中盤は青で3回ジャンプと最初は難しくないのですが、終盤は耐久の後半、人数が多くなると難しくなります。
 
 ## ルート
 
-耐久の9～12周目では2つのルートが考えられます。衝突しにくいように、人数が少ないルートを選ぶのがオススメです。
+9～12周目では2つのルートが考えられます。衝突しにくいように、人数が少ないルートを選ぶのがオススメです。
 
 ### オレンジ壁裏ルート
 
@@ -82,4 +82,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

@@ -1,10 +1,10 @@
-# 中穴 + 中穴
+# 中穴+中穴
 
 ![Isolated Duo + Isolated Duo](../images/variations/isolated-duo-isolated-duo.jpg)
 
 ## 概要
 
-[中穴](../rolls/isolated-duo.md#orange) + [中穴](../rolls/isolated-duo.md#blue) は、非常にシンプルですが、人数が多いと耐久に苦戦するでしょう。オレンジの2つ目の中穴と青の1つ目の中穴はどちらも [ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md) が必要なのを覚えておいてください。もしゴッドジャンプが上手いのであれば、逆に利用することによって衝突を避けることも出来ます。
+[中穴](../rolls/isolated-duo.md#orange)+[中穴](../rolls/isolated-duo.md#blue)は非常にシンプルですが、人数が多いと耐久に苦戦するでしょう。オレンジの2つ目の中穴と青の1つ目の中穴はどちらも[ゴッドジャンプ](../advanced/isolated-duo-god-jumps.md)が必要なのを覚えておいてください。もしゴッドジャンプが上手いのであれば、逆に利用することによって衝突を避けることも出来ます。
 
 ## ルート
 
@@ -48,4 +48,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。

@@ -1,14 +1,14 @@
-# 中穴 +大穴
+# 中穴+大穴
 
 ![Isolated Duo + Grand Canyon](../images/variations/isolated-duo-grand-canyon.jpg)
 
 ## 概要
 
-[中穴](../rolls/isolated-duo.md#orange) + [大穴](../rolls/grand-canyon.md) は、5番目に難しいパターンと言われており、耐久の難しさは上位に入ります。
+[中穴](../rolls/isolated-duo.md#orange)+[大穴](../rolls/grand-canyon.md)は、5番目に難しいパターンと言われており、耐久の難しさは上位に入ります。
 
 ## ルート
 
-耐久の9～12周目では5つのルートが考えられます。
+9～12周目では5つのルートが考えられます。
 
 ### 青スタートルート
 
@@ -80,7 +80,7 @@
 #### 概要
 
 1. オレンジスタート
-2. 青の最初の壁裏の小さな島に移動する
+2. 青の最初の壁裏に移動する
 3. オレンジの壁裏にジャンプで戻る
 4. 青に安全に戻れるまでオレンジにいる
 
@@ -177,7 +177,7 @@
 
 ### Rainbow ルート
 
-[RainbowStays][RainbowStays] が考案したとされるルートです。
+[RainbowStays][RainbowStays]にちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -229,6 +229,6 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
 
 [RainbowStays]: <https://space.bilibili.com/4650641> "Rainbow's BiliBili"

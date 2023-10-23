@@ -1,10 +1,10 @@
 # 大穴
 
-## Blue
+## 青
 
 ![Grand Canyon Blue](../images/rolls/grand-canyon-blue-annotated.jpg)
 
-「大穴」という名前は、スタート直後にある大きな穴があることに由来します。
+「大穴」という名前は、スタート直後にある大きな穴に由来します。
 
 ### 覚えるべきこと
 

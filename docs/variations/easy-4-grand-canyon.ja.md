@@ -1,14 +1,14 @@
-# 4ジャン + 大穴
+# 4ジャン+大穴
 
 ![Easy 4 + Grand Canyon](../images/variations/easy-4-grand-canyon.jpg)
 
 ## 概要
 
-[4ジャン](../rolls/easy-4.md#orange) + [大穴](../rolls/grand-canyon.md) は、大穴はありつつもオレンジに4つの穴があるため、大穴パターンの中では最も簡単とされています。しかし、耐久後半では足場が狭くなるため難しいことには変わりありません。
+[4ジャン](../rolls/easy-4.md#orange)+[大穴](../rolls/grand-canyon.md)は、大穴はありつつもオレンジに4つの穴があるため、大穴パターンの中では最も簡単です。しかし、耐久後半では足場が狭くなるため難しいことには変わりません。
 
 ## ルート
 
-耐久の9～12周目の最後では3つのルートが考えられます。衝突しにくいように、人数が少ないルートを選ぶのがオススメです。
+9～12周目の最後では3つのルートが考えられます。衝突しにくいように、人数が少ないルートを選ぶのがオススメです。
 
 ### オレンジ壁裏ルート
 
@@ -97,4 +97,4 @@
 
 ## 耐久例
 
-ロールオフの全20パターンのルートは [こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)
+ロールオフの全20パターンのルートは[こちら](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F)。
