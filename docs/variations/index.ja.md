@@ -10,18 +10,19 @@
 
 全20種類のロールオフの中で最も難しいパターンです。これらのパターンで安定して生き残るには、事前にルートを暗記しておくことをオススメします。
 
-* [壁まし+大穴](./5-waller-grand-canyon.md)
-* [壁まし+3ジャン](./5-waller-open-closed.md)
-* [3ジャン+大穴](./closed-open-grand-canyon.md)
-* [3ジャン+3ジャン](./closed-open-open-closed.md)
 * [中穴+大穴](./isolated-duo-grand-canyon.md)
+* [3ジャン+3ジャン](./closed-open-open-closed.md)
+* [3ジャン+大穴](./closed-open-grand-canyon.md)
+* [壁まし+3ジャン](./5-waller-open-closed.md)
+* [壁まし+大穴](./5-waller-grand-canyon.md)
+
 
 ## 難関パターン
 
 最難関とまでは行かなくとも、これらのパターンはなかなか難しいです。特に、耐久残り2、3分で多くのプレイヤーが生きている場合は難しくなります。
 
-* [4ジャン+大穴](./easy-4-grand-canyon.md)
 * [4ジャン+3ジャン](./easy-4-open-closed.md)
+* [4ジャン+大穴](./easy-4-grand-canyon.md)
 * [壁まし+4ジャン](./5-waller-easy-4.md)
 * [壁まし+中穴](./5-waller-isolated-duo.md)
 * [壁まし+壁まし](./5-waller-pillar-trench.md)
@@ -30,11 +31,11 @@
 
 これらのパターンは[基本](../getting-started/index.md)を学んでいればさほど難しくありませんが、人数が多いと接触が起きやすくなります。 パターンを覚える*必要はありません*が、それぞれの[ロール](../rolls/index.md)を暗記することをオススメします。
 
+* [4ジャン+壁まし](./easy-4-pillar-trench.md)
+* [中穴+中穴](./isolated-duo-isolated-duo.md)
 * [3ジャン+4ジャン](./closed-open-easy-4.md)
 * [3ジャン+中穴](./closed-open-isolated-duo.md)
 * [3ジャン+壁まし](./closed-open-pillar-trench.md)
-* [4ジャン+壁まし](./easy-4-pillar-trench.md)
-* [中穴+中穴](./isolated-duo-isolated-duo.md)
 
 ## 簡単パターン
 
