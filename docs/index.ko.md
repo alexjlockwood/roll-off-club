@@ -44,6 +44,6 @@ hide:
 * [신모씨](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([한국어 페이지](/ko))
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([중국어 간체 페이지](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([중국어 간체 페이지](/zh))
-* [Waribashi](https://twitter.com/Paki_waribashi) a.k.a. Pakiっと割りばし ([日本語](/ja))
+* [Waribashi](https://twitter.com/waribashi_guy) a.k.a. ぱきっとwaribashi ([日本語](/ja))
 
 [Roll Call 디스코드]: <https://discord.gg/xf9D89Hfxa> "Roll Call 디스코드"
