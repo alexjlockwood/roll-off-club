@@ -46,7 +46,7 @@ hide:
 * [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([韓国語](/ko))
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([簡体字中国語](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([簡体字中国語](/zh))
-* [Waribashi](https://twitter.com/Paki_waribashi) a.k.a. Pakiっと割りばし ([日本語](/ja))
+* [Waribashi](https://twitter.com/waribashi_guy) a.k.a. ぱきっとwaribashi ([日本語](/ja))
 
 [RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
 [RollofJP]: <https://discord.gg/uCtKRSF8SB> "RollofJP"
