@@ -222,6 +222,18 @@ Here is an example of what an ideal 3 person timeout looks like for this variati
 * 1 player takes grand canyon ledge laps 9-11 and takes Piggy's Path lap 12
 * 1 player takes Rainbow's path lap 9-12
 
+!!! note
+
+    In the rare case that you must have 2 players in the center during laps 9-12, 
+    you should coordinate as follows:
+
+    - On laps 9-11:
+        - First player runs **in front** and takes **grand canyon ledge**
+        - Second player runs **behind** and **inner wall jumps**
+    - On lap 12:
+        - First player runs **in front** and **inner wall jumps**
+        - Second player runs **behind** and takes **Piggy's path**
+
 ## Example Timeouts
 
 View all Roll Off paths for all 20 variations on [YouTube](https://www.youtube.com/playlist?list=PLG_QNSp9ZgJLWYSNl4vY26VJCZeOQHO1F).
