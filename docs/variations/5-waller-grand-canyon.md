@@ -8,7 +8,7 @@ Also known as the "3rd Hardest Variation", [5 Waller](../rolls/5-waller.md) + [G
 
 ## Paths
 
-There are 4 possible paths to take on laps 9-12 of the timeout:
+There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Start on Blue
 
@@ -119,20 +119,46 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
       <source src="/images/variations/5-waller-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
+### Inner Wall Jump
+
+=== "Lap 9"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 10"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
+
 #### Summary
 
 1. Start on orange
-2. Outer wall jump on the right side of orange
-3. Run diagonally across the roll and jump back to blue
+2. Inner wall jump on the left side of orange
+3. Run on orange until it is safe to jump back to blue
 
 #### Difficulty
 
 | Lap # | Difficulty |
 | ----- | ---------- |
-| 9     | Hard       |
-| 10    | Hard       |
-| 11    | Hard       |
-| 12    | Hard       |
+| 9     | Very hard  |
+| 10    | Very hard  |
+| 11    | Very hard  |
+| 12    | Very hard  |
 
 ### Rainbow's Path
 
@@ -183,6 +209,15 @@ Here is an example of what an ideal 3 person timeout looks like for this variati
 * 1 player starts on blue laps 9-12
 * 1 player takes the grand canyon ledge laps 9-12
 * 1 player outer wall jumps laps 9-12
+
+!!! note
+
+    In the rare case that you must have 3 players in the center during laps 9-12, 
+    you should coordinate as follows:
+
+    - First player runs **in front** and takes **grand canyon ledge**
+    - Second player runs **behind** and **inner wall jumps**
+    - Third player starts on blue
 
 ## Example Timeouts
 

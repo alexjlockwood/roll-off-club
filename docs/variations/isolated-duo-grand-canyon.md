@@ -227,11 +227,12 @@ Here is an example of what an ideal 3 person timeout looks like for this variati
 
 !!! note
 
-    In the rare case that you must have 2 players in the center during laps 9-12, 
+    In the rare case that you must have 3 players in the center during laps 9-12, 
     you should coordinate as follows:
 
     - First player runs **in front** and takes **grand canyon ledge**
     - Second player runs **behind** and **inner wall jumps**
+    - Third player starts on blue
 
 ## Example Timeouts
 
