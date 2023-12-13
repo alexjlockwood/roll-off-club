@@ -119,6 +119,21 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
       <source src="/images/variations/5-waller-grand-canyon-outer-wall-jump-lap12.mp4" type="video/mp4">
     </video>
 
+#### Summary
+
+1. Start on orange
+2. Outer wall jump on the right side of orange
+3. Run diagonally across the roll and jump back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Hard       |
+| 10    | Hard       |
+| 11    | Hard       |
+| 12    | Hard       |
+
 ### Inner Wall Jump
 
 === "Lap 9"
