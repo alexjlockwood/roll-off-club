@@ -8,7 +8,7 @@
 
 ## ルート
 
-9～12周目では4つのルートが考えられます。
+9～12周目では5つのルートが考えられます。
 
 ### 青スタートルート
 
@@ -93,7 +93,7 @@
 | 11    | 難しい      |
 | 12    | 難しい      |
 
-### 壁抜けルート
+### 外壁抜けルート
 
 === "9周目"
 
@@ -133,6 +133,47 @@
 | 10    | 難しい      |
 | 11    | 難しい      |
 | 12    | 難しい      |
+
+### 内壁抜けルート
+
+=== "9周目"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10周目"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11周目"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12周目"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 概要
+
+1. オレンジスタート
+2. オレンジの左側で壁抜け
+3. 青に安全に戻れるまでオレンジにいる
+
+#### 難易度
+
+| 周回数 | 難易度 |
+| ----- | ---------- |
+| 9     | とても難しい   |
+| 10    | とても難しい   |
+| 11    | とても難しい   |
+| 12    | とても難しい　 |
 
 ### Rainbow ルート
 
