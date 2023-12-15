@@ -8,7 +8,7 @@
 
 ## 路线
 
-这里一共为第9~12圈提供四条路线：
+这里一共为第9~12圈提供五条路线：
 
 ### 从蓝轮开始跑（蓝起）
 
@@ -133,6 +133,47 @@
 | 10    | 困难       |
 | 11    | 困难       |
 | 12    | 困难       |
+
+### 内侧跳
+
+=== "第9圈"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "第10圈"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "第11圈"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "第12圈"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 总结
+
+1. 从橙轮开始跑
+2. 内侧跳通过第一个挡板
+3. 继续留在橙轮直到可以安全切回蓝轮
+
+#### 难度
+
+| 圈数 | 难度 |
+| ----- | ---------- |
+| 9     | 非常难  |
+| 10    | 非常难  |
+| 11    | 非常难  |
+| 12    | 非常难  |
 
 ### 彩虹路线
 
