@@ -8,7 +8,7 @@
 
 ## 경로
 
-9번째 랩에서 마지막 12번째 랩까지 4가지 경로를 선택할 수 있습니다.
+9번째 랩에서 마지막 12번째 랩까지 5가지 경로를 선택할 수 있습니다.
 
 ### 파란색 그랜드 캐니언 패턴에서 시작하는 경로
 
@@ -133,6 +133,47 @@
 | 10 #  | 어려움      |
 | 11 #  | 어려움      |
 | 12 #  | 어려움      |
+
+### 주황색 5 벽 패턴의 안쪽 벽 점프를 이용하는 경로
+
+=== "9번째 랩"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap9.mp4" type="video/mp4">
+    </video>
+
+=== "10번째 랩"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap10.mp4" type="video/mp4">
+    </video>
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12번째 랩"
+
+    <video controls>
+      <source src="/images/variations/5-waller-grand-canyon-inner-wall-jump-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 요약
+
+1. [주황색 5 벽](../rolls/5-waller.md) 패턴에서 1번의 짧은 점프로 시작합니다.
+2. 파란 벽의 안쪽을 벽 점프로 넘어갑니다.
+3. [주황색 5 벽](../rolls/5-waller.md) 패턴을 달리다가 파란색 그랜드 캐니언 패턴이 나타나면 점프해서 환승합니다.
+
+#### 난이도
+
+| 랩 #  | 난이도      |
+| ----- | ---------- |
+| 9 #   | 매우 어려움  |
+| 10 #  | 매우 어려움  |
+| 11 #  | 매우 어려움  |
+| 12 #  | 매우 어려움  |
 
 ### Rainbow의 경로
 
