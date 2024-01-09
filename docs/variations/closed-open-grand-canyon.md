@@ -215,7 +215,7 @@ There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ## Recommended Pathing
 
-Here is an example of what an ideal 3 person timeout looks like for this variation:
+Here is an example of what an ideal 4 person timeout looks like for this variation:
 
 * 1 player outer wall jumps laps 9-12
 * 1 player inner wall jumps laps 9-12
