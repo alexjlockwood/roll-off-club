@@ -27,16 +27,6 @@ hide:
 
 이 [**섹션**](advanced/index.md)에서는 랩을 세는 방법, 어떤 변형인지 미리 인식하는 방법, 벽 점프 등 고급 팁과 전략을 제공합니다.
 
-## 우리와 함께 연습해요
-
-[**Roll Call 디스코드**](https://discord.gg/xf9D89Hfxa)에 가입해서 커스텀 연습이 있을 때 알림을 받거나 아래 트위치 계정을 팔로우하세요!
-
-* [williamschiv](https://www.twitch.tv/williamschiv)
-* [Electro8k](https://www.youtube.com/@Electro8k)
-* [CityLimitsPK](https://www.twitch.tv/citylimitspk)
-* [jdever449](https://www.twitch.tv/jdever449)
-* [alexjlockwood](https://www.twitch.tv/alexjlockwood)
-
 ## 페이지 번역
 
 이 웹사이트를 다른 언어로 번역하는 데 재능기부 해주신 분들께 진심으로 감사드립니다! 다른 언어로 번역하는 데 가이드가 필요하시면 [**Roll Call 디스코드**][Roll Call 디스코드]로 문의해 주세요.
@@ -45,5 +35,3 @@ hide:
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([중국어 간체 페이지](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([중국어 간체 페이지](/zh))
 * [Waribashi](https://twitter.com/waribashi_guy) a.k.a. ぱきっとwaribashi ([日本語](/ja))
-
-[Roll Call 디스코드]: <https://discord.gg/xf9D89Hfxa> "Roll Call 디스코드"
