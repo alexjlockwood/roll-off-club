@@ -27,16 +27,6 @@ hide:
 
 此 [**版块**](advanced/index.md) 介绍了更多高阶技巧和策略，例如如何计圈、如何快速分辨版型、如何侧跳等等。
 
-## 和我们一起练习
-
-加入 [**Roll Call Discord**][RollCallDiscord] 以在自定义练习房间开放时获得通知。你也可以关注我们成员的Twitch频道！
-
-* [williamschiv](https://www.twitch.tv/williamschiv)
-* [Electro8k](https://www.youtube.com/@Electro8k)
-* [CityLimitsPK](https://www.twitch.tv/citylimitspk)
-* [jdever449](https://www.twitch.tv/jdever449)
-* [alexjlockwood](https://www.twitch.tv/alexjlockwood)
-
 ## 翻译
 
 十分感谢所有在闲暇之余帮助我们翻译本网站至各种语言的玩家！如果您想要帮助我们翻译到另一种语言，请在[**Roll Call Discord**][RollCallDiscord]联系我们。
@@ -45,5 +35,3 @@ hide:
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([Simplified Chinese pages](/zh))
 * [Waribashi](https://twitter.com/waribashi_guy) a.k.a. ぱきっとwaribashi ([日本語](/ja))
-
-[RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
