@@ -31,16 +31,6 @@ Start here if you are familiar with the basics and are trying to learn how to ti
 
 This [**section**](advanced/index.md) gives more advanced tips and strategies, such as tips for counting laps, recognizing variations early, and wall jumping.
 
-## Practice with us
-
-Join the [**Roll Call Discord**][RollCallDiscord] to be notified when we practice in customs, or by following the Twitch accounts below!
-
-* [williamschiv](https://www.twitch.tv/williamschiv)
-* [Electro8k](https://www.youtube.com/@Electro8k)
-* [CityLimitsPK](https://www.twitch.tv/citylimitspk)
-* [jdever449](https://www.twitch.tv/jdever449)
-* [alexjlockwood](https://www.twitch.tv/alexjlockwood)
-
 ## Translations
 
 Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
@@ -49,5 +39,3 @@ Thank you so much to those who volunteered their free time to translate this web
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([Simplified Chinese pages](/zh))
 * [Waribashi](https://twitter.com/waribashi_guy) a.k.a. ぱきっとwaribashi ([日本語](/ja))
-
-[RollCallDiscord]: <https://discord.gg/xf9D89Hfxa> "Roll Call Discord"
