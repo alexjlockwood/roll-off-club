@@ -27,10 +27,6 @@ hide:
 
 この[**項目**](advanced/index.md)では、周回数の数え方、パターンの判別方法、壁抜けのコツなど、より高度な小ネタや戦略を紹介します。
 
-## 翻訳
-
-このサイトをボランティアで翻訳してくださった方々、本当にありがとうございました！翻訳をご希望の方は、[**Roll Call Discord**][RollCallDiscord]までご連絡ください。
-
 * [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([韓国語](/ko))
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([簡体字中国語](/zh))
 * [Roll Off Piggy](https://space.bilibili.com/476949409) a.k.a. 滚轮笨笨猪 ([簡体字中国語](/zh))

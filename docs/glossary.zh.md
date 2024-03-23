@@ -33,7 +33,7 @@ hide:
 | One-roll                    | 只在一个滚轮上侧跳。英文中“wall jump”和“one-roll”均与侧跳相关。“wall jump”仅表示侧跳这个行为，而“one-roll”表示通过全程在一个滚轮侧跳来平冠 |
 | 纯切                        | 不跳不扑、只通过切板跑滚轮的高难度跑法，也叫走切 |
 | 跳切                        | 切板时跳到另一块板上 |
-| 橙多挡板俱乐部               | 所有达成过橙多挡板侧跳5分钟的玩家组成的群体，在Discord的Roll Call Club中有记录 |
+| 橙多挡板俱乐部               | 所有达成过橙多挡板侧跳5分钟的玩家组成的群体 |
 | Rainbow路线（彩虹路线）      | 包含蓝天坑的版型([橙2](./variations/closed-open-grand-canyon.md#rainbows-path), [橙多挡板](./variations/5-waller-grand-canyon.md#rainbows-path)和[橙浮岛](./variations/isolated-duo-grand-canyon.md#rainbows-path))的一条路线，以[RainbowStays][RainbowStays]命名。该路线需在蓝天坑侧跳过第一个挡板后跳切回橙轮 |
 | City路线                    | 橙多挡板 + 蓝3版型的一条[路线](./variations/5-waller-open-closed.md#citys-path)，以[CityLimitsPK][CityLimitsPK]命名。该路线需在蓝轮连续跳三个坑后跳切到橙超细边 |
 | EChan堡垒                   | [橙多挡板](./rolls/5-waller.md)中第三和第四个挡板中间围住的部分，以[EChanTV][EChanTV]命名 |

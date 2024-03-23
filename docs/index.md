@@ -33,7 +33,7 @@ This [**section**](advanced/index.md) gives more advanced tips and strategies, s
 
 ## Translations
 
-Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us on the [**Roll Call Discord**][RollCallDiscord].
+Thank you so much to those who volunteered their free time to translate this website to a different language! If you would like to provide your own translation, please contact us.
 
 * [eunma](https://github.com/qutrits) a.k.a. 제임스 웹 우주 망원경 ([Korean pages](/ko))
 * [RainbowStays](https://twitter.com/RainbowStays) a.k.a. 彩虹 ([Simplified Chinese pages](/zh))

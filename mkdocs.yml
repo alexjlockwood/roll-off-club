@@ -179,8 +179,6 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/xf9D89Hfxa
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/alexlockwood
     - icon: fontawesome/brands/twitter
