@@ -80,7 +80,7 @@ There are 3 paths you can take to survive the final transfer on laps 9-12 of the
 | 11    | Easy       |
 | 12    | Easy       |
 
-### Popper's Path
+### Outer Wall Jump
 
 <video controls>
   <source src="/images/variations/easy-4-grand-canyon-poppers-path.mp4" type="video/mp4">
