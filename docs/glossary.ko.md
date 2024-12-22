@@ -17,6 +17,7 @@ hide:
 | Dytl의 경로                 | [5 벽 + 열림-닫힘](./variations/5-waller-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#city의-경로)입니다. [dytlgozj][dytlgozj]의 이름을 따서 지어졌습니다. |
 | EChan의 경로                 | [5 벽 + 열림-닫힘](./variations/5-waller-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/5-waller-open-closed.md#echans-path)입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |
 | EChan의 요새                 | [5 벽](./rolls/5-waller.md) 패턴에서 3번째 벽과 4번째 벽 사이에 있는 밀폐된 공간입니다. [EChanTV][EChanTV]의 이름을 따서 지어졌습니다. |
+| Electro의 경로               | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 경로입니다. [Electro8k][electro8k]의 이름을 따서 지어졌습니다. |
 | JD의 경로                    | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 타임아웃하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#jd의-경로)입니다. [Joey Dever][JD]의 이름을 따서 지어졌습니다. |
 | PG의 경로                   | [닫힘-열림 + 열림-닫힘](./variations/closed-open-open-closed.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-open-closed.md#pg의-경로)입니다. [Prakhar Gupta][PG]의 이름을 따서 지어졌습니다. |
 | Piggy의 경로                | [닫힘-열림 + 그랜드 캐니언](./variations/closed-open-grand-canyon.md) 변형을 공동우승하는 데 사용되는 [경로](./variations/closed-open-grand-canyon.md#piggy의-경로)입니다. [Sweet Crying Deity][SweetCryingDeity]가 발견하고 [Roll Off Piggy][RollOffPiggy]의 이름을 따서 지어졌습니다. |
@@ -58,3 +59,4 @@ hide:
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
 [Syed]: <https://www.youtube.com/channel/UCZXTEu6Qa8WDR4IeAyunaig> "Syed's YouTube"
 [dytlgozj]: <https://www.twitch.tv/dytlgozj> "dytlgozj's Twitch"
+[electro8k]: <https://www.youtube.com/@Electro8k> "Electro's YouTube"
