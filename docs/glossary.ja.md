@@ -28,7 +28,6 @@ hide:
 | PG ルート                   | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/closed-open-open-closed.md#pg-ルート)の1つ。[Prakhar Gupta][PG]にちなんで名づけられた。 |
 | Piggy ルート                | [3ジャン+大穴](./variations/closed-open-grand-canyon.md)パターンの耐久[ルート](./variations/closed-open-grand-canyon.md#piggyルート)の1つ。[Sweet Crying Deity][SweetCryingDeity]によって発見され、[Roll Off Piggy][RollOffPiggy]にちなんで名づけられた。 |
 | Pillar Trench(pt)           | [壁まし(青)](./rolls/pillar-trench.md)ロールの英語名称。 |
-| Popper ルート               | [4ジャン+大穴](./variations/easy-4-grand-canyon.md)パターンの耐久[ルート](./variations/easy-4-grand-canyon.md#popper-ルート)の1つ。[lil_poppers][lil_poppers]にちなんで名づけられた。 |
 | Rainbow ルート              | [大穴](./rolls/grand-canyon.md)パターン([3ジャン](./variations/closed-open-grand-canyon.md#rainbow-ルート)、[壁まし](./variations/5-waller-grand-canyon.md#rainbow-ルート)、[中穴](./variations/isolated-duo-grand-canyon.md#rainbow-ルート))の耐久ルートの1つ。[RainbowStays][RainbowStays]にちなんで名づけられた。 |
 | Sherkhan ルート             | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#sherkhan-ルート)の1つ。[SH3RKH4N][SH3RKH4N]にちなんで名づけられた。 |
 | Suki ルート                 | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#suki-ルート)の1つ。suki_da_yoにちなんで名づけられた。 |
@@ -55,7 +54,6 @@ hide:
 [CityLimitsPK]: <https://www.twitch.tv/citylimitspk> "CityLimitsPK's Twitch"
 [EChanTV]: <https://www.youtube.com/user/hellomotto39> "EChan's YouTube"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
-[lil_poppers]: <https://www.twitch.tv/williamschiv> "lil_poppers' Twitch"
 [SweetCryingDeity]: <https://space.bilibili.com/394453214> "SweetCryingDeity's Bilibili"
 [RollOffPiggy]: <https://space.bilibili.com/476949409> "Roll Off Piggy's Bilibili"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
