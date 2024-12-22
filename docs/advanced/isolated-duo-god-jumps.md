@@ -1,5 +1,10 @@
 # Isolated Duo God Jumps
 
+!!! note
+
+    In August 2024, the jump height of a Fall Guy bean was increased, making isolated duo 
+    god jumps relatively easy compared to earlier versions of the game.
+
 Each [Isolated Duo](../rolls/isolated-duo.md) roll has a long jump that can be done with a simple jump dive, and a "god jump" that is more difficult to execute, especially when the slime reaches it's maximum level.
 
 To perform the god jump, be sure to:
