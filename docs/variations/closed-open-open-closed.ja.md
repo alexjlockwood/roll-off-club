@@ -4,11 +4,11 @@
 
 ## 概要
 
-[3ジャン](../rolls/closed-open-open-closed.md#orange)+[3ジャン](../rolls/closed-open-open-closed.md#blue)は、4番目に耐久が難しいパターンといわれています。最初の8周は非常に簡単で、青で3回ジャンプ後、オレンジで3回ジャンプで終わります。9～12周目になってスライムの高さが最大になると、このパターンは急激に難しくなります。
+[3ジャン](../rolls/closed-open-open-closed.md#orange)+[3ジャン](../rolls/closed-open-open-closed.md#blue)は、4番目に耐久が難しいパターンと言われています。最初の8周は非常に簡単で、青で3回ジャンプしてから、オレンジで3回ジャンプすれば終わります。スライムの高さが最大になる9～12周目では、このパターンは急激に難しくなります。
 
 ## ルート
 
-耐久の9周目から12周目では4つのルートが考えられます。
+耐久の9周目から12周目では5つのルートが考えられます。
 
 ### Alex ルート
 
@@ -143,7 +143,7 @@
 
 ### 3C ルート
 
-Three-Cにちなんで名づけられたルートです。。
+Three-Cにちなんで名づけられたルートです。
 
 === "9周目"
 
@@ -185,6 +185,38 @@ Three-Cにちなんで名づけられたルートです。。
 | 11    | 普通       |
 | 12    | 難しい     |
 
+### Electro ルート
+
+[Electro8k][electro8k]にちなんで名づけられたルートです。
+Alex ルートの3.がないルートになっています。
+
+=== "11周目"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12周目"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 概要
+
+1. 青2回ジャンプでスタート
+2. オレンジの1つ目の壁裏に移動する
+3. ジャンプダイブで青に戻る
+
+#### 難易度
+
+| 周回数 | 難易度 |
+| ----- | ---------- |
+| 9     | 不可能 |
+| 10    | 不可能 |
+| 11    | とても難しい  |
+| 12    | 難しい       |
+
 ## オススメルート
 
 以下は、このパターンでの理想的な3人耐久の例です。
@@ -193,7 +225,7 @@ Three-Cにちなんで名づけられたルートです。。
 * 1人が9～12周目でPG ルート
 * 1人が9～12周目でJD ルート
 
-このパターンで難しいのが、オレンジの2つ目の壁前の小島に2人が集まってしまうところです。1人が早めにジャンプして青に戻り、もう1人のプレイヤーがブロックされないようにすることが非常に重要です。
+このパターンで難しいのが、オレンジの2つ目の壁前の小島に2人が集まってしまうところです。1人が早めにジャンプして青に戻り、もう1人のプレイヤーがブロックされないようにします。
 
 ## 耐久例
 
@@ -202,3 +234,4 @@ Three-Cにちなんで名づけられたルートです。。
 [alexjlockwood]: <https://www.twitch.tv/alexjlockwood> "alexjlockwood's Twitch"
 [PG]: <https://www.twitch.tv/prakhar10gupta> "PG's Twitch"
 [JD]: <https://www.twitch.tv/jdever449> "JD's Twitch"
+[electro8k]: <https://www.youtube.com/@Electro8k> "Electro's YouTube"
