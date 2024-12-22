@@ -8,7 +8,7 @@
 
 ## 경로
 
-9번째 랩에서 마지막 12번째 랩까지 4가지 경로를 선택할 수 있습니다.
+9번째 랩에서 마지막 12번째 랩까지 5가지 경로를 선택할 수 있습니다.
 
 ### Alex의 경로
 
@@ -176,6 +176,35 @@
 | 10 #  | 중간        |
 | 11 #  | 중간        |
 | 12 #  | 중간      |
+
+### Electro의 경로
+
+=== "11번째 랩"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "12번째 랩"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap12.mp4" type="video/mp4">
+    </video>
+
+#### 요약
+
+1. 파란색 열림-닫힘 패턴에서 시작해서 2번의 점프로 도랑을 넘어갑니다.
+2. 주황색 닫힘-열림 패턴의 파란 벽이 지나가면 환승합니다.
+3. 바로 준비하고 파란색 열림-닫힘 패턴으로 점프 다이브해서 환승합니다.
+
+#### 난이도
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | 불가능       |
+| 10    | 불가능       |
+| 11    | 매우 어려움   |
+| 12    | 어려움       |
 
 ## 권장하는 경로
 
