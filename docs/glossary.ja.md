@@ -20,6 +20,7 @@ hide:
 | Dytl ルート                 | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#dytl-ルート)の1つ。[dytlgozj][dytlgozj]にちなんで名づけられた。 |
 | Easy 4(e4)                  | [4ジャン](./rolls/easy-4.md)ロールの英語名称。 |
 | EChan ルート                | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#echan-ルート)の1つ。[EChanTV][EChanTV]にちなんで名づけられた。 |
+| Electro ルート               | [3ジャン+3ジャン](./variations/closed-open-open-closed.md)パターンの耐久[ルート](./variations/closed-open-open-closed.md#electros-ルート)の1つ。[Electro8k][electro8k]にちなんで名づけられた。 |
 | Grand Canyon(gc)            | [大穴](./rolls/grand-canyon.md)ロールの英語名称。 |
 | Isolated Duo(io)            | [中穴](./rolls/isolated-duo.md)ロールの英語名称。 |
 | JD ルート                   | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#dytl-ルート)1つ。[Joey Dever][JD]にちなんで名づけられた。 |
@@ -32,8 +33,9 @@ hide:
 | Sherkhan ルート             | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#sherkhan-ルート)の1つ。[SH3RKH4N][SH3RKH4N]にちなんで名づけられた。 |
 | Suki ルート                 | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#suki-ルート)の1つ。suki_da_yoにちなんで名づけられた。 |
 | Syed ルート                 | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#syed-ルート)の1つ。[Syedhsn555][Syed]にちなんで名づけられた。 |
+| 内壁抜け                    | 壁抜けのうち、反対のロールに近い側で行うもの。 青が[大穴](./rolls/grand-canyon.md)パターンの時に、オレンジのロールで使われることがある。 |
 | 大穴                        | 青の[ロール](./rolls/grand-canyon.md)の1つ。 |
-| 壁抜け                      | ロールの壁の端でジャンプして通り抜ける行為。 |
+| 壁抜け                      | ロールの壁の端でジャンプして通り抜ける行為。外壁抜けと内壁抜けがある。 |
 | 壁まし(青)                  | 青の[ロール](./rolls/pillar-trench.md)の1つ。 |
 | 壁まし(オレンジ)             | オレンジの[ロール](./rolls/5-waller.md)の1つ。 |
 | 神穴(罠穴)                  | [中穴](./rolls/isolated-duo.md)ロールにある、ジャンプで越えれる穴の中で最も大きい穴。神穴でのジャンプのことを[ゴッドジャンプ](./advanced/isolated-duo-god-jumps.md)と呼ぶ。 |
@@ -43,6 +45,7 @@ hide:
 | ゴッドジャンプ               | [中穴](./rolls/isolated-duo.md)ロールにある神穴を飛び越えるのに必要な[ジャンプ](./advanced/isolated-duo-god-jumps.md)のこと。 |
 | サムネイルパターン           | [3ジャン+4ジャン](./variations/closed-open-easy-4.md)パターンを説明するのに使われる別称で、ラウンド紹介画像に表示されているパターンである。 |
 | 周回                        | ロールオフの耐久中にロールが360度回転すること。 |
+| 外壁抜け                    | 壁抜けのうち、反対のロールに遠い側で行うもの。一般に「壁抜け」とは外壁抜けのことを指す。
 | 中穴                        | オレンジと青の[ロール](./rolls/isolated-duo.md)の1つ。 |
 | 鉄骨(レール)                 | ロールの下にある細長い円形の部分。 |
 | 鉄骨渡り                     | ロールの穴に飛び込み、鉄骨を使って連続ジャンプすること。 |
@@ -60,3 +63,4 @@ hide:
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
 [Syed]: <https://www.youtube.com/channel/UCZXTEu6Qa8WDR4IeAyunaig> "Syed's YouTube"
 [dytlgozj]: <https://www.twitch.tv/dytlgozj> "dytlgozj's Twitch"
+[electro8k]: <https://www.youtube.com/@Electro8k> "Electro's YouTube"
