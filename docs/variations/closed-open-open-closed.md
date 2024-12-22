@@ -8,7 +8,7 @@
 
 ## Paths
 
-There are 4 possible paths to take on laps 9-12 of the timeout:
+There are 5 possible paths to take on laps 9-12 of the timeout:
 
 ### Alex's Path
 
@@ -176,6 +176,35 @@ There are 4 possible paths to take on laps 9-12 of the timeout:
 | 10    | Medium     |
 | 11    | Medium     |
 | 12    | Medium     |
+
+### Electro's Path
+
+=== "Lap 11"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap11.mp4" type="video/mp4">
+    </video>
+
+=== "Lap 12"
+
+    <video controls>
+      <source src="/images/variations/closed-open-open-closed-electros-path-lap12.mp4" type="video/mp4">
+    </video>
+
+#### Summary
+
+1. Start 2 jumps on blue
+2. Transfer to orange after the 1st wall passes
+3. Jump dive back to blue
+
+#### Difficulty
+
+| Lap # | Difficulty |
+| ----- | ---------- |
+| 9     | Impossible |
+| 10    | Impossible |
+| 11    | Very hard  |
+| 12    | Hard       |
 
 ## Recommended Pathing
 

@@ -23,6 +23,7 @@ hide:
 | EChan's fortress            | The enclosed section of the [5 Waller](./rolls/5-waller.md) orange roll in between the 3rd and 4th walls. Named after [EChanTV][EChanTV]. |
 | EChan's path                | A [path](./variations/5-waller-open-closed.md#echans-path) used to timeout the [5 Waller + Open-Closed](./variations/5-waller-open-closed.md) variation of Roll Off. Named after [EChanTV][EChanTV]. |
 | Edge                        | The parts of the roll that line each side of the gaps in Roll Off. Can be either purple, orange, or gold. |
+| Electro's path              | A [path](./variations/closed-open-open-closed.md#electros-path) used to timeout Closed-Open + Open-Closed variation of Roll Off. Named after [Electro8k][electro8k]. |
 | Grand Canyon ledge          | The small ledge immediately after the 1st wall on [Grand Canyon](./rolls/grand-canyon.md) blue. |
 | Grand Canyon                | A [blue roll variant](./rolls/grand-canyon.md) in Roll Off. |
 | Isolated Duo                | An [orange & blue roll variant](./rolls/isolated-duo.md) in Roll Off. |
@@ -55,3 +56,4 @@ hide:
 [SH3RKH4N]: <https://www.twitch.tv/sh3rkh4ntv> "SH3RKH4N's Twitch"
 [Syed]: <https://www.youtube.com/channel/UCZXTEu6Qa8WDR4IeAyunaig> "Syed's YouTube"
 [dytlgozj]: <https://www.twitch.tv/dytlgozj> "dytlgozj's Twitch"
+[electro8k]: <https://www.youtube.com/@Electro8k> "Electro's YouTube"
